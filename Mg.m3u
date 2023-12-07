@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTINF:-1,新唐人亚太台
+https://yt-stream.livednow.com/stream/WIhgU_mc05A/master.m3u8
 #EXTINF:-1,CCTV1
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=
 #EXTINF:-1,CCTV2
@@ -79,5 +80,4 @@ http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/yunnan/1000/index.m3u8?&encr
 http://hlsbkmgsplive.miguvideo.com/wd-guizhouwssd-600/index.m3u8?&encrypt=
 #EXTINF:-1,新疆卫视
 http://hlsbkmgsplive.miguvideo.com/wd-xinjiangwssd-600/index.m3u8?&encrypt=
-#EXTINF:-1,新唐人亚太台
-https://yt-stream.livednow.com/stream/WIhgU_mc05A/master.m3u8
+
