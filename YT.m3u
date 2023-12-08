@@ -88,3 +88,5 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 #EXTINF:-1 tvg-name="Taiwan+" group-title="YouTube「P」",Taiwan+
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+EXTINF:-1 新唐人亚太台
+https://yt-stream.livednow.com/stream/WIhgU_mc05A/master.m3u8
