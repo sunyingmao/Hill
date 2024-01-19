@@ -1,180 +1,178 @@
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-
 #EXTINF:-1 ,G导视高清
-http://r.jdshipin.com/Gtx1R?id=gdds
+http://r.jdshipin.com/ihkmX?id=gdds
 #EXTINF:-1 ,翡翠台
-http://r.jdshipin.com/Gtx1R?id=fcthd
+http://r.jdshipin.com/ihkmX?id=fcthd
 #EXTINF:-1 ,翡翠台.720
-http://r.jdshipin.com/Gtx1R?id=fct720
+http://r.jdshipin.com/ihkmX?id=fct720
 #EXTINF:-1 ,明珠台
-http://r.jdshipin.com/Gtx1R?id=mzthd
+http://r.jdshipin.com/ihkmX?id=mzthd
 #EXTINF:-1 ,澳视澳门
-http://r.jdshipin.com/Gtx1R?id=asam
+http://r.jdshipin.com/ihkmX?id=asam
 #EXTINF:-1 ,凤凰中文.576
-http://r.jdshipin.com/Gtx1R?id=fhzw
+http://r.jdshipin.com/ihkmX?id=fhzw
 #EXTINF:-1 ,星空卫视.576
-http://r.jdshipin.com/Gtx1R?id=xkws
+http://r.jdshipin.com/ihkmX?id=xkws
 #EXTINF:-1 ,澳亚卫视.576
-http://r.jdshipin.com/Gtx1R?id=ayws
+http://r.jdshipin.com/ihkmX?id=ayws
 #EXTINF:-1 ,重温经典
-http://r.jdshipin.com/Gtx1R?id=cwjd
+http://r.jdshipin.com/ihkmX?id=cwjd
 #EXTINF:-1 ,广东珠江
-http://r.jdshipin.com/Gtx1R?id=gdzj
+http://r.jdshipin.com/ihkmX?id=gdzj
 #EXTINF:-1 ,广东体育
-http://r.jdshipin.com/Gtx1R?id=gdty
+http://r.jdshipin.com/ihkmX?id=gdty
 #EXTINF:-1 ,广东新闻
-http://r.jdshipin.com/Gtx1R?id=gdxw
+http://r.jdshipin.com/ihkmX?id=gdxw
 #EXTINF:-1 ,广东民生
-http://r.jdshipin.com/Gtx1R?id=gdms
+http://r.jdshipin.com/ihkmX?id=gdms
 #EXTINF:-1 ,广东经济科教
-http://r.jdshipin.com/Gtx1R?id=gdjjkj
+http://r.jdshipin.com/ihkmX?id=gdjjkj
 #EXTINF:-1 ,大湾区卫视
-http://r.jdshipin.com/Gtx1R?id=dwqws
+http://r.jdshipin.com/ihkmX?id=dwqws
 #EXTINF:-1 ,广东影视
-http://r.jdshipin.com/Gtx1R?id=gdys
+http://r.jdshipin.com/ihkmX?id=gdys
 #EXTINF:-1 ,嘉佳卡通
-http://r.jdshipin.com/Gtx1R?id=jjkt
+http://r.jdshipin.com/ihkmX?id=jjkt
 #EXTINF:-1 ,广东少儿
-http://r.jdshipin.com/Gtx1R?id=gdse
+http://r.jdshipin.com/ihkmX?id=gdse
 #EXTINF:-1 ,岭南戏曲
-http://r.jdshipin.com/Gtx1R?id=lnxq
+http://r.jdshipin.com/ihkmX?id=lnxq
 #EXTINF:-1 ,广州综合
-http://r.jdshipin.com/Gtx1R?id=gzzh
+http://r.jdshipin.com/ihkmX?id=gzzh
 #EXTINF:-1 ,广州新闻
-http://r.jdshipin.com/Gtx1R?id=gzxw
+http://r.jdshipin.com/ihkmX?id=gzxw
 #EXTINF:-1 ,广州影视.576
-http://r.jdshipin.com/Gtx1R?id=gzys
+http://r.jdshipin.com/ihkmX?id=gzys
 #EXTINF:-1 ,广州竞赛.576
-http://r.jdshipin.com/Gtx1R?id=gzjs
+http://r.jdshipin.com/ihkmX?id=gzjs
 #EXTINF:-1 ,广州法治.576
-http://r.jdshipin.com/Gtx1R?id=gzfz
+http://r.jdshipin.com/ihkmX?id=gzfz
 #EXTINF:-1 ,增城台
-http://r.jdshipin.com/Gtx1R?id=zctv
+http://r.jdshipin.com/ihkmX?id=zctv
 #EXTINF:-1 ,东莞新闻综合
-http://r.jdshipin.com/Gtx1R?id=dgzh
+http://r.jdshipin.com/ihkmX?id=dgzh
 #EXTINF:-1 ,东莞生活资讯
-http://r.jdshipin.com/Gtx1R?id=dgsh
+http://r.jdshipin.com/ihkmX?id=dgsh
 #EXTINF:-1 ,佛山综合
-http://r.jdshipin.com/Gtx1R?id=fszh
+http://r.jdshipin.com/ihkmX?id=fszh
 #EXTINF:-1 ,佛山公共
-http://r.jdshipin.com/Gtx1R?id=fsgg
+http://r.jdshipin.com/ihkmX?id=fsgg
 #EXTINF:-1 ,佛山影视
-http://r.jdshipin.com/Gtx1R?id=fsys
+http://r.jdshipin.com/ihkmX?id=fsys
 #EXTINF:-1 ,南海综合
-http://r.jdshipin.com/Gtx1R?id=fsnh
+http://r.jdshipin.com/ihkmX?id=fsnh
 #EXTINF:-1 ,顺德综合
-http://r.jdshipin.com/Gtx1R?id=fssd
+http://r.jdshipin.com/ihkmX?id=fssd
 #EXTINF:-1 ,珠海1
-http://r.jdshipin.com/Gtx1R?id=zh1
+http://r.jdshipin.com/ihkmX?id=zh1
 #EXTINF:-1 ,珠海2
-http://r.jdshipin.com/Gtx1R?id=zh2
+http://r.jdshipin.com/ihkmX?id=zh2
 #EXTINF:-1 ,斗门融媒
-http://r.jdshipin.com/Gtx1R?id=zhdm
+http://r.jdshipin.com/ihkmX?id=zhdm
 #EXTINF:-1 ,惠州1
-http://r.jdshipin.com/Gtx1R?id=hz1
+http://r.jdshipin.com/ihkmX?id=hz1
 #EXTINF:-1 ,惠州2
-http://r.jdshipin.com/Gtx1R?id=hz2
+http://r.jdshipin.com/ihkmX?id=hz2
 #EXTINF:-1 ,博罗综合
-http://r.jdshipin.com/Gtx1R?id=blzh
+http://r.jdshipin.com/ihkmX?id=blzh
 #EXTINF:-1 ,惠东综合
-http://r.jdshipin.com/Gtx1R?id=hdzh
+http://r.jdshipin.com/ihkmX?id=hdzh
 #EXTINF:-1 ,惠阳台.576
-http://r.jdshipin.com/Gtx1R?id=hyzh
+http://r.jdshipin.com/ihkmX?id=hyzh
 #EXTINF:-1 ,潮州综合
-http://r.jdshipin.com/Gtx1R?id=czzh
+http://r.jdshipin.com/ihkmX?id=czzh
 #EXTINF:-1 ,潮州民生
-http://r.jdshipin.com/Gtx1R?id=czms
+http://r.jdshipin.com/ihkmX?id=czms
 #EXTINF:-1 ,潮安综合
-http://r.jdshipin.com/Gtx1R?id=cazh
+http://r.jdshipin.com/ihkmX?id=cazh
 #EXTINF:-1 ,饶平台
-http://r.jdshipin.com/Gtx1R?id=rpzh
+http://r.jdshipin.com/ihkmX?id=rpzh
 #EXTINF:-1 ,汕头综合
-http://r.jdshipin.com/Gtx1R?id=stzh
+http://r.jdshipin.com/ihkmX?id=stzh
 #EXTINF:-1 ,汕头经济生活
-http://r.jdshipin.com/Gtx1R?id=stjjsh
+http://r.jdshipin.com/ihkmX?id=stjjsh
 #EXTINF:-1 ,汕头文旅体育
-http://r.jdshipin.com/Gtx1R?id=stwlty
+http://r.jdshipin.com/ihkmX?id=stwlty
 #EXTINF:-1 ,揭阳综合
-http://r.jdshipin.com/Gtx1R?id=jyzh
+http://r.jdshipin.com/ihkmX?id=jyzh
 #EXTINF:-1 ,揭阳生活
-http://r.jdshipin.com/Gtx1R?id=jysh
+http://r.jdshipin.com/ihkmX?id=jysh
 #EXTINF:-1 ,揭东综合.576
-http://r.jdshipin.com/Gtx1R?id=jdzh
+http://r.jdshipin.com/ihkmX?id=jdzh
 #EXTINF:-1 ,中山综合
-http://r.jdshipin.com/Gtx1R?id=zszh
+http://r.jdshipin.com/ihkmX?id=zszh
 #EXTINF:-1 ,中山香山文化
-http://r.jdshipin.com/Gtx1R?id=zsxswh
+http://r.jdshipin.com/ihkmX?id=zsxswh
 #EXTINF:-1 ,中山教育
-http://r.jdshipin.com/Gtx1R?id=zsjy
+http://r.jdshipin.com/ihkmX?id=zsjy
 #EXTINF:-1 ,江门综合
-http://r.jdshipin.com/Gtx1R?id=jmzh
+http://r.jdshipin.com/ihkmX?id=jmzh
 #EXTINF:-1 ,江门侨乡生活.576
-http://r.jdshipin.com/Gtx1R?id=jmqx
+http://r.jdshipin.com/ihkmX?id=jmqx
 #EXTINF:-1 ,鹤山综合
-http://r.jdshipin.com/Gtx1R?id=hszh
+http://r.jdshipin.com/ihkmX?id=hszh
 #EXTINF:-1 ,新会综合.576
-http://r.jdshipin.com/Gtx1R?id=xhzh
+http://r.jdshipin.com/ihkmX?id=xhzh
 #EXTINF:-1 ,梅州1
-http://r.jdshipin.com/Gtx1R?id=mz1
+http://r.jdshipin.com/ihkmX?id=mz1
 #EXTINF:-1 ,梅州2
-http://r.jdshipin.com/Gtx1R?id=mz2
+http://r.jdshipin.com/ihkmX?id=mz2
 #EXTINF:-1 ,梅州导视
-http://r.jdshipin.com/Gtx1R?id=mzds
+http://r.jdshipin.com/ihkmX?id=mzds
 #EXTINF:-1 ,梅县综合
-http://r.jdshipin.com/Gtx1R?id=mxzh
+http://r.jdshipin.com/ihkmX?id=mxzh
 #EXTINF:-1 ,平远综合
-http://r.jdshipin.com/Gtx1R?id=pyzh
+http://r.jdshipin.com/ihkmX?id=pyzh
 #EXTINF:-1 ,五华台.576
-http://r.jdshipin.com/Gtx1R?id=whzh
+http://r.jdshipin.com/ihkmX?id=whzh
 #EXTINF:-1 ,兴宁台.576
-http://r.jdshipin.com/Gtx1R?id=xnzh
+http://r.jdshipin.com/ihkmX?id=xnzh
 #EXTINF:-1 ,茂名综合
-http://r.jdshipin.com/Gtx1R?id=mmzh
+http://r.jdshipin.com/ihkmX?id=mmzh
 #EXTINF:-1 ,茂名文化生活
-http://r.jdshipin.com/Gtx1R?id=mmwhsh
+http://r.jdshipin.com/ihkmX?id=mmwhsh
 #EXTINF:-1 ,信宜台
-http://r.jdshipin.com/Gtx1R?id=xyzh
+http://r.jdshipin.com/ihkmX?id=xyzh
 #EXTINF:-1 ,化州综合.360
-http://r.jdshipin.com/Gtx1R?id=hzzh
+http://r.jdshipin.com/ihkmX?id=hzzh
 #EXTINF:-1 ,云浮综合
-http://r.jdshipin.com/Gtx1R?id=yfzh
+http://r.jdshipin.com/ihkmX?id=yfzh
 #EXTINF:-1 ,云浮文旅.576
-http://r.jdshipin.com/Gtx1R?id=yfwl
+http://r.jdshipin.com/ihkmX?id=yfwl
 #EXTINF:-1 ,河源综合
-http://r.jdshipin.com/Gtx1R?id=hy1
+http://r.jdshipin.com/ihkmX?id=hy1
 #EXTINF:-1 ,河源公共.576
-http://r.jdshipin.com/Gtx1R?id=hy2
+http://r.jdshipin.com/ihkmX?id=hy2
 #EXTINF:-1 ,清远新闻综合
-http://r.jdshipin.com/Gtx1R?id=qyzh
+http://r.jdshipin.com/ihkmX?id=qyzh
 #EXTINF:-1 ,清远文旅生活.576
-http://r.jdshipin.com/Gtx1R?id=qywl
+http://r.jdshipin.com/ihkmX?id=qywl
 #EXTINF:-1 ,佛冈综合.576
-http://r.jdshipin.com/Gtx1R?id=fgzh
+http://r.jdshipin.com/ihkmX?id=fgzh
 #EXTINF:-1 ,英德综合.360
-http://r.jdshipin.com/Gtx1R?id=ydzh
+http://r.jdshipin.com/ihkmX?id=ydzh
 #EXTINF:-1 ,汕尾新闻综合
-http://r.jdshipin.com/Gtx1R?id=swzh
+http://r.jdshipin.com/ihkmX?id=swzh
 #EXTINF:-1 ,汕尾文化生活
-http://r.jdshipin.com/Gtx1R?id=swwh
+http://r.jdshipin.com/ihkmX?id=swwh
 #EXTINF:-1 ,海丰综合
-http://r.jdshipin.com/Gtx1R?id=hfzh
+http://r.jdshipin.com/ihkmX?id=hfzh
 #EXTINF:-1 ,廉江综合-1
-http://r.jdshipin.com/Gtx1R?id=ljzh1
+http://r.jdshipin.com/ihkmX?id=ljzh1
 #EXTINF:-1 ,廉江综合-2
-http://r.jdshipin.com/Gtx1R?id=ljzh2
+http://r.jdshipin.com/ihkmX?id=ljzh2
 #EXTINF:-1 ,湛江综合.576
-http://r.jdshipin.com/Gtx1R?id=zjzh
+http://r.jdshipin.com/ihkmX?id=zjzh
 #EXTINF:-1 ,湛江公共.576
-http://r.jdshipin.com/Gtx1R?id=zjgg
+http://r.jdshipin.com/ihkmX?id=zjgg
 #EXTINF:-1 ,韶关新闻综合.576
-http://r.jdshipin.com/Gtx1R?id=sgzh
+http://r.jdshipin.com/ihkmX?id=sgzh
 #EXTINF:-1 ,韶关绿色生活.576
-http://r.jdshipin.com/Gtx1R?id=sglssh
+http://r.jdshipin.com/ihkmX?id=sglssh
 #EXTINF:-1 ,始兴综合.576
-http://r.jdshipin.com/Gtx1R?id=sxzh
+http://r.jdshipin.com/ihkmX?id=sxzh
 #EXTINF:-1 ,肇庆综合.576
-http://r.jdshipin.com/Gtx1R?id=zqzh
+http://r.jdshipin.com/ihkmX?id=zqzh
 #EXTINF:-1 ,肇庆生活服务.576
-http://r.jdshipin.com/Gtx1R?id=zqsh
+http://r.jdshipin.com/ihkmX?id=zqsh
 #EXTINF:-1 ,怀集综合.576
-http://r.jdshipin.com/Gtx1R?id=hjzh
+http://r.jdshipin.com/ihkmX?id=hjzh
