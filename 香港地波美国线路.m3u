@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="c60d78095c3ab5424654702303e02e02",HOY 國際財經台
 http://headscale.wisdomitc.com:9981/stream/channelid/158862790?profile=pass
-#EXTINF:-1 tvg-id="d6b3c15f8b049540fe182993948185ca",*HOY Infotainment
+#EXTINF:-1 tvg-id="d6b3c15f8b049540fe182993948185ca",HOY 資訊台
 http://headscale.wisdomitc.com:9981/stream/channelid/1606530006?profile=pass
-#EXTINF:-1 tvg-id="ab52cf8efd5f5ef17f04ca8fc7cfe080",*HOY TV
+#EXTINF:-1 tvg-id="ab52cf8efd5f5ef17f04ca8fc7cfe080",HOY TV
 http://headscale.wisdomitc.com:9981/stream/channelid/248468139?profile=pass
 #EXTINF:-1 tvg-id="1035f96bf6fb6faa145927e8c5a62fb7",China Central Television Channel 1 (CCTV-1)
 http://headscale.wisdomitc.com:9981/stream/channelid/1811494160?profile=pass
