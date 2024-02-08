@@ -1,41 +1,80 @@
-#EXTM3U
-#EXTINF:-1,CCTV-4K
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8
-#EXTINF:-1,CCTV-8K
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2020603421.m3u8
-#EXTINF:-1,CCTV-1
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210103.m3u8
-#EXTINF:-1,CCTV-2
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
-#EXTINF:-1,CCTV-3
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
-#EXTINF:-1,CCTV-4
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204803.m3u8
-#EXTINF:-1,CCTV-5
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205103.m3u8
-#EXTINF:-1,CCTV-5+
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204503.m3u8
-#EXTINF:-1,CCTV-6
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
-#EXTINF:-1,CCTV-7
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510003.m3u8
-#EXTINF:-1,CCTV-8
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
-#EXTINF:-1,CCTV-9
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
-#EXTINF:-1,CCTV-10
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
-#EXTINF:-1,CCTV-11
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204103.m3u8
-#EXTINF:-1,CCTV-12
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
-#EXTINF:-1,CCTV-13
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
-#EXTINF:-1,CCTV-14
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204403.m3u8
-#EXTINF:-1,CCTV-15
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205003.m3u8
-#EXTINF:-1,CCTV-16
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375003.m3u8
-#EXTINF:-1,CCTV-17
-http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204203.m3u8
+#EXTINF:-1 group-title="浙江金华移动",CCTV1
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233701
+#EXTINF:-1 group-title="浙江金华移动",CCTV2
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233718
+#EXTINF:-1 group-title="浙江金华移动",CCTV3
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233715
+#EXTINF:-1 group-title="浙江金华移动",CCTV4
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233686
+#EXTINF:-1 group-title="浙江金华移动",CCTV5
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233724
+#EXTINF:-1 group-title="浙江金华移动",CCTV6
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233713
+#EXTINF:-1 group-title="浙江金华移动",CCTV7
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233709
+#EXTINF:-1 group-title="浙江金华移动",CCTV8
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233721
+#EXTINF:-1 group-title="浙江金华移动",CCTV9
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233706
+#EXTINF:-1 group-title="浙江金华移动",CCTV10
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233704
+#EXTINF:-1 group-title="浙江金华移动",CCTV11
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233733
+#EXTINF:-1 group-title="浙江金华移动",CCTV12
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233727
+#EXTINF:-1 group-title="浙江金华移动",CCTV13
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233712
+#EXTINF:-1 group-title="浙江金华移动",CCTV14
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233698
+#EXTINF:-1 group-title="浙江金华移动",CCTV16
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233710
+#EXTINF:-1 group-title="浙江金华移动",CCTV4K
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233679
+#EXTINF:-1 group-title="浙江金华移动",山东卫视
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233641
+#EXTINF:-1 group-title="浙江金华移动",安徽卫视
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233653
+#EXTINF:-1 group-title="浙江金华移动",广东卫视
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233667
+#EXTINF:-1 group-title="浙江金华移动",深圳卫视
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233664
+#EXTINF:-1 group-title="浙江金华移动",湖北卫视
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233668
+#EXTINF:-1 group-title="浙江金华移动",重庆卫视
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233677
+#EXTINF:-1 group-title="浙江金华移动",天津卫视
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233682
+#EXTINF:-1 group-title="浙江金华移动",江苏卫视
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233689
+#EXTINF:-1 group-title="浙江金华移动",黑龙江卫视
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233694
+#EXTINF:-1 group-title="浙江金华移动",浙江卫视
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233695
+#EXTINF:-1 group-title="浙江金华移动",东方卫视
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233692
+#EXTINF:-1 group-title="浙江金华移动",海南卫视
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233697
+#EXTINF:-1 group-title="浙江金华移动",湖南卫视
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233707
+#EXTINF:-1 group-title="浙江金华移动",北京卫视
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233730
+#EXTINF:-1 group-title="浙江金华移动",爱悬疑
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233650
+#EXTINF:-1 group-title="浙江金华移动",爱科幻
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233656
+#EXTINF:-1 group-title="浙江金华移动",爱喜剧
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233658
+#EXTINF:-1 group-title="浙江金华移动",爱院线
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233680
+#EXTINF:-1 group-title="浙江金华移动",爱历史
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233685
+#EXTINF:-1 group-title="浙江金华移动",爱谍战
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233691
+#EXTINF:-1 group-title="浙江金华移动",爱体育
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233700
+#EXTINF:-1 group-title="浙江金华移动",爱旅行
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233703
+#EXTINF:-1 group-title="浙江金华移动",都市剧场
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233659
+#EXTINF:-1 group-title="浙江金华移动",游戏风云
+http://php.jdshipin.com:8880/PLTV/jhyd.php?id=3221233683
