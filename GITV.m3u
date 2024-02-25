@@ -1,126 +1,32 @@
-#EXTINF:-1 group-title="央视频3",CCTV4K
-http://tv2.ydonline.cn/ysp.php?id=cctv4k
-#EXTINF:-1 group-title="央视频3",CCTV8K
-http://tv2.ydonline.cn/ysp.php?id=cctv8k
-#EXTINF:-1 group-title="央视频3",CCTV16-4K
-http://tv2.ydonline.cn/ysp.php?id=cctv16-4k
-#EXTINF:-1 group-title="央视频3",CCTV1
-http://tv2.ydonline.cn/ysp.php?id=cctv1
-#EXTINF:-1 group-title="央视频3",CCTV2
-http://tv2.ydonline.cn/ysp.php?id=cctv2
-#EXTINF:-1 group-title="央视频3",CCTV3
-http://tv2.ydonline.cn/ysp.php?id=cctv3
-#EXTINF:-1 group-title="央视频3",CCTV4
-http://tv2.ydonline.cn/ysp.php?id=cctv4
-#EXTINF:-1 group-title="央视频3",CCTV5
-http://tv2.ydonline.cn/ysp.php?id=cctv5
-#EXTINF:-1 group-title="央视频3",CCTV5+
-http://tv2.ydonline.cn/ysp.php?id=cctv5p
-#EXTINF:-1 group-title="央视频3",CCTV6
-http://tv2.ydonline.cn/ysp.php?id=cctv6
-#EXTINF:-1 group-title="央视频3",CCTV7
-http://tv2.ydonline.cn/ysp.php?id=cctv7
-#EXTINF:-1 group-title="央视频3",CCTV8
-http://tv2.ydonline.cn/ysp.php?id=cctv8
-#EXTINF:-1 group-title="央视频3",CCTV9
-http://tv2.ydonline.cn/ysp.php?id=cctv9
-#EXTINF:-1 group-title="央视频3",CCTV10
-http://tv2.ydonline.cn/ysp.php?id=cctv10
-#EXTINF:-1 group-title="央视频3",CCTV11
-http://tv2.ydonline.cn/ysp.php?id=cctv11
-#EXTINF:-1 group-title="央视频3",CCTV12
-http://tv2.ydonline.cn/ysp.php?id=cctv12
-#EXTINF:-1 group-title="央视频3",CCTV13
-http://tv2.ydonline.cn/ysp.php?id=cctv13
-#EXTINF:-1 group-title="央视频3",CCTV14
-http://tv2.ydonline.cn/ysp.php?id=cctv14
-#EXTINF:-1 group-title="央视频3",CCTV15
-http://tv2.ydonline.cn/ysp.php?id=cctv15
-#EXTINF:-1 group-title="央视频3",CCTV16
-http://tv2.ydonline.cn/ysp.php?id=cctv16
-#EXTINF:-1 group-title="央视频3",CCTV17
-http://tv2.ydonline.cn/ysp.php?id=cctv17
-#EXTINF:-1 group-title="央视频3",北京卫视
-http://tv2.ydonline.cn/ysp.php?id=bjws
-#EXTINF:-1 group-title="央视频3",东方卫视
-http://tv2.ydonline.cn/ysp.php?id=dfws
-#EXTINF:-1 group-title="央视频3",天津卫视
-http://tv2.ydonline.cn/ysp.php?id=tjws
-#EXTINF:-1 group-title="央视频3",重庆卫视
-http://tv2.ydonline.cn/ysp.php?id=cqws
-#EXTINF:-1 group-title="央视频3",黑龙江卫视
-http://tv2.ydonline.cn/ysp.php?id=hljws
-#EXTINF:-1 group-title="央视频3",辽宁卫视
-http://tv2.ydonline.cn/ysp.php?id=lnws
-#EXTINF:-1 group-title="央视频3",河北卫视
-http://tv2.ydonline.cn/ysp.php?id=hbws
-#EXTINF:-1 group-title="央视频3",山东卫视
-http://tv2.ydonline.cn/ysp.php?id=sdws
-#EXTINF:-1 group-title="央视频3",安徽卫视
-http://tv2.ydonline.cn/ysp.php?id=ahws
-#EXTINF:-1 group-title="央视频3",河南卫视
-http://tv2.ydonline.cn/ysp.php?id=hnws
-#EXTINF:-1 group-title="央视频3",湖北卫视
-http://tv2.ydonline.cn/ysp.php?id=hubws
-#EXTINF:-1 group-title="央视频3",湖南卫视
-http://tv2.ydonline.cn/ysp.php?id=hunws
-#EXTINF:-1 group-title="央视频3",江西卫视
-http://tv2.ydonline.cn/ysp.php?id=jxws
-#EXTINF:-1 group-title="央视频3",江苏卫视
-http://tv2.ydonline.cn/ysp.php?id=jsws
-#EXTINF:-1 group-title="央视频3",浙江卫视
-http://tv2.ydonline.cn/ysp.php?id=zjws
-#EXTINF:-1 group-title="央视频3",东南卫视
-http://tv2.ydonline.cn/ysp.php?id=dnws
-#EXTINF:-1 group-title="央视频3",广东卫视
-http://tv2.ydonline.cn/ysp.php?id=gdws
-#EXTINF:-1 group-title="央视频3",深圳卫视
-http://tv2.ydonline.cn/ysp.php?id=szws
-#EXTINF:-1 group-title="央视频3",广西卫视
-http://tv2.ydonline.cn/ysp.php?id=gxws
-#EXTINF:-1 group-title="央视频3",贵州卫视
-http://tv2.ydonline.cn/ysp.php?id=gzws
-#EXTINF:-1 group-title="央视频3",四川卫视
-http://tv2.ydonline.cn/ysp.php?id=scws
-#EXTINF:-1 group-title="央视频3",新疆卫视
-http://tv2.ydonline.cn/ysp.php?id=xjws
-#EXTINF:-1 group-title="央视频3",海南卫视
-http://tv2.ydonline.cn/ysp.php?id=hinws
-#EXTINF:-1 group-title="央视频3",兵器科技
-http://tv2.ydonline.cn/ysp.php?id=bqkj
-#EXTINF:-1 group-title="央视频3",第一剧场
-http://tv2.ydonline.cn/ysp.php?id=dyjc
-#EXTINF:-1 group-title="央视频3",怀旧剧场
-http://tv2.ydonline.cn/ysp.php?id=hjjc
-#EXTINF:-1 group-title="央视频3",风云剧场
-http://tv2.ydonline.cn/ysp.php?id=fyjc
-#EXTINF:-1 group-title="央视频3",风云音乐
-http://tv2.ydonline.cn/ysp.php?id=fyyy
-#EXTINF:-1 group-title="央视频3",风云足球
-http://tv2.ydonline.cn/ysp.php?id=fyzq
-#EXTINF:-1 group-title="央视频3",电视指南
-http://tv2.ydonline.cn/ysp.php?id=dszn
-#EXTINF:-1 group-title="央视频3",女性时尚
-http://tv2.ydonline.cn/ysp.php?id=nxss
-#EXTINF:-1 group-title="央视频3",文化精品
-http://tv2.ydonline.cn/ysp.php?id=whjp
-#EXTINF:-1 group-title="央视频3",世界地理
-http://tv2.ydonline.cn/ysp.php?id=sjdl
-#EXTINF:-1 group-title="央视频3",高尔夫网球
-http://tv2.ydonline.cn/ysp.php?id=gefwq
-#EXTINF:-1 group-title="央视频3",央视台球
-http://tv2.ydonline.cn/ysp.php?id=ystq
-#EXTINF:-1 group-title="央视频3",卫生健康
-http://tv2.ydonline.cn/ysp.php?id=wsjk
-#EXTINF:-1 group-title="央视频3",CGTN
-http://tv2.ydonline.cn/ysp.php?id=cgtn
-#EXTINF:-1 group-title="央视频3",CGTN记录
-http://tv2.ydonline.cn/ysp.php?id=cgtnjl
-#EXTINF:-1 group-title="央视频3",CGTN西语
-http://tv2.ydonline.cn/ysp.php?id=cgtne
-#EXTINF:-1 group-title="央视频3",CGTN法语
-http://tv2.ydonline.cn/ysp.php?id=cgtnf
-#EXTINF:-1 group-title="央视频3",CGTN阿语
-http://tv2.ydonline.cn/ysp.php?id=cgtna
-#EXTINF:-1 group-title="央视频3",CGTN俄语
-http://tv2.ydonline.cn/ysp.php?id=cgtnr
+#EXTINF:-1,CCTV1[1920*1080]
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+#EXTINF:-1,CCTV2[1920*1080]
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+#EXTINF:-1,CCTV3[1920*1080]
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv38m/8000000/mnf.m3u8
+#EXTINF:-1,CCTV4[1920*1080]
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+#EXTINF:-1,CCTV5[1920*1080]
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv58m/8000000/mnf.m3u8
+#EXTINF:-1,CCTV5+[1920*1080]
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+#EXTINF:-1,CCTV6[1920*1080]
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+#EXTINF:-1,CCTV7[1920*1080]
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+#EXTINF:-1,CCTV8[1920*1080]
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+#EXTINF:-1,CCTV9[1920*1080]
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+#EXTINF:-1,CCTV10[1920*1080]
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+#EXTINF:-1,CCTV11[1920*1080]
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+#EXTINF:-1,CCTV12[1920*1080]
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+#EXTINF:-1,CCTV13[1920*1080]
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+#EXTINF:-1,CCTV14[1920*1080]
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+#EXTINF:-1,CCTV15[1920*1080]
+http://qhbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv15hd8m/8000000/mnf.m3u8
