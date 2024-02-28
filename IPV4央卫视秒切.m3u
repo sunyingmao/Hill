@@ -1,6 +1,4 @@
 #EXTM3U
-#EXT-X-APP APTV
-
 #EXTINF:-1 group-title="📡央视备用",CCTV1
 http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv1.m3u8
 #EXTINF:-1 group-title="📡央视备用",CCTV2
