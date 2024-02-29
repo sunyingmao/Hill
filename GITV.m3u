@@ -18,7 +18,23 @@ http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv7.m3u8
 #EXTINF:-1 group-title="📡央视备用",CCTV8
 http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv8.m3u8
 #EXTINF:-1 group-title="📡央视备用",CCTV9
-http://36.156.208.
+http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv9.m3u8
+#EXTINF:-1 group-title="📡央视备用",CCTV10
+http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv10.m3u8
+#EXTINF:-1 group-title="📡央视备用",CCTV11
+http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv11.m3u8
+#EXTINF:-1 group-title="📡央视备用",CCTV12
+http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv12.m3u8
+#EXTINF:-1 group-title="📡央视备用",CCTV13
+http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv13.m3u8
+#EXTINF:-1 group-title="📡央视备用",CCTV14
+http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv14.m3u8
+#EXTINF:-1 group-title="📡央视备用",CCTV15
+http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv15.m3u8
+#EXTINF:-1 group-title="📡央视备用",CCTV16
+http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv16.m3u8
+#EXTINF:-1 group-title="📡央视备用",CCTV17
+http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv17.m3u8
 #EXTINF:-1,广东卫视
 http://aiyun.work.gd/jd.php?id=广东卫视
 #EXTINF:-1,深圳卫视
