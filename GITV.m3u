@@ -1,40 +1,24 @@
 #EXTM3U
-#EXTINF:-1,CCTV1
-http://aiyun.work.gd/jd.php?id=CCTV1综合
-#EXTINF:-1,CCTV2
-http://aiyun.work.gd/jd.php?id=CCTV2财经
-#EXTINF:-1,CCTV3
-http://aiyun.work.gd/jd.php?id=CCTV3综艺
-#EXTINF:-1,CCTV4
-http://aiyun.work.gd/jd.php?id=CCTV4中文国际
-#EXTINF:-1,CCTV5
-http://aiyun.work.gd/jd.php?id=CCTV5体育
-#EXTINF:-1,CCTV6
-http://aiyun.work.gd/jd.php?id=CCTV6电影
-#EXTINF:-1,CCTV7
-http://aiyun.work.gd/jd.php?id=CCTV7国防军事
-#EXTINF:-1,CCTV8
-http://aiyun.work.gd/jd.php?id=CCTV8电视剧
-#EXTINF:-1,CCTV9
-http://aiyun.work.gd/jd.php?id=CCTV9纪录
-#EXTINF:-1,CCTV10
-http://aiyun.work.gd/jd.php?id=CCTV10科教
-#EXTINF:-1,CCTV11
-http://aiyun.work.gd/jd.php?id=CCTV11戏曲
-#EXTINF:-1,CCTV12
-http://aiyun.work.gd/jd.php?id=CCTV12社会与法
-#EXTINF:-1,CCTV13
-http://aiyun.work.gd/jd.php?id=CCTV13新闻
-#EXTINF:-1,CCTV14
-http://aiyun.work.gd/jd.php?id=CCTV14少儿
-#EXTINF:-1,CCTV15
-http://aiyun.work.gd/jd.php?id=CCTV15音乐
-#EXTINF:-1,CCTV16
-http://aiyun.work.gd/jd.php?id=CCTV16奥林匹克
-#EXTINF:-1,CCTV17
-http://aiyun.work.gd/jd.php?id=CCTV17农业农村
-#EXTINF:-1,CCTV5+
-http://aiyun.work.gd/jd.php?id=CCTV5P
+#EXTINF:-1 group-title="📡央视备用",CCTV1
+http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv1.m3u8
+#EXTINF:-1 group-title="📡央视备用",CCTV2
+http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv2.m3u8
+#EXTINF:-1 group-title="📡央视备用",CCTV3
+http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv3.m3u8
+#EXTINF:-1 group-title="📡央视备用",CCTV4
+http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv4.m3u8
+#EXTINF:-1 group-title="📡央视备用",CCTV5
+http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv5.m3u8
+#EXTINF:-1 group-title="📡央视备用",CCTV5+
+http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv5p.m3u8
+#EXTINF:-1 group-title="📡央视备用",CCTV6
+http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv6.m3u8
+#EXTINF:-1 group-title="📡央视备用",CCTV7
+http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv7.m3u8
+#EXTINF:-1 group-title="📡央视备用",CCTV8
+http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv8.m3u8
+#EXTINF:-1 group-title="📡央视备用",CCTV9
+http://36.156.208.
 #EXTINF:-1,广东卫视
 http://aiyun.work.gd/jd.php?id=广东卫视
 #EXTINF:-1,深圳卫视
