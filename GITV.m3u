@@ -1,40 +1,37 @@
-#EXTM3U
-#EXTINF:-1 group-title="📡央视备用",CCTV1
-http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv1.m3u8
-#EXTINF:-1 group-title="📡央视备用",CCTV2
-http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv2.m3u8
-#EXTINF:-1 group-title="📡央视备用",CCTV3
-http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv3.m3u8
-#EXTINF:-1 group-title="📡央视备用",CCTV4
-http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv4.m3u8
-#EXTINF:-1 group-title="📡央视备用",CCTV5
-http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv5.m3u8
-#EXTINF:-1 group-title="📡央视备用",CCTV5+
-http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv5p.m3u8
-#EXTINF:-1 group-title="📡央视备用",CCTV6
-http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv6.m3u8
-#EXTINF:-1 group-title="📡央视备用",CCTV7
-http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv7.m3u8
-#EXTINF:-1 group-title="📡央视备用",CCTV8
-http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv8.m3u8
-#EXTINF:-1 group-title="📡央视备用",CCTV9
-http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv9.m3u8
-#EXTINF:-1 group-title="📡央视备用",CCTV10
-http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv10.m3u8
-#EXTINF:-1 group-title="📡央视备用",CCTV11
-http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv11.m3u8
-#EXTINF:-1 group-title="📡央视备用",CCTV12
-http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv12.m3u8
-#EXTINF:-1 group-title="📡央视备用",CCTV13
-http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv13.m3u8
-#EXTINF:-1 group-title="📡央视备用",CCTV14
-http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv14.m3u8
-#EXTINF:-1 group-title="📡央视备用",CCTV15
-http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv15.m3u8
-#EXTINF:-1 group-title="📡央视备用",CCTV16
-http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv16.m3u8
-#EXTINF:-1 group-title="📡央视备用",CCTV17
-http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv17.m3u8
+#EXTINF:-1 group-title="未分类",CCTV1
+http://183.238.248.84:9000/udp/239.20.0.104:2006
+#EXTINF:-1 group-title="未分类",CCTV2
+http://183.238.248.84:9000/udp/239.20.0.197:2192
+#EXTINF:-1 group-title="未分类",CCTV3
+http://183.238.248.84:9000/udp/239.20.0.28:3292
+#EXTINF:-1 group-title="未分类",CCTV4
+http://183.238.248.84:9000/udp/239.20.0.16:3340
+#EXTINF:-1 group-title="未分类",CCTV5
+http://183.238.248.84:9000/udp/239.20.0.30:3284
+#EXTINF:-1 group-title="未分类",CCTV5+
+http://183.238.248.84:9000/udp/239.20.0.203:2204
+#EXTINF:-1 group-title="未分类",CCTV6
+http://183.238.248.84:9000/udp/239.20.0.29:3288
+#EXTINF:-1 group-title="未分类",CCTV7
+http://183.238.248.84:9000/udp/239.20.0.198:2194
+#EXTINF:-1 group-title="未分类",CCTV8
+http://183.238.248.84:9000/udp/239.20.0.31:3280
+#EXTINF:-1 group-title="未分类",CCTV9
+http://183.238.248.84:9000/udp/239.20.0.199:2196
+#EXTINF:-1 group-title="未分类",CCTV10
+http://183.238.248.84:9000/udp/239.20.0.200:2198
+#EXTINF:-1 group-title="未分类",CCTV11
+http://183.238.248.84:9000/udp/239.21.0.35:3480
+#EXTINF:-1 group-title="未分类",CCTV12
+http://183.238.248.84:9000/udp/239.20.0.201:2200
+#EXTINF:-1 group-title="未分类",CCTV13
+http://183.238.248.84:9000/udp/239.21.0.88:3692
+#EXTINF:-1 group-title="未分类",CCTV14
+http://183.238.248.84:9000/udp/239.20.0.202:2202
+#EXTINF:-1 group-title="未分类",CCTV15
+http://183.238.248.84:9000/udp/239.21.0.36:3484
+#EXTINF:-1 group-title="未分类",CCTV17
+http://183.238.248.84:9000/udp/239.20.0.7:3376
 #EXTINF:-1 group-title="📡卫视频道",东方卫视
 http://125.210.152.21:9121/live/hzgq-dftvgq-h264.m3u8
 #EXTINF:-1 group-title="📡卫视频道",北京卫视
