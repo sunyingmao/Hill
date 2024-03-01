@@ -4,6 +4,8 @@ http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3
 http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 #EXTINF:-1 group-title="📡央视超清",CCTV16
 http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+#EXTINF:-1 group-title="📡央视超清",CCTV12
+http://101.71.176.182:8888/newlive/live/hls/14/live.m3u8
 #EXTINF:-1 group-title="📡央视超清",CCTV11
 http://101.71.176.182:8888/newlive/live/hls/13/live.m3u8
 #EXTINF:-1 group-title="📡央视超清",CCTV10
