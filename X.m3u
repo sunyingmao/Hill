@@ -29,6 +29,10 @@ https://live.metshop.top/yy/1382745178
 http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
 #EXTINF:-1,潮州综合
 http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
+#EXTINF:-1,潮州综合
+http://14.126.29.34:5000/udp/239.253.43.70:5146
+#EXTINF:-1,潮州民生
+http://14.126.29.34:5000/udp/239.253.43.75:5146
 #EXTINF:-1,汕头综合
 http://14.126.29.34:5000/udp/239.253.43.45:5146
 #EXTINF:-1,汕头综合
