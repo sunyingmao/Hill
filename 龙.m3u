@@ -1,0 +1,41 @@
+#EXTM3U
+#EXT-X-APP APTV
+
+#EXTINF:-1 group-title="龍🐉央视全QQ群197853033",CCTV01综合
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576803.m3u8
+#EXTINF:-1 group-title="龍🐉央视全QQ群197853033",CCTV02财经
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576702.m3u8
+#EXTINF:-1 group-title="龍🐉央视全QQ群197853033",CCTV03综艺
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576501.m3u8
+#EXTINF:-1 group-title="龍🐉央视全QQ群197853033",CCTV04国际
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576601.m3u8
+#EXTINF:-1 group-title="龍🐉央视全QQ群197853033",CCTV05体育
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576401.m3u8
+#EXTINF:-1 group-title="龍🐉央视全QQ群197853033",CCTV05++台
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576301.m3u8
+#EXTINF:-1 group-title="龍🐉央视全QQ群197853033",CCTV06电影
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022574301.m3u8
+#EXTINF:-1 group-title="龍🐉央视全QQ群197853033",CCTV07军农
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576201.m3u8
+#EXTINF:-1 group-title="龍🐉央视全QQ群197853033",CCTV08电视
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576101.m3u8
+#EXTINF:-1 group-title="龍🐉央视全QQ群197853033",CCTV9纪录
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576001.m3u8
+#EXTINF:-1 group-title="龍🐉央视全QQ群197853033",CCTV10科教
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022573001.m3u8
+#EXTINF:-1 group-title="龍🐉央视全QQ群197853033",CCTV11戏曲
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575901.m3u8
+#EXTINF:-1 group-title="龍🐉央视全QQ群197853033",CCTV12社会
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575801.m3u8
+#EXTINF:-1 group-title="龍🐉央视全QQ群197853033",CCTV13新闻
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575701.m3u8
+#EXTINF:-1 group-title="龍🐉央视全QQ群197853033",CCTV14少儿
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575601.m3u8
+#EXTINF:-1 group-title="龍🐉央视全QQ群197853033",CCTV15音乐
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575501.m3u8
+#EXTINF:-1 group-title="龍🐉央视全QQ群197853033",CCTV16奥林
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575401.m3u8
+#EXTINF:-1 group-title="龍🐉央视全QQ群197853033",CCTV17农业
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575301.m3u8
+#EXTINF:-1 group-title="龍🐉央视全QQ群197853033",CCTV4K频道
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575202.m3u8
