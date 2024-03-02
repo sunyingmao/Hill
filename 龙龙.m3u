@@ -1,3 +1,42 @@
+
+#EXTINF:-1 group-title="龍🐉央视",CCTV1
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576803.m3u8
+#EXTINF:-1 group-title="龍🐉央视",CCTV2
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576702.m3u8
+#EXTINF:-1 group-title="龍🐉央视",CCTV3
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576501.m3u8
+#EXTINF:-1 group-title="龍🐉央视",CCTV4
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576601.m3u8
+#EXTINF:-1 group-title="龍🐉央视",CCTV5
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576401.m3u8
+#EXTINF:-1 group-title="龍🐉央视",CCTV5+
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576301.m3u8
+#EXTINF:-1 group-title="龍🐉央视",CCTV6
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022574301.m3u8
+#EXTINF:-1 group-title="龍🐉央视",CCTV7
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576201.m3u8
+#EXTINF:-1 group-title="龍🐉央视",CCTV8
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576101.m3u8
+#EXTINF:-1 group-title="龍🐉央视",CCTV9
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022576001.m3u8
+#EXTINF:-1 group-title="龍🐉央视",CCTV10
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022573001.m3u8
+#EXTINF:-1 group-title="龍🐉央视",CCTV11
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575901.m3u8
+#EXTINF:-1 group-title="龍🐉央视",CCTV12
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575801.m3u8
+#EXTINF:-1 group-title="龍🐉央视",CCTV13
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575701.m3u8
+#EXTINF:-1 group-title="龍🐉央视",CCTV14
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575601.m3u8
+#EXTINF:-1 group-title="龍🐉央视",CCTV15
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575501.m3u8
+#EXTINF:-1 group-title="龍🐉央视",CCTV16
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575401.m3u8
+#EXTINF:-1 group-title="龍🐉央视",CCTV17
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575301.m3u8
+#EXTINF:-1 group-title="龍🐉央视",CCTV4K
+http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2022575202.m3u8
 #EXTINF:-1 group-title="龍🐉卫视台",北京卫视
 http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2000272103.m3u8
 #EXTINF:-1 group-title="龍🐉卫视台",东方卫视
