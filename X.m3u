@@ -19,6 +19,8 @@ http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1,GRTN荔枝台
 http://glive.grtn.cn/live/lizhi.m3u8
+#EXTINF:-1,五星体育
+http://129.226.149.79:4785/html/freetest.php?access_token=test1208faku&id=testch6
 #EXTINF:-1,广东珠江
 http://202212251340.iptv.z-link.cn:8800/tsfile/live/0018_1.m3u8?key=txiptv
 #EXTINF:-1,广东珠江
