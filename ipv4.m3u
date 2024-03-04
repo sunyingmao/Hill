@@ -1,6 +1,5 @@
 #EXTM3U
 #EXT-X-APP APTV
-
 #EXTINF:-1 group-title="综合线路",CCTV-1综合
 http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv1.m3u8
 #EXTINF:-1 group-title="综合线路",CCTV-2财经
