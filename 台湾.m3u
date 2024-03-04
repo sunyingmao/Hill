@@ -1,9 +1,0 @@
-#EXTM3U
-#EXT-X-APP APTV
-
-#EXTINF:-1 group-title="台弯测试",环球电视
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 group-title="台弯测试",欧洲华文1台
-http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-#EXTINF:-1 group-title="台弯测试",欧洲华文2台
-http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
