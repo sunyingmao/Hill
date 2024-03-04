@@ -1,0 +1,125 @@
+#EXTM3U
+#EXT-X-APP APTV
+
+#EXTINF:-1 group-title="综合线路",CCTV-1综合
+http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv1.m3u8
+#EXTINF:-1 group-title="综合线路",CCTV-2财经
+http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv2.m3u8
+#EXTINF:-1 group-title="综合线路",CCTV-3综艺
+http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv3.m3u8
+#EXTINF:-1 group-title="综合线路",CCTV-4中文国际
+http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv4.m3u8
+#EXTINF:-1 group-title="综合线路",CCTV-5体育
+http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv5.m3u8
+#EXTINF:-1 group-title="综合线路",CCTV-5+体育赛事
+http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv5p.m3u8
+#EXTINF:-1 group-title="综合线路",CCTV-6电影
+http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv6.m3u8
+#EXTINF:-1 group-title="综合线路",CCTV-7国防军事
+http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv7.m3u8
+#EXTINF:-1 group-title="综合线路",CCTV-8电视剧
+http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv8.m3u8
+#EXTINF:-1 group-title="综合线路",CCTV-纪录9
+http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv9.m3u8
+#EXTINF:-1 group-title="综合线路",CCTV-10科教
+http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv10.m3u8
+#EXTINF:-1 group-title="综合线路",CCTV-11戏曲
+http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv11.m3u8
+#EXTINF:-1 group-title="综合线路",CCTV-12社会与法
+http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv12.m3u8
+#EXTINF:-1 group-title="综合线路",CCTV-13新闻
+http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv13.m3u8
+#EXTINF:-1 group-title="综合线路",CCTV-14少儿
+http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv14.m3u8
+#EXTINF:-1 group-title="综合线路",CCTV-15音乐
+http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv15.m3u8
+#EXTINF:-1 group-title="综合线路",CCTV-16奥林匹克
+http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv16.m3u8
+#EXTINF:-1 group-title="综合线路",CCTV-17农业农村
+http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv17.m3u8
+#EXTINF:-1 group-title="综合线路",重温经典
+http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://124.231.213.131:9999/tsfile/live/1111_1.m3u8
+#EXTINF:-1 group-title="综合线路",CGTN法语
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+#EXTINF:-1 group-title="综合线路",CGTN阿拉伯语
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:-1 group-title="综合线路",CGTN记录
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+#EXTINF:-1 group-title="综合线路",CGTN俄语
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="综合线路",CGTN西语
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="综合线路",CGTN阿语
+https://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 group-title="综合线路",CGTN
+http://221.2.36.34:8888/newlive/live/hls/18/live.m3u8
+#EXTINF:-1 group-title="综合线路",CGTN记录
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+#EXTINF:-1 group-title="综合线路",北京卫视
+http://121.19.134.126:808/hls/27/index.m3u8
+#EXTINF:-1 group-title="综合线路",山东卫视
+http://121.19.134.126:808/hls/38/index.m3u8
+#EXTINF:-1 group-title="综合线路",东方卫视
+http://121.19.134.126:808/hls/45/index.m3u8
+#EXTINF:-1 group-title="综合线路",江苏卫视
+http://121.19.134.126:808/hls/33/index.m3u8
+#EXTINF:-1 group-title="综合线路",湖南卫视
+http://121.19.134.126:808/hls/30/index.m3u8
+#EXTINF:-1 group-title="综合线路",浙江卫视
+http://121.19.134.126:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="综合线路",辽宁卫视
+http://121.19.134.126:808/hls/37/index.m3u8
+#EXTINF:-1 group-title="综合线路",河北卫视
+http://121.19.134.126:808/hls/28/index.m3u8
+#EXTINF:-1 group-title="综合线路",天津卫视
+http://121.19.134.126:808/hls/36/index.m3u8
+#EXTINF:-1 group-title="综合线路",安徽卫视
+http://121.19.134.126:808/hls/34/index.m3u8
+#EXTINF:-1 group-title="综合线路",东南卫视
+http://121.19.134.126:808/hls/35/index.m3u8
+#EXTINF:-1 group-title="综合线路",湖北卫视
+http://121.19.134.126:808/hls/31/index.m3u8
+#EXTINF:-1 group-title="综合线路",深圳卫视
+http://121.19.134.126:808/hls/44/index.m3u8
+#EXTINF:-1 group-title="综合线路",广东卫视
+http://121.19.134.126:808/hls/47/index.m3u8
+#EXTINF:-1 group-title="综合线路",广西卫视
+http://121.19.134.126:808/hls/49/index.m3u8
+#EXTINF:-1 group-title="综合线路",重庆卫视
+http://121.19.134.126:808/hls/46/index.m3u8
+#EXTINF:-1 group-title="综合线路",云南卫视
+http://113.87.49.129:808/hls/49/index.m3u8
+#EXTINF:-1 group-title="综合线路",四川卫视
+http://121.19.134.126:808/hls/41/index.m3u8
+#EXTINF:-1 group-title="综合线路",吉林卫视
+http://121.19.134.126:808/hls/39/index.m3u8
+#EXTINF:-1 group-title="综合线路",江西卫视
+http://121.19.134.126:808/hls/42/index.m3u8
+#EXTINF:-1 group-title="综合线路",贵州卫视
+http://121.19.134.126:808/hls/43/index.m3u8
+#EXTINF:-1 group-title="综合线路",海南卫视
+http://121.19.134.126:808/hls/54/index.m3u8
+#EXTINF:-1 group-title="综合线路",甘肃卫视
+http://119.164.86.120:9901/tsfile/live/0141_1.m3u8
+#EXTINF:-1 group-title="综合线路",宁夏卫视
+https://hls.ningxiahuangheyun.com/live/nxws1M.flv
+#EXTINF:-1 group-title="综合线路",河南卫视
+http://121.19.134.126:808/hls/40/index.m3u8
+#EXTINF:-1 group-title="综合线路",新疆卫视
+http://39.153.247.27:808/hls/42/index.m3u8
+#EXTINF:-1 group-title="综合线路",青海卫视
+http://119.164.86.120:9901/tsfile/live/0140_1.m3u8
+#EXTINF:-1 group-title="综合线路",黑龙江卫视
+http://121.19.134.126:808/hls/29/index.m3u8
+#EXTINF:-1 group-title="综合线路",内蒙古卫视
+https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+#EXTINF:-1 group-title="综合线路",大湾区卫视
+http://gzbyth.cn:8083/hls/20/index.m3u8
+#EXTINF:-1 group-title="综合线路",兵团卫视
+http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226214/1.m3u8
+#EXTINF:-1 group-title="综合线路",延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+#EXTINF:-1 group-title="综合线路",三沙卫视
+https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+#EXTINF:-1 group-title="综合线路",山东教育
+http://182.46.8.160:8018/hls/16/index.m3u8
