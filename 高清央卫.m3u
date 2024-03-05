@@ -38,6 +38,22 @@ http://119.125.134.142:9901/tsfile/live/1148_1.m3u8
 http://119.125.134.142:9901/tsfile/live/1106_1.m3u8
 #EXTINF:-1 group-title="未分类",兵器科技
 http://119.125.134.142:9901/tsfile/live/1110_1.m3u8
+#EXTINF:-1 group-title="未分类",第一剧场
+http://119.125.134.142:9901/tsfile/live/1191_1.m3u8
+#EXTINF:-1 group-title="未分类",风云剧场
+http://119.125.134.142:9901/tsfile/live/1192_1.m3u8
+#EXTINF:-1 group-title="未分类",怀旧剧场
+http://119.125.134.142:9901/tsfile/live/1195_1.m3u8
+#EXTINF:-1 group-title="未分类",世界地理
+http://119.125.134.142:9901/tsfile/live/1197_1.m3u8
+#EXTINF:-1 group-title="未分类",央视台球
+http://119.125.134.142:9901/tsfile/live/1205_1.m3u8
+#EXTINF:-1 group-title="未分类",风云足球
+http://119.125.134.142:9901/tsfile/live/1194_1.m3u8
+#EXTINF:-1 group-title="未分类",风云音乐
+http://119.125.134.142:9901/tsfile/live/1193_1.m3u8
+#EXTINF:-1 group-title="未分类",女性时尚
+http://119.125.134.142:9901/tsfile/live/1196_1.m3u8
 #EXTINF:-1 group-title="未分类",纪实科教
 http://119.125.134.142:9901/tsfile/live/1113_1.m3u8
 #EXTINF:-1 group-title="未分类",央视文化
@@ -60,22 +76,6 @@ http://119.125.134.142:9901/tsfile/live/1124_1.m3u8
 http://119.125.134.142:9901/tsfile/live/1115_1.m3u8
 #EXTINF:-1 group-title="未分类",客家生活
 http://119.125.134.142:9901/tsfile/live/1117_1.m3u8
-#EXTINF:-1 group-title="未分类",第一剧场
-http://119.125.134.142:9901/tsfile/live/1191_1.m3u8
-#EXTINF:-1 group-title="未分类",风云剧场
-http://119.125.134.142:9901/tsfile/live/1192_1.m3u8
-#EXTINF:-1 group-title="未分类",怀旧剧场
-http://119.125.134.142:9901/tsfile/live/1195_1.m3u8
-#EXTINF:-1 group-title="未分类",世界地理
-http://119.125.134.142:9901/tsfile/live/1197_1.m3u8
-#EXTINF:-1 group-title="未分类",央视台球
-http://119.125.134.142:9901/tsfile/live/1205_1.m3u8
-#EXTINF:-1 group-title="未分类",风云足球
-http://119.125.134.142:9901/tsfile/live/1194_1.m3u8
-#EXTINF:-1 group-title="未分类",风云音乐
-http://119.125.134.142:9901/tsfile/live/1193_1.m3u8
-#EXTINF:-1 group-title="未分类",女性时尚
-http://119.125.134.142:9901/tsfile/live/1196_1.m3u8
 #EXTINF:-1 group-title="未分类",CETV
 http://119.125.134.142:9901/tsfile/live/1101_1.m3u8
 #EXTINF:-1 group-title="未分类",CETV1
@@ -101,7 +101,7 @@ http://119.125.134.142:9901/tsfile/live/1123_1.m3u8
 http://119.125.134.142:9901/tsfile/live/1164_1.m3u8
 #EXTINF:-1 group-title="未分类",天津卫视
 http://119.125.134.142:9901/tsfile/live/1165_1.m3u8
-#EXTINF:-1 group-title="未分类",深圳卫市
+#EXTINF:-1 group-title="未分类",深圳卫视
 http://119.125.134.142:9901/tsfile/live/1166_1.m3u8
 #EXTINF:-1 group-title="未分类",安徽卫视
 http://119.125.134.142:9901/tsfile/live/1167_1.m3u8
