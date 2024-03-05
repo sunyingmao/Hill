@@ -23,6 +23,8 @@ http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8
 http://91tv.x3322.net:9921/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="未分类",星空卫视
 http://91tv.x3322.net:9921/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="未分类",lovenature 4k
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="未分类",广东卫视
 http://202212251340.iptv.z-link.cn:8800/tsfile/live/0017_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="未分类",广东新闻
