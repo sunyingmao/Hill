@@ -1,62 +1,62 @@
-#EXTINF:-1 group-title="未分类",CCTV1
+#EXTINF:-1 group-title="央视",CCTV1
 http://119.125.134.142:9901/tsfile/live/1140_1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV2
+#EXTINF:-1 group-title="央视",CCTV2
 http://119.125.134.142:9901/tsfile/live/1141_1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV3
+#EXTINF:-1 group-title="央视",CCTV3
 http://119.125.134.142:9901/tsfile/live/1142_1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV4
+#EXTINF:-1 group-title="央视",CCTV4
 http://119.125.134.142:9901/tsfile/live/1143_1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV5
+#EXTINF:-1 group-title="央视",CCTV5
 http://119.125.134.142:9901/tsfile/live/1144_1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV5+
+#EXTINF:-1 group-title="央视",CCTV5+
 http://119.125.134.142:9901/tsfile/live/1148_1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV6
+#EXTINF:-1 group-title="央视",CCTV6
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
-#EXTINF:-1 group-title="未分类",CCTV7
+#EXTINF:-1 group-title="央视",CCTV7
 http://119.125.134.142:9901/tsfile/live/1145_1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV8
+#EXTINF:-1 group-title="央视",CCTV8
 http://119.125.134.142:9901/tsfile/live/1146_1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV9
+#EXTINF:-1 group-title="央视",CCTV9
 http://119.125.134.142:9901/tsfile/live/1147_1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV10
+#EXTINF:-1 group-title="央视",CCTV10
 http://119.125.134.142:9901/tsfile/live/1149_1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV11
+#EXTINF:-1 group-title="央视",CCTV11
 http://119.125.134.142:9901/tsfile/live/1150_1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV12
+#EXTINF:-1 group-title="央视",CCTV12
 http://119.125.134.142:9901/tsfile/live/1151_1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV13
+#EXTINF:-1 group-title="央视",CCTV13
 http://119.125.134.142:9901/tsfile/live/1152_1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV14
+#EXTINF:-1 group-title="央视",CCTV14
 http://119.125.134.142:9901/tsfile/live/1153_1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV15
+#EXTINF:-1 group-title="央视",CCTV15
 http://119.125.134.142:9901/tsfile/live/1154_1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV16
+#EXTINF:-1 group-title="央视",CCTV16
 http://119.125.134.142:9901/tsfile/live/1155_1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV17
+#EXTINF:-1 group-title="央视",CCTV17
 http://119.125.134.142:9901/tsfile/live/1189_1.m3u8
-#EXTINF:-1 group-title="未分类",电视指南
+#EXTINF:-1 group-title="央视",电视指南
 http://119.125.134.142:9901/tsfile/live/1106_1.m3u8
-#EXTINF:-1 group-title="未分类",兵器科技
+#EXTINF:-1 group-title="央视",兵器科技
 http://119.125.134.142:9901/tsfile/live/1110_1.m3u8
-#EXTINF:-1 group-title="未分类",第一剧场
+#EXTINF:-1 group-title="央视",第一剧场
 http://119.125.134.142:9901/tsfile/live/1191_1.m3u8
-#EXTINF:-1 group-title="未分类",风云剧场
+#EXTINF:-1 group-title="央视",风云剧场
 http://119.125.134.142:9901/tsfile/live/1192_1.m3u8
 #EXTINF:-1 group-title="未分类",怀旧剧场
 http://119.125.134.142:9901/tsfile/live/1195_1.m3u8
-#EXTINF:-1 group-title="未分类",世界地理
+#EXTINF:-1 group-title="央视",世界地理
 http://119.125.134.142:9901/tsfile/live/1197_1.m3u8
-#EXTINF:-1 group-title="未分类",央视台球
+#EXTINF:-1 group-title="央视",央视台球
 http://119.125.134.142:9901/tsfile/live/1205_1.m3u8
-#EXTINF:-1 group-title="未分类",风云足球
+#EXTINF:-1 group-title="央视",风云足球
 http://119.125.134.142:9901/tsfile/live/1194_1.m3u8
-#EXTINF:-1 group-title="未分类",风云音乐
+#EXTINF:-1 group-title="央视",风云音乐
 http://119.125.134.142:9901/tsfile/live/1193_1.m3u8
-#EXTINF:-1 group-title="未分类",女性时尚
+#EXTINF:-1 group-title="央视",女性时尚
 http://119.125.134.142:9901/tsfile/live/1196_1.m3u8
-#EXTINF:-1 group-title="未分类",纪实科教
+#EXTINF:-1 group-title="央视",纪实科教
 http://119.125.134.142:9901/tsfile/live/1113_1.m3u8
-#EXTINF:-1 group-title="未分类",央视文化
+#EXTINF:-1 group-title="央视",央视文化
 http://119.125.134.142:9901/tsfile/live/1188_1.m3u8
 #EXTINF:-1 group-title="未分类",动作电影
 http://119.125.134.142:9901/tsfile/live/1134_1.m3u8
