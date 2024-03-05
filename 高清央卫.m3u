@@ -8,6 +8,8 @@ http://119.125.134.142:9901/tsfile/live/1142_1.m3u8
 http://119.125.134.142:9901/tsfile/live/1143_1.m3u8
 #EXTINF:-1 group-title="未分类",CCTV5
 http://119.125.134.142:9901/tsfile/live/1144_1.m3u8
+#EXTINF:-1 group-title="未分类",CCTV5+
+http://119.125.134.142:9901/tsfile/live/1148_1.m3u8
 #EXTINF:-1 group-title="未分类",CCTV6
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 group-title="未分类",CCTV7
@@ -32,8 +34,6 @@ http://119.125.134.142:9901/tsfile/live/1154_1.m3u8
 http://119.125.134.142:9901/tsfile/live/1155_1.m3u8
 #EXTINF:-1 group-title="未分类",CCTV17
 http://119.125.134.142:9901/tsfile/live/1189_1.m3u8
-#EXTINF:-1 group-title="未分类",CCTV5+
-http://119.125.134.142:9901/tsfile/live/1148_1.m3u8
 #EXTINF:-1 group-title="未分类",电视指南
 http://119.125.134.142:9901/tsfile/live/1106_1.m3u8
 #EXTINF:-1 group-title="未分类",兵器科技
