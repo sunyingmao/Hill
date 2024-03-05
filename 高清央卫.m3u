@@ -1,6 +1,3 @@
-#EXTM3U
-#EXT-X-APP APTV
-
 #EXTINF:-1 group-title="未分类",CCTV1
 http://119.125.134.142:9901/tsfile/live/1140_1.m3u8
 #EXTINF:-1 group-title="未分类",CCTV2
@@ -45,6 +42,24 @@ http://119.125.134.142:9901/tsfile/live/1110_1.m3u8
 http://119.125.134.142:9901/tsfile/live/1113_1.m3u8
 #EXTINF:-1 group-title="未分类",央视文化
 http://119.125.134.142:9901/tsfile/live/1188_1.m3u8
+#EXTINF:-1 group-title="未分类",动作电影
+http://119.125.134.142:9901/tsfile/live/1134_1.m3u8
+#EXTINF:-1 group-title="未分类",家庭影院
+http://119.125.134.142:9901/tsfile/live/1133_1.m3u8
+#EXTINF:-1 group-title="未分类",都市剧场
+http://119.125.134.142:9901/tsfile/live/1137_1.m3u8
+#EXTINF:-1 group-title="未分类",新视觉
+http://119.125.134.142:9901/tsfile/live/1136_1.m3u8
+#EXTINF:-1 group-title="未分类",武术世界
+http://119.125.134.142:9901/tsfile/live/1125_1.m3u8
+#EXTINF:-1 group-title="未分类",文物宝库
+http://119.125.134.142:9901/tsfile/live/1126_1.m3u8
+#EXTINF:-1 group-title="未分类",梨园频道
+http://119.125.134.142:9901/tsfile/live/1124_1.m3u8
+#EXTINF:-1 group-title="未分类",中华美食
+http://119.125.134.142:9901/tsfile/live/1115_1.m3u8
+#EXTINF:-1 group-title="未分类",客家生活
+http://119.125.134.142:9901/tsfile/live/1117_1.m3u8
 #EXTINF:-1 group-title="未分类",第一剧场
 http://119.125.134.142:9901/tsfile/live/1191_1.m3u8
 #EXTINF:-1 group-title="未分类",风云剧场
@@ -71,24 +86,7 @@ http://119.125.134.142:9901/tsfile/live/1158_1.m3u8
 http://119.125.134.142:9901/tsfile/live/1156_1.m3u8
 #EXTINF:-1 group-title="未分类",经济科教
 http://119.125.134.142:9901/tsfile/live/1160_1.m3u8
-#EXTINF:-1 group-title="未分类",动作电影
-http://119.125.134.142:9901/tsfile/live/1134_1.m3u8
-#EXTINF:-1 group-title="未分类",家庭影院
-http://119.125.134.142:9901/tsfile/live/1133_1.m3u8
-#EXTINF:-1 group-title="未分类",都市剧场
-http://119.125.134.142:9901/tsfile/live/1137_1.m3u8
-#EXTINF:-1 group-title="未分类",新视觉
-http://119.125.134.142:9901/tsfile/live/1136_1.m3u8
-#EXTINF:-1 group-title="未分类",武术世界
-http://119.125.134.142:9901/tsfile/live/1125_1.m3u8
-#EXTINF:-1 group-title="未分类",文物宝库
-http://119.125.134.142:9901/tsfile/live/1126_1.m3u8
-#EXTINF:-1 group-title="未分类",梨园频道
-http://119.125.134.142:9901/tsfile/live/1124_1.m3u8
-#EXTINF:-1 group-title="未分类",中华美食
-http://119.125.134.142:9901/tsfile/live/1115_1.m3u8
-#EXTINF:-1 group-title="未分类",客家生活
-http://119.125.134.142:9901/tsfile/live/1117_1.m3u8
+
 #EXTINF:-1 group-title="未分类",吉林卫视
 http://119.125.134.142:9901/tsfile/live/1114_1.m3u8
 #EXTINF:-1 group-title="未分类",黑龙江卫视
