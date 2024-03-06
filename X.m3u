@@ -35,6 +35,8 @@ http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
 http://61.140.201.112:8028/udp/239.253.43.70:5146
 #EXTINF:-1,潮州民生
 http://61.140.201.112:8028/udp/239.253.43.75:5146
+#EXTINF:-1,潮州戏剧
+http://120.84.121.86:808/hls/84/index.m3u8
 #EXTINF:-1,汕头综合
 http://183.29.197.72:8686/udp/239.253.43.45:5146
 #EXTINF:-1,汕头综合
