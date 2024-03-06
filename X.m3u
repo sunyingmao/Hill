@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1,翡翠台
 http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8
+#EXTINF:-1,NOW星影台
+http://m.xoxtvs.com/ott/?q=01d7727fdf496a093d986c0419233d1c&amp;id=881
+#EXTINF:-1,NOW爆谷台
+http://m.xoxtvs.com/ott/?q=01d7727fdf496a093d986c0419233d1c&amp;id=880
+#EXTINF:-1,美亚电影-港版
+http://m.xoxtvs.com/ott/?q=01d7727fdf496a093d986c0419233d1c&amp;id=862
 #EXTINF:-1,斗鱼4K电影
 http://159.75.85.63:35455/douyu/9249162
 #EXTINF:-1,AXN台湾
