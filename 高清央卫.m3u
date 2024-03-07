@@ -62,7 +62,7 @@ http://119.125.134.142:9901/tsfile/live/1196_1.m3u8
 http://119.125.134.142:9901/tsfile/live/1113_1.m3u8
 #EXTINF:-1 group-title="央视",央视文化
 http://119.125.134.142:9901/tsfile/live/1188_1.m3u8
-#EXTINF:-1 group-title="未分类",动作电影
+#EXTINF:-1 group-title="未分类",CHC动作电影
 http://119.125.134.142:9901/tsfile/live/1134_1.m3u8
 #EXTINF:-1 group-title="未分类",家庭影院
 http://119.125.134.142:9901/tsfile/live/1133_1.m3u8
