@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:-1,翡翠台
 http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8
+#EXTINF:-1,漫威影片
+http://43.138.170.29:35455/douyu/6140589
 #EXTINF:-1,斗鱼4K电影
 http://159.75.85.63:35455/douyu/9249162
 #EXTINF:-1,AXN台湾
 http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+#EXTINF:-1,喜剧电影
+http://159.75.85.63:35455/douyu/9292492
 #EXTINF:-1,新唐人亚太台
 https://youtube.livednow.com/stream/WIhgU_mc05A
 #EXTINF:-1,摔跤
