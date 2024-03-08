@@ -29,8 +29,6 @@ http://202212251340.iptv.z-link.cn:8800/tsfile/live/0018_1.m3u8?key=txiptv
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1,重温经典
 http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://124.231.213.131:9999/tsfile/live/1111_1.m3u8
-#EXTINF:-1,经典再现
-http://183.222.72.116:6868/rtp/239.10.0.130:5140
 #EXTINF:-1,潮州民生
 http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
 #EXTINF:-1,潮州综合
@@ -39,8 +37,6 @@ http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
 http://61.140.201.112:8028/udp/239.253.43.70:5146
 #EXTINF:-1,潮州民生
 http://61.140.201.112:8028/udp/239.253.43.75:5146
-#EXTINF:-1,潮州戏剧
-http://120.84.121.86:808/hls/84/index.m3u8
 #EXTINF:-1,汕头综合
 http://183.29.197.72:8686/udp/239.253.43.45:5146
 #EXTINF:-1,汕头综合
