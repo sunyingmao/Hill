@@ -15,6 +15,8 @@ https://youtube.livednow.com/stream/WIhgU_mc05A
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1,凤凰电影台
 http://221.7.175.154:8445/tsfile/live/1022_1.m3u8
+#EXTINF:-1,星空卫视
+http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1,TVB功夫台
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1,TVB星河频道
