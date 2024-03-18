@@ -1,0 +1,35 @@
+#EXTM3U
+#EXT-X-APP APTV
+
+#EXTINF:-1 group-title="未分类",翡翠台（廣電 IPv6）
+http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="未分类",明珠台（廣電 IPv6）
+http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="未分类",澳門澳視（廣電 IPv6）
+http://iptv.hiper25.com:42487/TDM/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="未分类",廣東衛視（廣電 IPv6）
+http://iptv.hiper25.com:42487/guangdongHD/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="未分类",廣東珠江（廣電 IPv6）
+http://iptv.hiper25.com:42487/gdzhujiangHD/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="未分类",廣東體育（廣電 IPv6）
+http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="未分类",廣東新聞（廣電 IPv6）
+http://iptv.hiper25.com:42487/guangdongnews/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="未分类",廣東民生（廣電 IPv6）
+http://iptv.hiper25.com:42487/guangdongmingsheng/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="未分类",廣東經濟科教（廣電 IPv6）
+http://iptv.hiper25.com:42487/GDjingjikejiaoHD/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="未分类",大灣區衛視（廣電 IPv6）
+http://iptv.hiper25.com:42487/gdnanfang/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="未分类",廣東影視（廣電 IPv6）
+http://iptv.hiper25.com:42487/gdyingshi/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="未分类",岭南戏曲（廣電 IPv6）
+http://iptv.hiper25.com:42487/lingnanxiqu/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="未分类",廣州綜合（廣電 IPv6）
+http://iptv.hiper25.com:42487/guangzhouzonghe/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="未分类",廣州新聞（廣電 IPv6）
+http://iptv.hiper25.com:42487/guangzhouxinwen/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="未分类",勁爆體育（廣電 IPv6）
+http://iptv.hiper25.com:42487/jingbaotiyu/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="未分类",新視覺（廣電 IPv6）
+http://iptv.hiper25.com:42487/xinshijue/video.m3u8?token=1710447330
