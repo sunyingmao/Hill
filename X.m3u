@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,漫威影片
 http://43.138.170.29:35455/douyu/6140589
+#EXTINF:-1,Now 星影台
+https://histar-proxy.isus.cc/now-baogu-superstars
 #EXTINF:-1,Now 爆谷台
 https://histar-proxy.isus.cc/baogu-movies
 #EXTINF:-1,斗鱼4K电影
