@@ -1,0 +1,27 @@
+#EXTM3U
+#EXT-X-APP APTV
+
+#EXTINF:-1 tvg-id="J" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" group-title="未分类",翡翠台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=43ad520593b1e52cd4a1d40e04fa9818&ext_start_limit=1718042150&int_start_limit=1718042150&ts=1718042150&c=850464580
+#EXTINF:-1 tvg-id="JUHD" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" group-title="未分类",翡翠台 4K
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=81c43c7e1db22e635981e07c9435d97e&ext_start_limit=1718042150&int_start_limit=1718042150&ts=1718042150&c=850464580
+#EXTINF:-1 tvg-id="B" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png" group-title="未分类",TVBplus
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=313ed2806d5d6bf943ad416b23151557&ext_start_limit=1718042150&int_start_limit=1718042150&ts=1718042150&c=850464580
+#EXTINF:-1 tvg-id="P" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" group-title="未分类",明珠台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=3d26dd303ffa2631c3b51bb7b2c8f014&ext_start_limit=1718042151&int_start_limit=1718042151&ts=1718042151&c=850464580
+#EXTINF:-1 tvg-id="CWIN" group-title="未分类",Super Free
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=f60f38995a56b7886eb595f3b05f47a0&ext_start_limit=1718042151&int_start_limit=1718042151&ts=1718042151&c=850464580
+#EXTINF:-1 tvg-id="TVG" tvg-logo="https://github.com/sparkssssssssss/epg/blob/main/logo/%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0.png?raw=true" group-title="未分类",黄金翡翠台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=1d2f29c78f4648ab5558d6b5fc123bc2&ext_start_limit=1718042151&int_start_limit=1718042151&ts=1718042151&c=850464580
+#EXTINF:-1 tvg-id="C" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="未分类",无线新闻台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=864419fb8cd8a1c346bccbe835296a0a&ext_start_limit=1718042152&int_start_limit=1718042152&ts=1718042152&c=850464580
+#EXTINF:-1 tvg-id="CTVE" tvg-logo="https://github.com/sparkssssssssss/epg/blob/main/logo/%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png?raw=true" group-title="未分类",娱乐新闻台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=bf3f0978ccca07159ca1994170ddac6f&ext_start_limit=1718042152&int_start_limit=1718042152&ts=1718042152&c=850464580
+#EXTINF:-1 tvg-id="PCC" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="未分类",凤凰卫视中文台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=f1ad8c76bd89c37c866a7f421d02dacb&ext_start_limit=1718042152&int_start_limit=1718042152&ts=1718042152&c=850464580
+#EXTINF:-1 tvg-id="PIN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="未分类",凤凰卫视资讯台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=d0898c854ba1d8114827a7def99f76eb&ext_start_limit=1718042152&int_start_limit=1718042152&ts=1718042152&c=850464580
+#EXTINF:-1 tvg-id="PHK" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" group-title="未分类",凤凰卫视香港台
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=0d8c7868e6760e8529188d902babe438&ext_start_limit=1718042153&int_start_limit=1718042153&ts=1718042153&c=850464580
+#EXTINF:-1 tvg-id="PHK" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" group-title="未分类",凤凰卫视香港台
+%E8%AF%B7%E6%B1%82%E5%A4%B1%E8%B4%A5
