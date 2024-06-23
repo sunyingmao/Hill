@@ -3,9 +3,9 @@
 https://histar.isus.cc/now-sports-618
 #EXTINF:-1,漫威影片
 http://43.138.170.29:35455/douyu/6140589
-#EXTINF:-1,Now 星影台
+#EXTINF:-1 tvg-id="Now 星影台" tvg-name="Now 星影台" tvg-logo="https://isus.cc/share/logo/Now-星影台.png,Now 星影台
 https://histar.isus.cc/now-baogu-superstars
-#EXTINF:-1,Now 爆谷台
+#EXTINF:-1 tvg-id="Now 爆谷台" tvg-name="Now 爆谷台" tvg-logo="https://isus.cc/share/logo/Now-爆谷台.png,Now 爆谷台
 https://histar.isus.cc/baogu-movies
 #EXTINF:-1,Now Sports 618 欧洲杯
 https://histar.isus.cc/now-sports-618
