@@ -11,8 +11,16 @@ https://histar.isus.cc/baogu-movies
 https://histar.isus.cc/now-sports-618
 #EXTINF:-1,C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1,AXN台湾
-http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+#EXTINF:-1,Now Sports 641
+https://histar.isus.cc/now-sports641
+#EXTINF:-1,Now NBA
+https://histar.isus.cc/now-nba
+#EXTINF:-1,18台
+https://histar.isus.cc/hkc18
+#EXTINF:-1,TVB 黄金华剧台
+https://histar.isus.cc/golden-chinese-drama
+#EXTINF:-1,Now华剧台
+https://histar.isus.cc/now-chinese-drama
 #EXTINF:-1,喜剧电影
 http://159.75.85.63:35455/douyu/9292492
 #EXTINF:-1,新唐人亚太台
