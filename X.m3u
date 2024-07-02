@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Now Sports 618 欧洲杯" tvg-name="Now Sports 618 欧洲杯" tvg-logo="https://isus.cc/share/logo/Now-Sports-618-欧洲杯.png,Now Sports 618
+#EXTINF:-1 tvg-id="Now Sports 618 欧洲杯" tvg-name="Now Sports 618 欧洲杯" tvg-logo="https://isus.cc/share/logo/Now-Sports-618-欧洲杯.png,Now Sports618
 https://histar.isus.cc/now-sports-618
 #EXTINF:-1,漫威影片
 http://live.iill.top/douyu.php?id=6140589
@@ -9,7 +9,7 @@ https://histar.isus.cc/meiah-movies
 https://histar.isus.cc/now-baogu-superstars
 #EXTINF:-1 tvg-id="Now 爆谷台" tvg-name="Now 爆谷台" tvg-logo="https://isus.cc/share/logo/Now-爆谷台.png,Now 爆谷台
 https://histar.isus.cc/baogu-movies
-#EXTINF:-1,Now Sports 618
+#EXTINF:-1,Now Sports618
 https://histar.isus.cc/now-sports-618
 #EXTINF:-1,C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
