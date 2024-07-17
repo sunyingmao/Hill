@@ -1,132 +1,146 @@
-#EXTINF:-1 group-title="📡央视超清",CCTV16
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-#EXTINF:-1 group-title="📡央视超清",CCTV15
-http://101.71.176.182:8888/newlive/live/hls/17/live.m3u8
-#EXTINF:-1 group-title="📡央视超清",CCTV14
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
-#EXTINF:-1 group-title="📡央视超清",CCTV13
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-#EXTINF:-1 group-title="📡央视超清",CCTV12
-http://101.71.176.182:8888/newlive/live/hls/14/live.m3u8
-#EXTINF:-1 group-title="📡央视超清",CCTV11
-http://101.71.176.182:8888/newlive/live/hls/13/live.m3u8
-#EXTINF:-1 group-title="📡央视超清",CCTV10
-http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
-#EXTINF:-1 group-title="📡央视超清",CCTV9
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-#EXTINF:-1 group-title="📡央视超清",CCTV8
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-#EXTINF:-1 group-title="📡央视超清",CCTV7
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225778/1.m3u8
-#EXTINF:-1 group-title="📡央视超清",CCTV7
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-#EXTINF:-1 group-title="📡央视超清",CCTV6
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-#EXTINF:-1 group-title="📡央视超清",CCTV5+
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-#EXTINF:-1 group-title="📡央视超清",CCTV5
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-#EXTINF:-1 group-title="📡央视超清",CCTV4
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-#EXTINF:-1 group-title="📡央视超清",CCTV3
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-#EXTINF:-1 group-title="📡央视超清",CCTV2
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-#EXTINF:-1 group-title="📡央视超清",CCTV1
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-#EXTINF:-1 group-title="📡卫视频道",东方卫视
-http://125.210.152.21:9121/live/hzgq-dftvgq-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",北京卫视
-http://125.210.152.21:9121/live/hzgq-bjgqws-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",天津卫视
-http://125.210.152.21:9121/live/hzgq-tjwsgq-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",重庆卫视
-http://125.210.152.21:9121/live/hzgq-cqwsgq-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",黑龙江卫视
-http://125.210.152.21:9121/live/hzgq-hljwsgq-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",吉林卫视
-http://125.210.152.21:9121/live/hzgq-jlwsgq-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",内蒙古卫视
-http://125.210.152.21:9121/live/hszx-nmgtv-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",宁夏卫视
-http://125.210.152.21:9121/live/hszx-nxtv-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",甘肃卫视
-http://125.210.152.21:9121/live/hszx-gstv-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",青海卫视
-http://125.210.152.21:9121/live/hszx-qhtv-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",陕西卫视
-http://125.210.152.21:9121/live/hszx-sxtv-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",河北卫视
-http://125.210.152.21:9121/live/hzgq-hbwsgq1-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",山西卫视
-http://125.210.152.21:9121/live/hszx-shanxitv-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",山东卫视
-http://125.210.152.21:9121/live/hzgq-sdwsgq-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",安徽卫视
-http://125.210.152.21:9121/live/hzgq-ahwsgq-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",河南卫视
-http://125.210.152.21:9121/live/hzgq-henanwsgq-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",湖北卫视
-http://125.210.152.21:9121/live/hzgq-hbwsgq-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",湖南卫视
-http://125.210.152.21:9121/live/hzgq-hnwsgq-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",江西卫视
-http://125.210.152.21:9121/live/hzgq-jxwsgq-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",江苏卫视
-http://125.210.152.21:9121/live/hzgq-jswsgq-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",浙江卫视
-http://125.210.152.21:9121/live/hzgq-zjwsgq-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",东南卫视
-http://125.210.152.21:9121/live/hzgq-fjwsgq-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",广东卫视
-http://125.210.152.21:9121/live/hzgq-gdwsgq-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",深圳卫视
-http://125.210.152.21:9121/live/hzgq-szwsgq-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",广西卫视
-http://125.210.152.21:9121/live/hszx-gxtv-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",云南卫视
-http://125.210.152.21:9121/live/hzgq-ynwsgq-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",贵州卫视
-http://125.210.152.21:9121/live/hszx-gztv-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",四川卫视
-http://125.210.152.21:9121/live/hszx-sctv-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",新疆卫视
-http://125.210.152.21:9121/live/hszx-xjtv-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",兵团卫视
-http://125.210.152.21:9121/live/hszx-bttv-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",西藏卫视
-http://125.210.152.21:9121/live/hszx-xztv-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",海南卫视
-http://125.210.152.21:9121/live/hszx-lytv-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",三沙卫视
-http://125.210.152.21:9121/live/hzgq-ssws-h264.m3u8
-#EXTINF:-1 group-title="📡卫视频道",江西卫视
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225764/1.m3u8
-#EXTINF:-1 group-title="📡卫视频道",东南卫视
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225766/1.m3u8
-#EXTINF:-1 group-title="📡卫视频道",四川卫视
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225768/1.m3u8
-#EXTINF:-1 group-title="📡卫视频道",广西卫视
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225770/1.m3u8
-#EXTINF:-1 group-title="📡卫视频道",安徽卫视
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225773/1.m3u8
-#EXTINF:-1 group-title="📡卫视频道",新疆卫视
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225747/1.m3u8
-#EXTINF:-1 group-title="📡卫视频道",甘肃卫视
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225754/1.m3u8
-#EXTINF:-1 group-title="📡卫视频道",浙江卫视
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
-#EXTINF:-1 group-title="📡卫视频道",山东卫视
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
-#EXTINF:-1 group-title="📡卫视频道",江苏卫视
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226200/1.m3u8
-#EXTINF:-1 group-title="📡卫视频道",深圳卫视
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226205/1.m3u8
-#EXTINF:-1 group-title="📡卫视频道",兵团卫视
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226214/1.m3u8
-#EXTINF:-1 group-title="📡卫视频道",广东卫视
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226216/1.m3u8
-#EXTINF:-1 group-title="📡卫视频道",北京卫视
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
-#EXTINF:-1 group-title="📡卫视频道",农林卫视
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+#EXTINF:-1 group-title="未分类",CCTV1
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV1
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV2
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV2HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV3
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV3_HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV3
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV3_HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV4
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV4HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV4
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV4HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV5
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV5
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV6
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV6_HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV8
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV8_HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV8
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV8_HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV9
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV9HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV9
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV9HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV10
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV10HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV10
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV10HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV11
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV11
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV12
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV12HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV12
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV12HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV13
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV13HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV13
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV13HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV14
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV14HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV14
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV14HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",CCTV16
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV16HD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",安徽卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/ANHUIHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",安徽卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/ANHUIHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",北京卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/BEIJHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",北京卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/BEIJHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",东方卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/DONGFHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",东方卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/DONGFHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",东南卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/DONGNHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",东南卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/DONGNHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",广东卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/GUANGDHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",广东卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/GUANGDHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",广西卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/GUANGXHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",广西卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/GUANGXHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",贵州卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/GUIZHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",贵州卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/GUIZHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",海南卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",海南卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",河北卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/HAIBHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",河北卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/HAIBHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",河南卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/HENHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",河南卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/HENHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",黑龙江卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/HEILJHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",黑龙江卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/HEILJHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",湖北卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/HUBEIHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",湖北卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/HUBEIHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",湖南卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/HUNANHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",湖南卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/HUNANHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",吉林卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/JILHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",吉林卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/JILHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",江苏卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/JIANGSHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",江苏卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/JIANGSHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",江西经济生活
+http://jxcbn.ws-cdn.gitv.tv/hls/JXJJSHHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",江西少儿
+http://jxcbn.ws-cdn.gitv.tv/hls/JXSEHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",江西卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/JXWSHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",江西卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/JXWSHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",江西新闻
+http://jxcbn.ws-cdn.gitv.tv/hls/JXXWHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",金鹰纪实
+http://jxcbn.ws-cdn.gitv.tv/hls/JYJSHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",金鹰卡通
+http://jxcbn.ws-cdn.gitv.tv/hls/JYKTHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",辽宁卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/LIAONHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",辽宁卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/LIAONHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",山东卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/SHANDHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",深圳卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/SHENZHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",深圳卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/SHENZHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",四川卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/SICHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",四川卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/SICHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",天津卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/TIANJHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",云南卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/YUNNHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",浙江卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/ZHEJHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
+#EXTINF:-1 group-title="未分类",重庆卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/CHONGQHD/index.m3u8?gMac=unknown&fromCDN=ws&livodToken=123
