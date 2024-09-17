@@ -19,7 +19,7 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 group-title="未分类",HOY 资讯台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="Now 星影台" tvg-name="Now 星影台" tvg-logo="https://isus.cc/share/logo/Now-星影台.png,Now 星影台
-https://histar.isus.cc/now-baogu-superstars
+https://live.hkdvb.com/hls/live/138.m3u8?token=730420418642906
 #EXTINF:-1 tvg-id="Now 爆谷台" tvg-name="Now 爆谷台" tvg-logo="https://isus.cc/share/logo/Now-爆谷台.png,Now 爆谷台
 https://live.hkdvb.com/hls/live/630.m3u8?token=730420418642906
 #EXTINF:-1,Now华剧台
