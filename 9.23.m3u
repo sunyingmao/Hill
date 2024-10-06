@@ -1,1 +1,37 @@
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8%24%E5%8F%AF%E5%9B%9E%E6%94%BE#http://vapi.91kds.cc/live1/jdtv2.m3u8?id=cctv1hd&apiKey=73c963d13814ce7d0e4743c5e7d033cc%24%E9%85%92%E5%BA%97%E6%BA%901080P#http://47.109.155.164/jd/%E5%B1%B1%E8%A5%BF.php?id=cctv1%24%E9%85%92%E5%BA%97%E6%BA%90#http://bxny.667789.cn:88/hls/1/index.m3u8%24%E5%93%88%E5%B0%94%E6%BB%A8%E8%81%94%E9%80%9A%E9%85%92%E5%BA%97%E6%A0%87%E6%B8%85#http://video.qd.sdu.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/index.m3u8%24%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E6%BA%90
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://video.qd.sdu.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/index.m3u8%24%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E6%BA%90#http://vapi.91kds.cc/live1/cqyx.m3u8?id=cctv2hd&apiKey=73c963d13814ce7d0e4743c5e7d033cc%24%E9%87%8D%E5%BA%86%E6%9C%89%E7%BA%BF
+#EXTINF:-1 group-title="央视频道",CCTV3
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8#http://27.40.16.70:8114/GD_CUCC/G_CCTV-5-CQ.m3u8?Provider_id=&Pcontent_id=&FvSeid=ace%24%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8#http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8%24%E8%B6%85%E6%B8%85IPv6#http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/211/2024079303.m3u8%24%E5%A4%AE%E8%A7%86%E9%A2%911080P
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://bxny.667789.cn:88/hls/17/index.m3u8%24%E5%93%88%E5%B0%94%E6%BB%A8%E7%94%B5%E4%BF%A1%E9%85%92%E5%BA%97
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8#http://[2409:8087:5e08:24::5]:6610/000000001000/5350361928876847638/1.m3u8?Contentid=5350361928876847638&livemode=1&stbId=3&channel-id=hnbblive
 
