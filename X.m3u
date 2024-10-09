@@ -2,6 +2,18 @@
 http://live.iill.top/douyu.php?id=6140589
 #EXTINF:-1,1905国内电影
 https://isus.cc/php/1905.php?id=1905a
+#EXTINF:-1,红牛体育
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1,美亚C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1,電影🎬
+https://epg.pw/stream/f41827a1237e7180f5397cd04a3521f6bffe93737f13bd0f27dadeaa4f900746.ctv
+#EXTINF:-1,亚洲卫视
+https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
+#EXTINF:-1,环球卫视
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1,CCTV6
+http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 group-title="未分类",港台電視31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="未分类",港台电视32
@@ -26,8 +38,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1,星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
-#EXTINF:-1,GRTN荔枝台
-http://glive.grtn.cn/live/lizhi.m3u8
 #EXTINF:-1,广东珠江
 http://113.94.86.164:8888/udp/239.77.0.114:5146
 #EXTINF:-1,广东珠江
