@@ -1,9 +1,5 @@
 #EXTINF:-1,漫威影片
 http://live.iill.top/douyu.php?id=6140589
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视IPV4",CHC动作电影
-http://148.135.93.213:81/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视IPV4",CHC影迷电影
-http://148.135.93.213:81/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1
 #EXTINF:-1,1905国内电影
 https://isus.cc/php/1905.php?id=1905a
 #EXTINF:-1 group-title="未分类",港台電視31
@@ -22,51 +18,31 @@ https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 group-title="未分类",HOY 资讯台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-id="Now 星影台" tvg-name="Now 星影台" tvg-logo="https://isus.cc/share/logo/Now-星影台.png,Now 星影台
-https://live.hkdvb.com/hls/live/138.m3u8?token=730420418642906
-#EXTINF:-1 tvg-id="Now 爆谷台" tvg-name="Now 爆谷台" tvg-logo="https://isus.cc/share/logo/Now-爆谷台.png,Now 爆谷台
-https://live.hkdvb.com/hls/live/630.m3u8?token=730420418642906
-#EXTINF:-1,Now华剧台
-https://histar.isus.cc/now-chinese-drama
-#EXTINF:-1,18台
-https://histar.isus.cc/hkc18
-#EXTINF:-1,TVB 黄金华剧台
-https://histar.isus.cc/golden-chinese-drama
-#EXTINF:-1,Now jelli紫金国际台
-https://histar.isus.cc/now-jelli
 #EXTINF:-1,喜剧电影
 http://159.75.85.63:35455/douyu/9292492
-#EXTINF:-1,新唐人亚太台
-https://tv.iill.top/youtube/NTDAPTV
 #EXTINF:-1,lovenature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,摔跤
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1,星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
-#EXTINF:-1,TVB功夫台
-http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1,TVB星河频道
-http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1,TVB娱乐新闻台
-http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1,GRTN荔枝台
 http://glive.grtn.cn/live/lizhi.m3u8
 #EXTINF:-1,广东珠江
-http://113.119.195.184:9999/udp/239.77.0.114:5146
+http://121.13.85.170:8000/udp/239.77.0.114:5146
 #EXTINF:-1,广东珠江
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1,潮州综合
-http://113.119.195.184:9999/udp/239.253.43.70:5146
+http://121.13.85.170:8000/udp/239.253.43.70:5146
 #EXTINF:-1,潮州民生
-http://113.119.195.184:9999/udp/239.253.43.75:5146
+http://121.13.85.170:8000/udp/239.253.43.75:5146
 #EXTINF:-1,汕头综合
-http://113.119.195.184:9999/udp/239.253.43.45:5146
+http://121.13.85.170:8000/udp/239.253.43.45:5146
 #EXTINF:-1,汕头经济生活
-http://113.119.195.184:9999/udp/239.253.43.46:5146
+http://121.13.85.170:8000/udp/239.253.43.46:5146
 #EXTINF:-1,汕头文旅体育
-http://113.119.195.184:9999/udp/239.253.43.47:5146
+http://121.13.85.170:8000/udp/239.253.43.47:5146
 #EXTINF:-1,揭阳综合
-http://113.119.195.184:9999/udp/239.77.0.229:5146
+http://121.13.85.170:8000/udp/239.77.0.229:5146
 #EXTINF:-1,揭阳生活
-http://113.119.195.184:9999/udp/239.77.0.251:5146
+http://121.13.85.170:8000/udp/239.77.0.251:5146
