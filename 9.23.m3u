@@ -76,10 +76,6 @@ http://tv.tvoo.cc/tv/aaa.php?id=LNWShd
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
 http://tv.tvoo.cc/tv/aaa.php?id=LXWS
-#EXTINF:-1 group-title="卫视频道",青海卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 group-title="卫视频道",山东教育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://tv.tvoo.cc/tv/aaa.php?id=SDWShd
 #EXTINF:-1 group-title="卫视频道",山西卫视
@@ -92,18 +88,14 @@ http://tv.tvoo.cc/tv/aaa.php?id=SZWShd
 http://tv.tvoo.cc/tv/aaa.php?id=SCWS
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://tv.tvoo.cc/tv/aaa.php?id=TJWShd
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 group-title="卫视频道",厦门卫视
-http://ott.mobaibox.com/PLTV/3/224/3221226996/index.m3u8
+http://tv.tvoo.cc/tv/aaa.php?idXMWS
 #EXTINF:-1 group-title="卫视频道",新疆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+http://tv.tvoo.cc/tv/aaa.php?id=CJWS
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 group-title="卫视频道",延边卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+http://tv.tvoo.cc/tv/aaa.php?id=XZWS
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+http://tv.tvoo.cc/tv/aaa.php?id=YNWS
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://tv.tvoo.cc/tv/aaa.php?id=ZJWShd
 
