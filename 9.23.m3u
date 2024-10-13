@@ -51,19 +51,19 @@ http://tv.tvoo.cc/tv/aaa.php?id=GSWS
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://tv.tvoo.cc/tv/aaa.php?id=GDWShd
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://tv.tvoo.cc/tv/aaa.php?id=GXWShd
+http://tv.tvoo.cc/tv/aaa.php?id=GXWS
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://tv.tvoo.cc/tv/aaa.php?id=GZWShd
 #EXTINF:-1 group-title="卫视频道",河北卫视
-http://tv.tvoo.cc/tv/aaa.php?id=HBWShd
+http://tv.tvoo.cc/tv/aaa.php?id=HeBWS
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://tv.tvoo.cc/tv/aaa.php?id=HLJWShd
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://tv.tvoo.cc/tv/aaa.php?id=HNWShd
+http://tv.tvoo.cc/tv/aaa.php?id=HeNWS
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+http://tv.tvoo.cc/tv/aaa.php?id=HuBWShd
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-http://tv.tvoo.cc/tv/aaa.php?id=HuNhd
+http://tv.tvoo.cc/tv/aaa.php?id=HuNWShd
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://tv.tvoo.cc/tv/aaa.php?id=JSWShd
 #EXTINF:-1 group-title="卫视频道",江西卫视
@@ -71,7 +71,7 @@ http://tv.tvoo.cc/tv/aaa.php?id=JXWShd
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://tv.tvoo.cc/tv/aaa.php?id=JLWShd
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
+http://tv.tvoo.cc/tv/aaa.php?id=LNWShd
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
