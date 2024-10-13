@@ -8,6 +8,8 @@ http://tv.tvoo.cc/tv/aaa.php?id=CCTV3hd
 http://tv.tvoo.cc/tv/aaa.php?id=CCTV4hd
 #EXTINF:-1 group-title="央视频道",CCTV5
 http://tv.tvoo.cc/tv/aaa.php?id=CCTV5hd
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://tv.tvoo.cc/tv/aaa.php?id=CCTV5phd
 #EXTINF:-1 group-title="央视频道",CCTV6
 http://tv.tvoo.cc/tv/aaa.php?id=CCTV6hd
 #EXTINF:-1 group-title="央视频道",CCTV7
@@ -32,8 +34,7 @@ http://tv.tvoo.cc/tv/aaa.php?id=CCTV15hd
 http://tv.tvoo.cc/tv/aaa.php?id=CCTV16hd
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://tv.tvoo.cc/tv/aaa.php?id=CCTV17hd
-#EXTINF:-1 group-title="央视频道",CCTV5+
-http://tv.tvoo.cc/tv/aaa.php?id=CCTV5phd
+
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 group-title="卫视频道",兵团卫视
