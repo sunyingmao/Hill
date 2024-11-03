@@ -42,6 +42,12 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1,星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-1,广东卫视
+https://php.17186.eu.org/gdtv/web/gdws.m3u8
+#EXTINF:-1,广东新闻
+https://php.17186.eu.org/gdtv/web/gdxw.m3u8
+#EXTINF:-1,广东体育
+https://php.17186.eu.org/gdtv/web/gdty.m3u8
 #EXTINF:-1,广东珠江
 http://116.28.124.202:8520/udp/239.77.0.114:5146
 #EXTINF:-1,广东珠江
