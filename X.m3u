@@ -22,6 +22,10 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 #EXTINF:-1,环球卫视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1,人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1,星光视界
+http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 #EXTINF:-1,CCTV6
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 group-title="未分类",港台電視31
