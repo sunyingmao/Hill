@@ -52,8 +52,6 @@ https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 group-title="未分类",HOY 资讯台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1,喜剧电影
-http://159.75.85.63:35455/douyu/9292492
 #EXTINF:-1,lovenature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,摔跤
