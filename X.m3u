@@ -4,20 +4,14 @@ http://live.iill.top/douyu.php?id=6140589
 https://www.mytvsuper.xyz/1/baogutai/baogu.m3u8
 #EXTINF:-1,爆谷🍿星影
 https://www.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
-#EXTINF:-1,千禧经典台
-https://www.mytvsuper.xyz/astro/qianxi/qianxi.m3u8
 #EXTINF:-1,翡翠台
 http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 #EXTINF:-1,TVB生活台
 http://v2h.jdshipin.com/finance2/finance2.stream/chunklist_w102.m3u8
-#EXTINF:-1,TVB生活台
-https://www.mytvsuper.xyz/tvb/shenghuo/stream.m3u8
 #EXTINF:-1,TVB功夫台
 http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 #EXTINF:-1,TVB星河
 http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
-#EXTINF:-1,TVB星河
-https://www.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
 #EXTINF:-1,红牛体育
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1,美亚C+
@@ -53,18 +47,18 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,摔跤
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1,广东珠江
-http://183.29.197.170:8686/udp/239.77.0.114:5146
+http://116.25.248.3:8888/udp/239.77.0.114:5146
 #EXTINF:-1,潮州综合
-http://183.29.197.170:8686/udp/239.253.43.70:5146
+http://116.25.248.3:8888/udp/239.253.43.70:5146
 #EXTINF:-1,潮州民生
-http://183.29.197.170:8686/udp/239.253.43.75:5146
+http://116.25.248.3:8888/udp/239.253.43.75:5146
 #EXTINF:-1,汕头综合
-http://183.29.197.170:8686/udp/239.253.43.45:5146
+http://116.25.248.3:8888/udp/239.253.43.45:5146
 #EXTINF:-1,汕头经济生活
-http://183.29.197.170:8686/udp/239.253.43.46:5146
+http://116.25.248.3:8888/udp/239.253.43.46:5146
 #EXTINF:-1,汕头文旅体育
-http://183.29.197.170:8686/udp/239.253.43.47:5146
+http://116.25.248.3:8888/udp/239.253.43.47:5146
 #EXTINF:-1,揭阳综合
-http://183.29.197.170:8686/udp/239.77.0.229:5146
+http://116.25.248.3:8888/udp/239.77.0.229:5146
 #EXTINF:-1,揭阳生活
-http://183.29.197.170:8686/udp/239.77.0.251:5146
+http://116.25.248.3:8888/udp/239.77.0.251:5146
