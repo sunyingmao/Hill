@@ -174,7 +174,7 @@ http://183.237.243.155:8818/hls/25/index.m3u8
 http://183.237.243.155:8818/hls/128/index.m3u8
 #EXTINF:-1 group-title="广东",HZTV
 http://183.237.243.155:8818/hls/98/index.m3u8
-#EXTINF:-1 group-title="广东",珠海
+#EXTINF:-1 group-title="广东",珠海台
 http://183.237.243.155:8818/hls/97/index.m3u8
 #EXTINF:-1 group-title="广东",深圳都市
 http://183.237.243.155:8818/hls/80/index.m3u8
@@ -188,7 +188,7 @@ http://183.237.243.155:8818/hls/83/index.m3u8
 http://183.237.243.155:8818/hls/84/index.m3u8
 #EXTINF:-1 group-title="广东",客家生活
 http://183.237.243.155:8818/hls/78/index.m3u8
-#EXTINF:-1 group-title="广东",新闻
+#EXTINF:-1 group-title="广东",汕尾台
 http://183.237.243.155:8818/hls/79/index.m3u8
 #EXTINF:-1 group-title="广东",经济科教
 http://183.237.243.155:8818/hls/58/index.m3u8
