@@ -140,7 +140,7 @@ http://183.237.243.155:8818/hls/35/index.m3u8
 http://183.237.243.155:8818/hls/37/index.m3u8
 #EXTINF:-1 group-title="广东",广东影视
 http://183.237.243.155:8818/hls/39/index.m3u8
-#EXTINF:-1 group-title="广东",广东少儿
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东少儿.png" group-title="广东",广东少儿
 http://183.237.243.155:8818/hls/40/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="广东",广东珠江
 http://183.237.243.155:8818/hls/57/index.m3u8
