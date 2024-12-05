@@ -176,7 +176,7 @@ http://183.237.243.155:8818/hls/25/index.m3u8
 http://183.237.243.155:8818/hls/128/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/惠州综合.png" group-title="广东",惠州综合
 http://183.237.243.155:8818/hls/98/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/珠海综合.png" group-title="广东",珠海综合
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/珠海.png" group-title="广东",珠海综合
 http://183.237.243.155:8818/hls/97/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/深圳都市.png" group-title="广东",深圳都市
 http://183.237.243.155:8818/hls/80/index.m3u8
