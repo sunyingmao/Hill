@@ -46,19 +46,19 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,摔跤
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1,广东珠江
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="广东",广东珠江
 http://14.112.86.101:4022/udp/239.77.0.114:5146
-#EXTINF:-1,潮州综合
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东",潮州综合
 http://14.112.86.101:4022/udp/239.253.43.70:5146
-#EXTINF:-1,潮州民生
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州民生.png" group-title="广东",潮州民生
 http://14.112.86.101:4022/udp/239.253.43.75:5146
-#EXTINF:-1,汕头综合
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="广东",汕头综合
 http://14.112.86.101:4022/udp/239.253.43.45:5146
-#EXTINF:-1,汕头经济生活
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头经济生活.png" group-title="广东",汕头经济生活
 http://14.112.86.101:4022/udp/239.253.43.46:5146
-#EXTINF:-1,汕头文旅体育
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头文旅体育.png" group-title="广东",汕头文旅体育
 http://14.112.86.101:4022/udp/239.253.43.47:5146
-#EXTINF:-1,揭阳综合
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳综合.png" group-title="广东",揭阳综合
 http://14.112.86.101:4022/udp/239.77.0.229:5146
-#EXTINF:-1,揭阳生活
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
 http://14.112.86.101:4022/udp/239.77.0.251:5146
