@@ -180,7 +180,7 @@ http://183.237.243.155:8818/hls/98/index.m3u8
 http://183.237.243.155:8818/hls/97/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/深圳都市.png" group-title="广东",深圳都市
 http://183.237.243.155:8818/hls/80/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/宝安频道.png" group-title="广东",宝安频道
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/深圳宝安.png" group-title="广东",深圳宝安
 http://183.237.243.155:8818/hls/81/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/深圳电视剧.png" group-title="广东",深圳电视剧
 http://183.237.243.155:8818/hls/82/index.m3u8
