@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-APP APTV
+#EXT-X-APP
 
 #EXTINF:-1 group-title="📺电信央卫",CCTV1综合
 http://www.dsmcloud.top:8888/udp/239.81.0.102:4056
