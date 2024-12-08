@@ -1,73 +1,21 @@
-
-#EXTINF:-1 group-title="📺电信央卫",四川卫视DD5.1-384K[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.130:4056
-#EXTINF:-1 group-title="📺电信央卫",天津卫视-HEVC-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.28:4056
-#EXTINF:-1 group-title="📺电信央卫",天津卫视[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.113:4056
-#EXTINF:-1 group-title="📺电信央卫",安徽卫视-HEVC-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.36:4056
-#EXTINF:-1 group-title="📺电信央卫",安徽卫视AC3[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.211:4056
-#EXTINF:-1 group-title="📺电信央卫",山东卫视-HEVC-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.30:4056
-#EXTINF:-1 group-title="📺电信央卫",山东卫视[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.114:4056
-#EXTINF:-1 group-title="📺电信央卫",广东卫视-HEVC-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.21:4056
-#EXTINF:-1 group-title="📺电信央卫",广东卫视DD5.1[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.104:4056
-#EXTINF:-1 group-title="📺电信央卫",广西IPTV[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.203:4056
-#EXTINF:-1 group-title="📺电信央卫",广西IPTV[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.208:4056
-#EXTINF:-1 group-title="📺电信央卫",江苏卫视-HEVC-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.26:4056
-#EXTINF:-1 group-title="📺电信央卫",江苏卫视DD5.1[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.106:4056
-#EXTINF:-1 group-title="📺电信央卫",江西卫视-HEVC-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.38:4056
-#EXTINF:-1 group-title="📺电信央卫",江西卫视AC3[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.204:4056
-#EXTINF:-1 group-title="📺电信央卫",河北卫视-HEVC-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.32:4056
-#EXTINF:-1 group-title="📺电信央卫",河北卫视DD5.1[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.94:4056
-#EXTINF:-1 group-title="📺电信央卫",河南卫视-H264-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.41:4056
-#EXTINF:-1 group-title="📺电信央卫",浙江卫视-HEVC-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.25:4056
-#EXTINF:-1 group-title="📺电信央卫",浙江卫视DD5.1[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.108:4056
-#EXTINF:-1 group-title="📺电信央卫",海南卫视-H264-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.45:4056
-#EXTINF:-1 group-title="📺电信央卫",深圳卫视-HEVC-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.27:4056
-#EXTINF:-1 group-title="📺电信央卫",深圳卫视[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.103:4056
-#EXTINF:-1 group-title="📺电信央卫",湖北卫视-HEVC-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.29:4056
-#EXTINF:-1 group-title="📺电信央卫",湖北卫视[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.112:4056
-#EXTINF:-1 group-title="📺电信央卫",湖南卫视-HEVC-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.22:4056
-#EXTINF:-1 group-title="📺电信央卫",湖南卫视DD5.1[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.110:4056
-#EXTINF:-1 group-title="📺电信央卫",贵州卫视-HEVC-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.33:4056
-#EXTINF:-1 group-title="📺电信央卫",贵州卫视[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.95:4056
-#EXTINF:-1 group-title="📺电信央卫",辽宁卫视-HEVC-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.35:4056
-#EXTINF:-1 group-title="📺电信央卫",辽宁卫视AC3[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.210:4056
-#EXTINF:-1 group-title="📺电信央卫",重庆卫视-H264-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.44:4056
-#EXTINF:-1 group-title="📺电信央卫",黑龙江卫视-HEVC-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.31:4056
-#EXTINF:-1 group-title="📺电信央卫",黑龙江卫视[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.105:4056
-#EXTINF:-1 group-title="📺电信央卫",甘肃卫视[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.207:4056
-#EXTINF:-1 group-title="📺电信央卫",广西卫视AC3-512[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.107:4056
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-name="北京卫视",BRTV北京卫视[高清]
+http://bg1fef.7766.org:4022/rtp/239.3.1.241:8000
+#EXTINF:-1 tvg-name="BTV新闻",BRTV新闻[高清]
+http://bg1fef.7766.org:4022/rtp/239.3.1.159:8000
+#EXTINF:-1 tvg-name="BTV影视",BRTV影视[高清]
+http://bg1fef.7766.org:4022/rtp/239.3.1.158:8000
+#EXTINF:-1 tvg-name="BTV文艺",BRTV文艺[高清]
+http://bg1fef.7766.org:4022/rtp/239.3.1.242:8000
+#EXTINF:-1 tvg-name="BTV财经",BRTV财经[高清]
+http://bg1fef.7766.org:4022/rtp/239.3.1.116:8000
+#EXTINF:-1 tvg-name="BTV生活",BRTV生活[高清]
+http://bg1fef.7766.org:4022/rtp/239.3.1.117:8000
+#EXTINF:-1 tvg-name="BTV青年",BRTV青年[高清]
+http://bg1fef.7766.org:4022/rtp/239.3.1.118:8000
+#EXTINF:-1 tvg-name="BTV科教",BRTV纪实科教[高清]
+http://bg1fef.7766.org:4022/rtp/239.3.1.115:8000
+#EXTINF:-1 tvg-name="卡酷动画",BRTV卡酷少儿[高清]
+http://bg1fef.7766.org:4022/rtp/239.3.1.189:8000
+#EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[高清]
+http://bg1fef.7766.org:4022/rtp/239.3.1.243:8000
