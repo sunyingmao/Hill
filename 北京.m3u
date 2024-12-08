@@ -57,8 +57,6 @@ http://bg1fef.7766.org:4022/rtp/239.3.1.242:8000
 http://bg1fef.7766.org:4022/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-name="BTV生活",BRTV生活[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.117:8000
-#EXTINF:-1 tvg-name="BTV青年",BRTV青年[高清]
-http://bg1fef.7766.org:4022/rtp/239.3.1.118:8000
 #EXTINF:-1 tvg-name="BTV科教",BRTV纪实科教[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-name="卡酷动画",BRTV卡酷少儿[高清]
