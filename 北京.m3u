@@ -143,12 +143,6 @@ http://bg1fef.7766.org:4022/rtp/239.3.1.41:8140
 http://bg1fef.7766.org:4022/rtp/239.3.1.44:8184
 #EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
 http://bg1fef.7766.org:4022/rtp/239.3.1.43:8176
-#EXTINF:-1 tvg-name="该频道节目单尚无",睛彩竞技[高清]
-http://bg1fef.7766.org:4022/rtp/239.3.1.125:8001
-#EXTINF:-1 tvg-name="该频道节目单尚无",睛彩篮球[高清]
-http://bg1fef.7766.org:4022/rtp/239.3.1.126:8001
-#EXTINF:-1 tvg-name="该频道节目单尚无",睛彩羽毛球[高清]
-http://bg1fef.7766.org:4022/rtp/239.3.1.127:8001
 #EXTINF:-1 tvg-name="中国教育1台",CETV1[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.57:8152
 #EXTINF:-1 tvg-name="中国教育2台",CETV2
@@ -165,8 +159,6 @@ http://bg1fef.7766.org:4022/rtp/239.3.1.194:9020
 http://bg1fef.7766.org:4022/rtp/239.3.1.75:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",淘电影[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.250:8001
-#EXTINF:-1 tvg-name="该频道节目单尚无",每日影院[高清]
-http://bg1fef.7766.org:4022/rtp/239.3.1.111:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",星影
 http://bg1fef.7766.org:4022/rtp/239.3.1.94:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",动作影院
