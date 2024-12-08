@@ -1,181 +1,181 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
-#EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合[高清]
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV-1 综合[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.129:8008
-#EXTINF:-1 tvg-name="CCTV2",CCTV-2 财经[高清]
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视",CCTV-2 财经[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.60:8084
-#EXTINF:-1 tvg-name="CCTV3",CCTV-3 综艺[高清]
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视",CCTV-3 综艺[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.172:8001
-#EXTINF:-1 tvg-name="CCTV4",CCTV-4 中文国际[高清]
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.105:8092
-#EXTINF:-1 tvg-name="CCTV4EUO",CCTV-4 中文国际 欧洲[高清]
+#EXTINF:-1 tvg-name="CCTV4EUO" group-title="央视",CCTV-4 中文国际 欧洲[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.213:4220
-#EXTINF:-1 tvg-name="CCTV4AME",CCTV-4 中文国际 美洲[高清]
+#EXTINF:-1 tvg-name="CCTV4AME" group-title="央视",CCTV-4 中文国际 美洲[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.214:4220
-#EXTINF:-1 tvg-name="CCTV5",CCTV-5 体育[高清]
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视",CCTV-5 体育[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.173:8001
-#EXTINF:-1 tvg-name="CCTV5+",CCTV-5+ 体育赛事[高清]
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视",CCTV-5+ 体育赛事[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.130:8004
-#EXTINF:-1 tvg-name="CCTV6",CCTV-6 电影[高清]
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视",CCTV-6 电影[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.174:8001
-#EXTINF:-1 tvg-name="CCTV7",CCTV-7 国防军事[高清]
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视",CCTV-7 国防军事[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.61:8104
-#EXTINF:-1 tvg-name="CCTV8",CCTV-8 电视剧[高清]
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视",CCTV-8 电视剧[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.175:8001
-#EXTINF:-1 tvg-name="CCTV9",CCTV-9 纪录[高清]
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视",CCTV-9 纪录[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.62:8112
-#EXTINF:-1 tvg-name="CCTV10",CCTV-10 科教[高清]
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视",CCTV-10 科教[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.63:8116
-#EXTINF:-1 tvg-name="CCTV11",CCTV-11 戏曲[高清]
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视",CCTV-11 戏曲[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.152:8120
-#EXTINF:-1 tvg-name="CCTV12",CCTV-12 社会与法[高清]
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视",CCTV-12 社会与法[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.64:8124
-#EXTINF:-1 tvg-name="CCTV13",CCTV-13 新闻[高清]
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视",CCTV-13 新闻[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.124:8128
-#EXTINF:-1 tvg-name="CCTV14",CCTV-14 少儿[高清]
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视",CCTV-14 少儿[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.65:8132
-#EXTINF:-1 tvg-name="CCTV15",CCTV-15 音乐[高清]
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视",CCTV-15 音乐[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.153:8136
-#EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[高清]
+#EXTINF:-1 tvg-name="CCTV16" group-title="央视",CCTV-16 奥林匹克[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.184:8001
-#EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视",CCTV-17 农业农村[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.151:8144
-#EXTINF:-1 tvg-name="CCTV4K",CCTV-4K 超高清[超清HDR]
+#EXTINF:-1 tvg-name="CCTV4K" group-title="央视",CCTV-4K 超高清[超清HDR]
 http://bg1fef.7766.org:4022/rtp/239.3.1.245:2000
-#EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
+#EXTINF:-1 tvg-name="爱上4K" group-title="北京",爱上4K[超清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.236:2000
-#EXTINF:-1 tvg-name="该频道节目单尚无",4K超清[超清]
+#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="北京",4K超清[超清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.249:8001
-#EXTINF:-1 tvg-name="北京卫视",BRTV北京卫视[高清]
+#EXTINF:-1 tvg-name="北京卫视" group-title="北京",BRTV北京卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.241:8000
-#EXTINF:-1 tvg-name="BTV新闻",BRTV新闻[高清]
+#EXTINF:-1 tvg-name="BTV新闻" group-title="北京",BRTV新闻[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-name="BTV影视",BRTV影视[高清]
+#EXTINF:-1 tvg-name="BTV影视" group-title="北京",BRTV影视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-name="BTV文艺",BRTV文艺[高清]
+#EXTINF:-1 tvg-name="BTV文艺" group-title="北京",BRTV文艺[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.242:8000
-#EXTINF:-1 tvg-name="BTV财经",BRTV财经[高清]
+#EXTINF:-1 tvg-name="BTV财经" group-title="北京",BRTV财经[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.116:8000
-#EXTINF:-1 tvg-name="BTV生活",BRTV生活[高清]
+#EXTINF:-1 tvg-name="BTV生活" group-title="北京",BRTV生活[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.117:8000
-#EXTINF:-1 tvg-name="BTV科教",BRTV纪实科教[高清]
+#EXTINF:-1 tvg-name="BTV科教" group-title="北京",BRTV纪实科教[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.115:8000
-#EXTINF:-1 tvg-name="卡酷动画",BRTV卡酷少儿[高清]
+#EXTINF:-1 tvg-name="卡酷动画" group-title="北京",BRTV卡酷少儿[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-name="BTV体育",BRTV体育休闲[高清]
+#EXTINF:-1 tvg-name="BTV体育" group-title="北京",BRTV体育休闲[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.243:8000
-#EXTINF:-1 tvg-name="该频道节目单尚无",BRTV国际频道[高清]
+#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="北京",BRTV国际频道[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.235:8000
-#EXTINF:-1 tvg-name="湖南卫视",湖南卫视[高清]
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视",湖南卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.132:8012
-#EXTINF:-1 tvg-name="东方卫视",东方卫视[高清]
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视",东方卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.136:8032
-#EXTINF:-1 tvg-name="浙江卫视",浙江卫视[高清]
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视",浙江卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.137:8036
-#EXTINF:-1 tvg-name="江苏卫视",江苏卫视[高清]
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视",江苏卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.135:8028
-#EXTINF:-1 tvg-name="深圳卫视",深圳卫视[高清]
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视",深圳卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.134:8020
-#EXTINF:-1 tvg-name="广东卫视",广东卫视[高清]
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视",广东卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.142:8048
-#EXTINF:-1 tvg-name="安徽卫视",安徽卫视[高清]
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视",安徽卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.211:8064
-#EXTINF:-1 tvg-name="天津卫视",天津卫视[高清]
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视",天津卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.141:1234
-#EXTINF:-1 tvg-name="重庆卫视",重庆卫视[高清]
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视",重庆卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.122:8160
-#EXTINF:-1 tvg-name="山东卫视",山东卫视[高清]
+#EXTINF:-1 tvg-name="山东卫视" group-title="卫视",山东卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.209:8052
-#EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视[高清]
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.133:8016
-#EXTINF:-1 tvg-name="河北卫视",河北卫视[高清]
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视",河北卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.148:8072
-#EXTINF:-1 tvg-name="河南卫视",河南卫视[高清]
+#EXTINF:-1 tvg-name="河南卫视" group-title="卫视",河南卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.50:8184
-#EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视[高清]
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视",辽宁卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.210:8056
-#EXTINF:-1 tvg-name="湖北卫视",湖北卫视[高清]
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视",湖北卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.138:8044
-#EXTINF:-1 tvg-name="吉林卫视",吉林卫视[高清]
+#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视",吉林卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.240:8172
-#EXTINF:-1 tvg-name="贵州卫视",贵州卫视[高清]
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视",贵州卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.149:8076
-#EXTINF:-1 tvg-name="东南卫视",东南卫视[高清]
+#EXTINF:-1 tvg-name="东南卫视" group-title="卫视",东南卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.156:8148
-#EXTINF:-1 tvg-name="江西卫视",江西卫视[高清]
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视",江西卫视[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.123:8164
-#EXTINF:-1 tvg-name="旅游卫视",海南卫视
+#EXTINF:-1 tvg-name="旅游卫视" group-title="卫视",海南卫视
 http://bg1fef.7766.org:4022/rtp/239.3.1.45:8304
-#EXTINF:-1 tvg-name="云南卫视",云南卫视
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视",云南卫视
 http://bg1fef.7766.org:4022/rtp/239.3.1.26:8108
-#EXTINF:-1 tvg-name="兵团卫视",兵团卫视
+#EXTINF:-1 tvg-name="兵团卫视" group-title="卫视",兵团卫视
 http://bg1fef.7766.org:4022/rtp/239.3.1.144:4120
-#EXTINF:-1 tvg-name="厦门卫视",厦门卫视
+#EXTINF:-1 tvg-name="厦门卫视" group-title="卫视",厦门卫视
 http://bg1fef.7766.org:4022/rtp/239.3.1.143:4120
-#EXTINF:-1 tvg-name="四川卫视",四川卫视
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视",四川卫视
 http://bg1fef.7766.org:4022/rtp/239.3.1.29:8288
-#EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视",宁夏卫视
 http://bg1fef.7766.org:4022/rtp/239.3.1.46:8124
-#EXTINF:-1 tvg-name="山西卫视",山西卫视
+#EXTINF:-1 tvg-name="山西卫视" group-title="卫视",山西卫视
 http://bg1fef.7766.org:4022/rtp/239.3.1.42:8172
-#EXTINF:-1 tvg-name="广西卫视",广西卫视
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视",广西卫视
 http://bg1fef.7766.org:4022/rtp/239.3.1.39:8300
-#EXTINF:-1 tvg-name="新疆卫视",新疆卫视
+#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视",新疆卫视
 http://bg1fef.7766.org:4022/rtp/239.3.1.48:8160
-#EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视",甘肃卫视
 http://bg1fef.7766.org:4022/rtp/239.3.1.49:8188
-#EXTINF:-1 tvg-name="西藏卫视",西藏卫视
+#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视",西藏卫视
 http://bg1fef.7766.org:4022/rtp/239.3.1.47:8164
-#EXTINF:-1 tvg-name="三沙卫视",三沙卫视
+#EXTINF:-1 tvg-name="三沙卫视" group-title="卫视",三沙卫视
 http://bg1fef.7766.org:4022/rtp/239.3.1.155:4120
-#EXTINF:-1 tvg-name="陕西卫视",陕西卫视
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视",陕西卫视
 http://bg1fef.7766.org:4022/rtp/239.3.1.41:8140
-#EXTINF:-1 tvg-name="青海卫视",青海卫视
+#EXTINF:-1 tvg-name="青海卫视" group-title="卫视",青海卫视
 http://bg1fef.7766.org:4022/rtp/239.3.1.44:8184
-#EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视
 http://bg1fef.7766.org:4022/rtp/239.3.1.43:8176
-#EXTINF:-1 tvg-name="中国教育1台",CETV1[高清]
+#EXTINF:-1 tvg-name="中国教育1台" group-title="CETV",CETV1[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.57:8152
-#EXTINF:-1 tvg-name="中国教育2台",CETV2
+#EXTINF:-1 tvg-name="中国教育2台" group-title="CETV",CETV2
 http://bg1fef.7766.org:4022/rtp/239.3.1.54:4120
-#EXTINF:-1 tvg-name="中国教育3台",CETV3
+#EXTINF:-1 tvg-name="中国教育3台" group-title="CETV",CETV3
 http://bg1fef.7766.org:4022/rtp/239.3.1.55:4120
-#EXTINF:-1 tvg-name="中国教育4台",CETV4
+#EXTINF:-1 tvg-name="中国教育4台" group-title="CETV",CETV4
 http://bg1fef.7766.org:4022/rtp/239.3.1.56:4120
-#EXTINF:-1 tvg-name="IPTV少儿动画",少儿动画
+#EXTINF:-1 tvg-name="IPTV少儿动画" group-title="其它",少儿动画
 http://bg1fef.7766.org:4022/rtp/239.3.1.199:9000
-#EXTINF:-1 tvg-name="IPTV热播剧场",热播剧场
+#EXTINF:-1 tvg-name="IPTV热播剧场" group-title="其它",热播剧场
 http://bg1fef.7766.org:4022/rtp/239.3.1.194:9020
-#EXTINF:-1 tvg-name="该频道节目单尚无",解密
+#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="其它",解密
 http://bg1fef.7766.org:4022/rtp/239.3.1.75:4120
-#EXTINF:-1 tvg-name="该频道节目单尚无",淘电影[高清]
+#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="其它",淘电影[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.250:8001
-#EXTINF:-1 tvg-name="该频道节目单尚无",星影
+#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="其它",星影
 http://bg1fef.7766.org:4022/rtp/239.3.1.94:4120
-#EXTINF:-1 tvg-name="该频道节目单尚无",动作影院
+#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="其它",动作影院
 http://bg1fef.7766.org:4022/rtp/239.3.1.92:4120
-#EXTINF:-1 tvg-name="该频道节目单尚无",光影
+#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="其它",光影
 http://bg1fef.7766.org:4022/rtp/239.3.1.84:4120
-#EXTINF:-1 tvg-name="该频道节目单尚无",喜剧影院
+#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="其它",喜剧影院
 http://bg1fef.7766.org:4022/rtp/239.3.1.91:4120
-#EXTINF:-1 tvg-name="该频道节目单尚无",家庭影院
+#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="其它",家庭影院
 http://bg1fef.7766.org:4022/rtp/239.3.1.93:4120
-#EXTINF:-1 tvg-name="该频道节目单尚无",精选
+#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="其它",精选
 http://bg1fef.7766.org:4022/rtp/239.3.1.74:4120
-#EXTINF:-1 tvg-name="IPTV经典电影",经典电影
+#EXTINF:-1 tvg-name="IPTV经典电影" group-title="其它",经典电影
 http://bg1fef.7766.org:4022/rtp/239.3.1.195:9024
-#EXTINF:-1 tvg-name="上海纪实",纪实人文[高清]
+#EXTINF:-1 tvg-name="上海纪实" group-title="其它",纪实人文[高清]
 http://bg1fef.7766.org:4022/rtp/239.3.1.212:8060
-#EXTINF:-1 tvg-name="该频道节目单尚无",军事
+#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="其它",军事
 http://bg1fef.7766.org:4022/rtp/239.3.1.76:4120
-#EXTINF:-1 tvg-name="该频道节目单尚无",军旅剧场
+#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="其它",军旅剧场
 http://bg1fef.7766.org:4022/rtp/239.3.1.68:4120
-#EXTINF:-1 tvg-name="该频道节目单尚无",动画
+#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="其它",动画
 http://bg1fef.7766.org:4022/rtp/239.3.1.80:4120
-#EXTINF:-1 tvg-name="该频道节目单尚无",古装剧场
+#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="其它",古装剧场
 http://bg1fef.7766.org:4022/rtp/239.3.1.69:4120
-#EXTINF:-1 tvg-name="嘉佳卡通",嘉佳卡通
+#EXTINF:-1 tvg-name="嘉佳卡通" group-title="其它",嘉佳卡通
 http://bg1fef.7766.org:4022/rtp/239.3.1.147:9268
-#EXTINF:-1 tvg-name="该频道节目单尚无",足球
+#EXTINF:-1 tvg-name="该频道节目单尚无" group-title="其它",足球
 http://bg1fef.7766.org:4022/rtp/239.3.1.89:4120
+
 
 
