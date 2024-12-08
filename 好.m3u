@@ -1,30 +1,4 @@
-#EXTM3U
-#EXT-X-APP
 
-#EXTINF:-1 group-title="📺电信央卫",CCTV1综合
-http://www.dsmcloud.top:8888/udp/239.81.0.102:4056
-#EXTINF:-1 group-title="📺电信央卫",CCTV1-HEVC
-http://www.dsmcloud.top:8888/udp/239.81.1.2:4056
-#EXTINF:-1 group-title="📺电信央卫",CCTV2-HEVC
-http://www.dsmcloud.top:8888/udp/239.81.1.3:4056
-#EXTINF:-1 group-title="📺电信央卫",CCTV2财经
-http://www.dsmcloud.top:8888/udp/239.81.0.115:4056
-#EXTINF:-1 group-title="📺电信央卫",CCTV3-HEVC-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.4:4056
-#EXTINF:-1 group-title="📺电信央卫",CCTV3综艺AC3[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.231:4056
-#EXTINF:-1 group-title="📺电信央卫",CCTV4-HEVC-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.5:4056
-#EXTINF:-1 group-title="📺电信央卫",CCTV4中文国际DD5.1[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.96:4056
-#EXTINF:-1 group-title="📺电信央卫",CCTV5+-HEVC-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.18:4056
-#EXTINF:-1 group-title="📺电信央卫",CCTV5+[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.101:4056
-#EXTINF:-1 group-title="📺电信央卫",CCTV5-HEVC-AAC[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.1.6:4056
-#EXTINF:-1 group-title="📺电信央卫",CCTV5体育[1920*1080]
-http://www.dsmcloud.top:8888/udp/239.81.0.133:4056
 #EXTINF:-1 group-title="📺电信央卫",CCTV6-HEVC-AAC[1920*1080]
 http://www.dsmcloud.top:8888/udp/239.81.1.7:4056
 #EXTINF:-1 group-title="📺电信央卫",CCTV6电影AC3[1920*1080]
