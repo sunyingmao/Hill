@@ -50,6 +50,8 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 http://14.112.86.101:4022/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东新闻.png" group-title="广东",广东新闻
 http://14.112.86.101:4022/udp/239.77.0.173:5146
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="广东",广东体育
+http://14.112.86.101:4022/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="广东",广东珠江
 http://14.112.86.101:4022/udp/239.77.0.114:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东",潮州综合
