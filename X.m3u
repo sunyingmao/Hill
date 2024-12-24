@@ -55,7 +55,7 @@ http://cdn2.132.us.kg/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东影视.png" group-title="广东",广东影视
 http://14.112.86.101:4022/udp/239.77.0.217:5146
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="广东",广东珠江
-http://cdn2.132.us.kg/live/gdty/stream.m3u8
+http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东",潮州综合
 http://14.112.86.101:4022/udp/239.253.43.70:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州民生.png" group-title="广东",潮州民生
