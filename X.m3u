@@ -37,7 +37,7 @@ https://mytv.cdn.com.mp/chaozhouzonghe/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州民生.png" group-title="广东",潮州民生
 http://113.65.9.224:4016/udp/239.253.43.75:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="广东",汕头综合
-http://119.140.58.23:2024/hls/4/index.m3u8
+https://mytv.cdn.com.mp/shantouzonghe/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头经济生活.png" group-title="广东",汕头经济生活
 http://119.140.58.23:2024/hls/5/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头文旅体育.png" group-title="广东",汕头文旅体育
@@ -45,4 +45,4 @@ http://119.140.58.23:2024/hls/8/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳综合.png" group-title="广东",揭阳综合
 http://119.140.58.23:2024/hls/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
-http://119.140.58.23:2024/hls/1/index.m3u8
+http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
