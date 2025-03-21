@@ -93,8 +93,28 @@ https://tv.iill.top/litv/4gtv-4gtv039
 https://tv.iill.top/4gtv/229
 #EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="綜合",三立綜合台
 https://tv.iill.top/4gtv/169
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="綜合",台視
+https://tv.iill.top/litv/4gtv-4gtv066
+#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/台視新聞台.png" group-title="新聞財經",台視新聞台
+https://tv.iill.top/litv/4gtv-4gtv051
+#EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://assets.livednow.com/logo/台視財經台.png" group-title="新聞財經",台視財經台
+https://tv.iill.top/litv/4gtv-4gtv056
+#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://assets.livednow.com/logo/博斯運動一台.png" group-title="體育",博斯運動一台
+https://tv.iill.top/litv/litv-longturn07
+#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://assets.livednow.com/logo/博斯運動二台.png" group-title="體育",博斯運動二台
+https://tv.iill.top/litv/litv-longturn08
+#EXTINF:-1 tvg-id="博斯無限一台" tvg-name="博斯無限一台" tvg-logo="https://assets.livednow.com/logo/博斯無限一台.png" group-title="體育",博斯無限一台
+https://tv.iill.top/litv/litv-longturn10
+#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://assets.livednow.com/logo/博斯無限二台.png" group-title="體育",博斯無限二台
+https://tv.iill.top/litv/litv-longturn13
 #EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://assets.livednow.com/logo/博斯網球台.png" group-title="體育",博斯網球台
 https://tv.iill.top/litv/litv-longturn09
+#EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" tvg-logo="https://assets.livednow.com/logo/博斯高球一台.png" group-title="體育",博斯高球一台
+https://tv.iill.top/litv/litv-longturn05
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://assets.livednow.com/logo/博斯高球二台.png" group-title="體育",博斯高球二台
+https://tv.iill.top/litv/litv-longturn06
+#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="體育",博斯魅力台
+https://tv.iill.top/litv/litv-longturn04
 #EXTINF:-1 tvg-id="ELTA娛樂" tvg-name="ELTA 娛樂台" tvg-logo="https://assets.livednow.com/logo/ELTA娛樂.png" group-title="音樂綜藝",ELTA 娛樂台
 https://tv.iill.top/litv/4gtv-4gtv070
 #EXTINF:-1 tvg-id="ELTA生活旅遊" tvg-name="ELTA 生活旅遊" tvg-logo="https://assets.livednow.com/logo/ELTA生活旅遊.png" group-title="生活旅遊",ELTA 生活旅遊
@@ -105,6 +125,10 @@ https://tv.iill.top/litv/litv-longturn20
 https://tv.iill.top/litv/4gtv-4gtv152
 #EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://assets.livednow.com/logo/東森財經新聞.png" group-title="新聞財經",東森財經新聞
 https://tv.iill.top/litv/4gtv-4gtv153
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://assets.livednow.com/logo/非凡新聞台.png" group-title="新聞財經",非凡新聞台
+https://tv.iill.top/litv/4gtv-4gtv010
+#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://assets.livednow.com/logo/非凡商業台.png" group-title="新聞財經",非凡商業台
+https://tv.iill.top/litv/4gtv-4gtv048
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://assets.livednow.com/logo/鏡電視新聞台.png" group-title="新聞財經",鏡電視新聞台
 https://tv.iill.top/litv/4gtv-4gtv075
 #EXTINF:-1 tvg-id="CNBC-Asia-財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://assets.livednow.com/logo/CNBC-Asia-財經台.png" group-title="新聞財經",CNBC Asia 財經台
@@ -133,6 +157,8 @@ https://tv.iill.top/4gtv/176
 https://tv.iill.top/litv/4gtv-4gtv042
 #EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://assets.livednow.com/logo/采昌影劇台.png" group-title="電影戲劇",采昌影劇台
 https://tv.iill.top/litv/4gtv-4gtv049
+#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://assets.livednow.com/logo/台灣戲劇台.png" group-title="電影戲劇",台灣戲劇台
+https://tv.iill.top/litv/litv-longturn22
 #EXTINF:-1 tvg-id="戲劇免費看-1台" tvg-name="戲劇免費看 1台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-1台.png" group-title="電影戲劇",戲劇免費看 1台
 https://tv.iill.top/4gtv/270
 #EXTINF:-1 tvg-id="戲劇免費看-2台" tvg-name="戲劇免費看 2台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-2台.png" group-title="電影戲劇",戲劇免費看 2台
