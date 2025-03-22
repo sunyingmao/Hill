@@ -21,28 +21,30 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,摔跤
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/大湾区卫视.png" group-title="广东",大湾区卫视
-https://mytv.cdn.com.mp/dawanqu/index.m3u8
+http://183.0.201.132:8188/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东新闻.png" group-title="广东",广东新闻
-https://mytv.cdn.com.mp/gdxinwen/index.m3u8
+http://183.0.201.132:8188/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="广东",广东体育
-https://mytv.cdn.com.mp/gdtiyu/index.m3u8
+http://183.0.201.132:8188/udp/239.77.0.168:5146
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东影视.png" group-title="广东",广东影视
-https://mytv.cdn.com.mp/gdyingshi/index.m3u8
+http://183.0.201.132:8188/udp/239.77.0.217:5146
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东民生.png" group-title="广东",广东民生
-https://mytv.cdn.com.mp/gdminsheng/index.m3u8
+http://183.0.201.132:8188/udp/239.77.0.225:5146
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="广东",广东珠江
-https://mytv.cdn.com.mp/zhujiang/index.m3u8
+http://183.0.201.132:8188/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东",潮州综合
-https://mytv.cdn.com.mp/chaozhouzonghe/index.m3u8
+http://183.0.201.132:8188/udp/239.253.43.70:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州民生.png" group-title="广东",潮州民生
-http://113.65.9.224:4016/udp/239.253.43.75:5146
+http://183.0.201.132:8188/udp/239.253.43.75:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="广东",汕头综合
-https://mytv.cdn.com.mp/shantouzonghe/index.m3u8
+http://183.0.201.132:8188/udp/239.77.1.130:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头经济生活.png" group-title="广东",汕头经济生活
-http://119.140.58.23:2024/hls/5/index.m3u8
+http://183.0.201.132:8188/udp/239.77.1.131:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头文旅体育.png" group-title="广东",汕头文旅体育
-http://119.140.58.23:2024/hls/8/index.m3u8
+http://183.0.201.132:8188/udp/239.77.1.132:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳综合.png" group-title="广东",揭阳综合
-http://119.140.58.23:2024/hls/2/index.m3u8
+http://183.0.201.132:8188/udp/239.77.0.229:5146
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
+http://183.0.201.132:8188/udp/239.77.0.251:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
 http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
