@@ -8,11 +8,6 @@ http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1,美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1,星光综合台
-http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-#EXTINF:-1,环球卫视
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1,人间卫视
 #EXTINF:-1,lovenature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,摔跤
