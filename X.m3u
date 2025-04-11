@@ -12,6 +12,16 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,摔跤
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳综合.png" group-title="广东",揭阳综合
+http://hls-jyrtv.jyrtv.tv/stjy2020/zhpd.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
+http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="广东",汕头综合
+https://stream1.freetv.fun/cdf64bf08ac852913d8ab8d6a9a392d2cb832089984a7f7d1aecf63d5c64c5ff.ctv
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="广东",广东珠江
+https://tv.cdn.com.mp/live/gdzj/stream.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="广东",广东体育
+https://tv.cdn.com.mp/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/大湾区卫视.png" group-title="广东",大湾区卫视
 http://183.30.201.117:10002/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东新闻.png" group-title="广东",广东新闻
@@ -38,5 +48,4 @@ http://183.30.201.117:10002/udp/239.77.1.132:5146
 http://183.30.201.117:10002/udp/239.77.0.229:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
 http://183.30.201.117:10002/udp/239.77.0.251:5146
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
-http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
+
