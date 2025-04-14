@@ -12,6 +12,16 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,摔跤
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="广州综合台" tvg-name="广州综合台" tvg-logo="https://epg.iill.top/logo/广州综合.png" group-title="•广东「特产」",广州综合
+http://dns.yiandrive.com:15907/gztv/zhonghe
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.iill.top/logo/广州新闻.png" group-title="•广东「特产」",广州新闻
+http://dns.yiandrive.com:15907/gztv/xinwen
+#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://epg.iill.top/logo/广州法治.png" group-title="•广东「特产」",广州法治
+http://dns.yiandrive.com:15907/gztv/fazhi
+#EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://epg.iill.top/logo/广州影视.png" group-title="•广东「特产」",广州影视
+http://dns.yiandrive.com:15907/gztv/yingshi
+#EXTINF:-1 tvg-id="广州南国" tvg-name="广州南国" tvg-logo="https://epg.iill.top/logo/广州南国.png" group-title="•广东「特产」",广州南国都市
+http://dns.yiandrive.com:15907/gztv/shenghuo
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳综合.png" group-title="广东",揭阳综合
 http://hls-jyrtv.jyrtv.tv/stjy2020/zhpd.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
