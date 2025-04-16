@@ -14,7 +14,7 @@ http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 http://cdn.163189.xyz/live/asam/stream.m3u8
 #EXTINF:-1 group-title="未分类",澳视卫星
 http://cdn.163189.xyz/live/as/stream.m3u8
-#EXTINF:-1 group-title="未分类广东",广东体育
+#EXTINF:-1 group-title="广东",广东体育
 http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 group-title="广东",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
