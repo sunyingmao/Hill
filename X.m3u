@@ -18,6 +18,8 @@ http://cdn.163189.xyz/live/as/stream.m3u8
 http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="广东",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+#EXTINF:-1,HBO
+http://122.117.71.103:8556/http/220.130.87.218:8081/hls/71/813/ch041.m3u8
 #EXTINF:-1,华丽翡翠台
 http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 #EXTINF:-1,TVB功夫台
