@@ -1,134 +1,146 @@
-#EXTINF:-1 group-title="未分类",翡翠台4K
+#EXTINF:-1 group-title="香港🇭🇰",翡翠台4K
 http://cdn.163189.xyz/live/fct4k/stream.m3u8
-#EXTINF:-1 group-title="未分类",TVB PLUS
+#EXTINF:-1 group-title="香港🇭🇰",TVB PLUS
 http://cdn.163189.xyz/live/tvbp/stream.m3u8
-#EXTINF:-1 group-title="未分类",TVB J1
+#EXTINF:-1 group-title="香港🇭🇰",TVB J1
 http://cdn3.163189.xyz/live/j1/stream.m3u8
-#EXTINF:-1 group-title="未分类",HOY TV
+#EXTINF:-1 group-title="香港🇭🇰",HOY TV
 http://cdn.163189.xyz/live/hoy/stream.m3u8
-#EXTINF:-1 group-title="未分类",凤凰中文
+#EXTINF:-1 group-title="凤凰🐦‍🔥",凤凰中文
 http://cdn.163189.xyz/live/fhzw/stream.m3u8
-#EXTINF:-1 group-title="未分类",凤凰资讯
+#EXTINF:-1 group-title="凤凰🐦‍🔥",凤凰资讯
 http://cdn3.163189.xyz/live/fhzx/stream.m3u8
-#EXTINF:-1 group-title="未分类",澳视澳门
+#EXTINF:-1 group-title="澳门",澳视澳门
 http://cdn.163189.xyz/live/asam/stream.m3u8
-#EXTINF:-1 group-title="未分类",澳视卫星
+#EXTINF:-1 group-title="澳门🇲🇴",澳视卫星
 http://cdn.163189.xyz/live/as/stream.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="广东",广东体育
 http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="广东",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-#EXTINF:-1,HBO
+#EXTINF:-1 group-title="香港🇭🇰",NOW新闻台
+http://mytv.cdn.com.mp/live/now/stream.m3u8
+#EXTINF:-1 group-title="影视",Discovery
+http://mytv.cdn.com.mp/live/d/stream.m3u8
+#EXTINF:-1 group-title="影视",东森电影
+http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
+#EXTINF:-1 group-title="影视",好莱坞电影
+http://mytv.cdn.com.mp/live/hlwdy/stream.m3u8
+#EXTINF:-1 group-title="影视",龙祥时代
+http://mytv.cdn.com.mp/live/lxsd/stream.m3u8
+#EXTINF:-1 group-title="影视",纬来电影
+http://mytv.cdn.com.mp/live/wldy/stream.m3u8
+#EXTINF:-1 group-title="影视",HBO
 http://122.117.71.103:8556/http/220.130.87.218:8081/hls/71/813/ch041.m3u8
-#EXTINF:-1,华丽翡翠台
+#EXTINF:-1 group-title="香港🇭🇰",华丽翡翠台
 http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-#EXTINF:-1,TVB功夫台
+#EXTINF:-1 group-title="香港🇭🇰",TVB功夫台
 http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
-#EXTINF:-1,TVB星河
+#EXTINF:-1 group-title="香港🇭🇰",TVB星河
 http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
-#EXTINF:-1 group-title="未分类",翡翠台
+#EXTINF:-1 group-title="香港🇭🇰",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
-#EXTINF:-1 group-title="未分类",翡翠台
+#EXTINF:-1 group-title="香港🇭🇰",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 group-title="未分类",翡翠台
+#EXTINF:-1 group-title="香港🇭🇰",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-#EXTINF:-1 group-title="未分类",明珠台
+#EXTINF:-1 group-title="香港🇭🇰",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 group-title="未分类",翡翠台北美版(TVB J1)
+#EXTINF:-1 group-title="香港🇭🇰",翡翠台北美版(TVB J1)
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
-#EXTINF:-1 group-title="未分类",TVB Plus
+#EXTINF:-1 group-title="香港🇭🇰",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 group-title="未分类",TVB Plus
+#EXTINF:-1 group-title="香港🇭🇰",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 group-title="未分类",无线新闻
+#EXTINF:-1 group-title="香港🇭🇰",无线新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 group-title="未分类",无线新闻
+#EXTINF:-1 group-title="香港🇭🇰",无线新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-#EXTINF:-1 group-title="未分类",VIUTV
+#EXTINF:-1 group-title="香港🇭🇰",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 group-title="未分类",VIUTV
+#EXTINF:-1 group-title="香港🇭🇰",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-#EXTINF:-1 group-title="未分类",HOY TV
+#EXTINF:-1 group-title="香港🇭🇰",HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 group-title="未分类",凤凰中文
+#EXTINF:-1 group-title="凤凰🐦‍🔥",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="未分类",凤凰资讯
+#EXTINF:-1 group-title="凤凰🐦‍🔥",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="未分类",凤凰香港
+#EXTINF:-1 group-title="凤凰🐦‍🔥",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 group-title="未分类",重温经典
+#EXTINF:-1 group-title="广东",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 group-title="未分类",广东珠江
+#EXTINF:-1 group-title="广东",广东珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-#EXTINF:-1 group-title="未分类",广东体育
+#EXTINF:-1 group-title="广东",广东体育
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-#EXTINF:-1 group-title="未分类",澳视澳门
+#EXTINF:-1 group-title="澳门🇲🇴",澳视澳门
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 group-title="未分类",澳视卫星
+#EXTINF:-1 group-title="澳门🇲🇴",澳视卫星
 http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 group-title="未分类",八度空间
+#EXTINF:-1 group-title="SG🇸🇬",八度空间
 https://cdn6.163189.xyz/live/8tv/stream.m3u8
-#EXTINF:-1 group-title="未分类",CH5
+#EXTINF:-1 group-title="SG🇸🇬",CH5
 https://cdn6.163189.xyz/live/ch5/stream.m3u8
-#EXTINF:-1 group-title="未分类",CH8
+#EXTINF:-1 group-title="SG🇸🇬",CH8
 https://cdn6.163189.xyz/live/ch8/stream.m3u8
-#EXTINF:-1 group-title="未分类",CHU
+#EXTINF:-1 group-title="SG🇸🇬",CHU
 https://cdn6.163189.xyz/live/chu/stream.m3u8
 #EXTINF:-1 group-title="未分类",龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 group-title="未分类",龙华经典
 https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-#EXTINF:-1 group-title="未分类",龙华卡通
+#EXTINF:-1 group-title="龙华",龙华卡通
 https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-#EXTINF:-1 group-title="未分类",龙华偶像
+#EXTINF:-1 group-title="龙华",龙华偶像
 https://cdn8.163189.xyz/live/lhox/stream.m3u8
-#EXTINF:-1 group-title="未分类",龙华日韩
+#EXTINF:-1 group-title="龙华",龙华日韩
 https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-#EXTINF:-1 group-title="未分类",龙华戏剧
+#EXTINF:-1 group-title="龙华",龙华戏剧
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-#EXTINF:-1 group-title="未分类",龙华洋片
+#EXTINF:-1 group-title="龙华",龙华洋片
 https://cdn8.163189.xyz/live/lhyp/stream.m3u8
-#EXTINF:-1 group-title="未分类",翡翠台
+#EXTINF:-1 group-title="香港🇭🇰",翡翠台
 http://php.jdshipin.com/smt.php?id=jade_twn
-#EXTINF:-1 group-title="未分类",华丽翡翠台
+#EXTINF:-1 group-title="香港🇭🇰",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 group-title="未分类",无线新闻台
+#EXTINF:-1 group-title="香港🇭🇰",无线新闻台
 http://php.jdshipin.com/smt.php?id=inews_twn
-#EXTINF:-1 group-title="未分类",千禧经典台
+#EXTINF:-1 group-title="香港🇭🇰",千禧经典台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 group-title="未分类",TVB娱乐新闻台
+#EXTINF:-1 group-title="香港🇭🇰",TVB娱乐新闻台
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
-#EXTINF:-1 group-title="未分类",天映频道
+#EXTINF:-1 group-title="香港🇭🇰",天映频道
 http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:-1 group-title="未分类",天映经典
+#EXTINF:-1 group-title="香港🇭🇰",天映经典
 http://php.jdshipin.com/smt.php?id=Celestial2
-#EXTINF:-1 group-title="未分类",Astro AOD
+#EXTINF:-1 group-title="SG🇸🇬",Astro AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1 group-title="未分类",Astro AEC
+#EXTINF:-1 group-title="SG🇸🇬",Astro AEC
 http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 group-title="未分类",爱奇艺
+#EXTINF:-1 group-title="SG🇸🇬",爱奇艺
 http://php.jdshipin.com/smt.php?id=Qiyi
-#EXTINF:-1 group-title="未分类",Astro QJ
+#EXTINF:-1 group-title="SG🇸🇬",Astro QJ
 http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 group-title="未分类",Astro欢喜台
+#EXTINF:-1 group-title="SG🇸🇬",Astro欢喜台
 http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 group-title="未分类",八度空间
+#EXTINF:-1 group-title="SG🇸🇬",八度空间
 http://php.jdshipin.com/smt.php?id=TV8
-#EXTINF:-1 group-title="未分类",华丽翡翠台
+#EXTINF:-1 group-title="香港🇭🇰",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-#EXTINF:-1 group-title="未分类",亚洲武侠
+#EXTINF:-1 group-title="香港🇭🇰",亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 group-title="未分类",TVB娱乐新闻台
+#EXTINF:-1 group-title="香港🇭🇰",TVB娱乐新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 group-title="未分类",TVB星河
+#EXTINF:-1 group-title="香港🇭🇰",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1,红牛体育
+#EXTINF:-1 group-title="其它",红牛体育
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1,美亚C+
+#EXTINF:-1 group-title="其它",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1,lovenature 4k
+#EXTINF:-1 group-title="其它",lovenature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1,摔跤
+#EXTINF:-1 group-title="其它",摔跤
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="广州综合台" tvg-name="广州综合台" tvg-logo="https://epg.iill.top/logo/广州综合.png" group-title="广东",广州综合
 http://php.jdshipin.com/gztv.php?id=zhonghe
