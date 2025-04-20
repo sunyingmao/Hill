@@ -10,6 +10,8 @@ http://cdn.163189.xyz/live/hoy/stream.m3u8
 http://cdn.163189.xyz/live/fhzw/stream.m3u8
 #EXTINF:-1 group-title="凤凰🐦‍🔥",凤凰资讯
 http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+#EXTINF:-1 group-title="凤凰🐦‍🔥",凤凰香港
+http://cdn3.163189.xyz/live/fhhk/stream.m3u8
 #EXTINF:-1 group-title="澳门🇲🇴",澳视澳门
 http://cdn.163189.xyz/live/asam/stream.m3u8
 #EXTINF:-1 group-title="澳门🇲🇴",澳视卫星
