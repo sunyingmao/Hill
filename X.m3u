@@ -20,6 +20,18 @@ http://cdn.163189.xyz/live/as/stream.m3u8
 http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="广东",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+#EXTINF:-1 group-title="香港🇭🇰",NOW新闻台
+http://mytv.cdn.com.mp/live/now/stream.m3u8
+#EXTINF:-1 group-title="影视",Discovery
+http://mytv.cdn.com.mp/live/d/stream.m3u8
+#EXTINF:-1 group-title="影视",东森电影
+http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
+#EXTINF:-1 group-title="影视",好莱坞电影
+http://mytv.cdn.com.mp/live/hlwdy/stream.m3u8
+#EXTINF:-1 group-title="影视",龙祥时代
+http://mytv.cdn.com.mp/live/lxsd/stream.m3u8
+#EXTINF:-1 group-title="影视",纬来电影
+http://mytv.cdn.com.mp/live/wldy/stream.m3u8
 #EXTINF:-1 group-title="影视",东森电影
 http://119.140.58.125:4434/hls/39/index.m3u8
 #EXTINF:-1 group-title="影视",龙祥时代
