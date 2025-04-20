@@ -86,9 +86,9 @@ https://cdn6.163189.xyz/live/ch5/stream.m3u8
 https://cdn6.163189.xyz/live/ch8/stream.m3u8
 #EXTINF:-1 group-title="SG🇸🇬",CHU
 https://cdn6.163189.xyz/live/chu/stream.m3u8
-#EXTINF:-1 group-title="未分类",龙华电影
+#EXTINF:-1 group-title="龙华",龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-#EXTINF:-1 group-title="未分类",龙华经典
+#EXTINF:-1 group-title="龙华",龙华经典
 https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 #EXTINF:-1 group-title="龙华",龙华卡通
 https://cdn8.163189.xyz/live/lhkt/stream.m3u8
