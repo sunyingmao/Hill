@@ -26,9 +26,9 @@ http://119.140.58.125:4434/hls/40/index.m3u8
 http://122.117.71.103:8556/http/220.130.87.218:8081/hls/71/813/ch041.m3u8
 #EXTINF:-1 group-title="香港🇭🇰",华丽翡翠台
 http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-#EXTINF:-1 group-title="香港🇭🇰",TVB功夫台
+#EXTINF:-1 group-title="影视",TVB功夫台
 http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
-#EXTINF:-1 group-title="香港🇭🇰",TVB星河
+#EXTINF:-1 group-title="影视",TVB星河
 http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 #EXTINF:-1 group-title="香港🇭🇰",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
@@ -98,19 +98,19 @@ http://php.jdshipin.com/smt.php?id=jade_twn
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 #EXTINF:-1 group-title="香港🇭🇰",无线新闻台
 http://php.jdshipin.com/smt.php?id=inews_twn
-#EXTINF:-1 group-title="香港🇭🇰",千禧经典台
+#EXTINF:-1 group-title="影视",千禧经典台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 group-title="香港🇭🇰",TVB娱乐新闻台
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
-#EXTINF:-1 group-title="香港🇭🇰",天映频道
+#EXTINF:-1 group-title="影视",天映频道
 http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:-1 group-title="香港🇭🇰",天映经典
+#EXTINF:-1 group-title="影视",天映经典
 http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:-1 group-title="SG🇸🇬",Astro AOD
 http://php.jdshipin.com/TVOD/iptv.php?id=aod
 #EXTINF:-1 group-title="SG🇸🇬",Astro AEC
 http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 group-title="SG🇸🇬",爱奇艺
+#EXTINF:-1 group-title="影视",爱奇艺
 http://php.jdshipin.com/smt.php?id=Qiyi
 #EXTINF:-1 group-title="SG🇸🇬",Astro QJ
 http://php.jdshipin.com/smt.php?id=Quanjia
@@ -120,11 +120,11 @@ http://php.jdshipin.com/smt.php?id=Huahee
 http://php.jdshipin.com/smt.php?id=TV8
 #EXTINF:-1 group-title="香港🇭🇰",华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-#EXTINF:-1 group-title="香港🇭🇰",亚洲武侠
+#EXTINF:-1 group-title="影视",亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 group-title="香港🇭🇰",TVB娱乐新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 group-title="香港🇭🇰",TVB星河
+#EXTINF:-1 group-title="影视",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 group-title="其它",红牛体育
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
