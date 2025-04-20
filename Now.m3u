@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-APP APTV
+
+#EXTINF:-1 group-title="未分类",NOW新闻台
+http://mytv.cdn.com.mp/live/now/stream.m3u8
+#EXTINF:-1 group-title="未分类",Discovery
+http://mytv.cdn.com.mp/live/d/stream.m3u8
+#EXTINF:-1 group-title="未分类",东森电影
+http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
+#EXTINF:-1 group-title="未分类",好莱坞电影
+http://mytv.cdn.com.mp/live/hlwdy/stream.m3u8
+#EXTINF:-1 group-title="未分类",龙祥时代
+http://mytv.cdn.com.mp/live/lxsd/stream.m3u8
+#EXTINF:-1 group-title="未分类",纬来电影
+http://mytv.cdn.com.mp/live/wldy/stream.m3u8
