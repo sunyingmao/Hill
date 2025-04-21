@@ -76,9 +76,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 group-title="广东",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 group-title="广东",广东珠江
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="广东",广东珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-#EXTINF:-1 group-title="广东",广东体育
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="广东",广东体育
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1 group-title="澳门🇲🇴",澳视澳门
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
