@@ -34,6 +34,12 @@ http://mytv.cdn.com.mp/live/lxsd/stream.m3u8
 http://mytv.cdn.com.mp/live/wldy/stream.m3u8
 #EXTINF:-1 group-title="影视",HBO
 http://122.117.71.103:8556/http/220.130.87.218:8081/hls/71/813/ch041.m3u8
+#EXTINF:-1 group-title="影视",HBO Hits
+http://108.181.20.197/livehttpplay?channel_id=20091
+#EXTINF:-1 group-title="影视",HBO Family
+http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+#EXTINF:-1 group-title="影视",HBOSignature
+http://108.181.20.197/livehttpplay?channel_id=20314
 #EXTINF:-1 group-title="香港🇭🇰",华丽翡翠台
 http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 #EXTINF:-1 group-title="影视",TVB功夫台
