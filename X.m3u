@@ -32,10 +32,6 @@ http://mytv.cdn.com.mp/live/hlwdy/stream.m3u8
 http://mytv.cdn.com.mp/live/lxsd/stream.m3u8
 #EXTINF:-1 group-title="影视",纬来电影
 http://mytv.cdn.com.mp/live/wldy/stream.m3u8
-#EXTINF:-1 group-title="影视",东森电影
-http://119.140.58.125:4434/hls/39/index.m3u8
-#EXTINF:-1 group-title="影视",龙祥时代
-http://119.140.58.125:4434/hls/40/index.m3u8
 #EXTINF:-1 group-title="影视",HBO
 http://122.117.71.103:8556/http/220.130.87.218:8081/hls/71/813/ch041.m3u8
 #EXTINF:-1 group-title="香港🇭🇰",华丽翡翠台
