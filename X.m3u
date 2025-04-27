@@ -32,6 +32,8 @@ http://mytv.cdn.com.mp/live/hlwdy/stream.m3u8
 http://mytv.cdn.com.mp/live/lxsd/stream.m3u8
 #EXTINF:-1 group-title="影视",纬来电影
 http://mytv.cdn.com.mp/live/wldy/stream.m3u8
+#EXTINF:-1 group-title="影视",斗鱼影院
+https://www.goodiptv.club/douyu/9476806
 #EXTINF:-1 group-title="影视",HBO
 http://122.117.71.103:8556/http/220.130.87.218:8081/hls/71/813/ch041.m3u8
 #EXTINF:-1 group-title="影视",HBO Hits
