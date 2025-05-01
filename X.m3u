@@ -25,6 +25,8 @@ http://mytv.cdn.com.mp/live/now/stream.m3u8
 #EXTINF:-1 group-title="影视",Discovery
 http://mytv.cdn.com.mp/live/d/stream.m3u8
 #EXTINF:-1 group-title="影视",东森电影
+https://ali.hlspull.yximgs.com/live/11q2w3e4r5t6y7u8ik9ol0p1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3ed.flv
+#EXTINF:-1 group-title="影视",东森电影
 http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 #EXTINF:-1 group-title="影视",好莱坞电影
 http://mytv.cdn.com.mp/live/hlwdy/stream.m3u8
