@@ -1,7 +1,0 @@
-#EXTM3U
-#EXT-X-APP APTV
-
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="電影戲劇",龍華偶像台
-https://tv.iill.top/litv/litv-longturn12
-#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://assets.livednow.com/logo/龍華戲劇台.png" group-title="電影戲劇",龍華戲劇台
-https://tv.iill.top/litv/litv-longturn18
