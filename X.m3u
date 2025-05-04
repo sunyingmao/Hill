@@ -188,7 +188,7 @@ http://113.64.146.135:2024/hls/39/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东影视.png" group-title="广东",广东影视
 http://113.64.146.135:2024/hls/42/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东民生.png" group-title="广东",广东民生
-http://113.109.249.16:9999/udp/239.77.0.225:5146
+http://113.64.146.135:2024/hls/38/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="广东",广东珠江
 http://113.64.146.135:2024/hls/36/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东",潮州综合
