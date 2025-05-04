@@ -82,7 +82,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="凤凰🐦‍🔥",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 group-title="广东",重温经典
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="广东",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="广东",广东珠江
