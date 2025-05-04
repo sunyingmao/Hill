@@ -192,9 +192,11 @@ http://113.64.146.135:2024/hls/38/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="广东",广东珠江
 http://113.64.146.135:2024/hls/36/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东",潮州综合
-http://211.97.63.3:801/hls/503/index.m3u8
+http://tv.zzlag.top:9003/hls/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州民生.png" group-title="广东",潮州民生
 http://113.64.146.135:2024/hls/6/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮安综合.png" group-title="广东",潮安综合
+http://tv.zzlag.top:9003/hls/9/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="广东",汕头综合
 http://113.64.146.135:2024/hls/4/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头经济生活.png" group-title="广东",汕头经济生活
