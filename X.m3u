@@ -190,17 +190,27 @@ http://113.64.146.135:2024/hls/36/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东",潮州综合
 http://tv.zzlag.top:9003/hls/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州民生.png" group-title="广东",潮州民生
+http://tv.zzlag.top:9003/hls/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州民生.png" group-title="广东",潮州民生
 http://113.64.146.135:2024/hls/6/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮安综合.png" group-title="广东",潮安综合
 http://tv.zzlag.top:9003/hls/9/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="广东",汕头综合
+http://tv.zzlag.top:9003/hls/3/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="广东",汕头综合
 http://113.64.146.135:2024/hls/4/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头经济生活.png" group-title="广东",汕头经济生活
+http://tv.zzlag.top:9003/hls/4/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头经济生活.png" group-title="广东",汕头经济生活
 http://113.64.146.135:2024/hls/5/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头文旅体育.png" group-title="广东",汕头文旅体育
 http://113.109.249.16:9999/udp/239.77.1.132:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳综合.png" group-title="广东",揭阳综合
+http://tv.zzlag.top:9003/hls/7/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳综合.png" group-title="广东",揭阳综合
 http://113.64.146.135:2024/hls/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
+http://tv.zzlag.top:9003/hls/6/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
 http://113.64.146.135:2024/hls/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭东综合.png" group-title="广东",揭东综合
