@@ -22,14 +22,6 @@ http://cdn3.163189.xyz/live/fhhk/stream.m3u8
 http://cdn.163189.xyz/live/asam/stream.m3u8
 #EXTINF:-1 group-title="澳门🇲🇴",澳视卫星
 http://cdn.163189.xyz/live/as/stream.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/爆谷台.png" group-title="影视",爆谷🍿
-http://ali.hlspull.yximgs.com/live/aaa78b276e3e4e12d216303c1ed5f6b2.flv
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/爆谷台.png" group-title="影视",爆谷🍿
-http://ali.hlspull.yximgs.com/live/d47218da23c21e65b2d760ddfdd4608e.flv
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/星影台.png" group-title="影视",星影台
-http://ali.hlspull.yximgs.com/live/38af72640b13b1b1e9b8f3ff3809964e.flv
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/星影台.png" group-title="影视",星影台
-http://ali.hlspull.yximgs.com/live/b71edcf16306c431502b7da3d58f4a33.flv
 #EXTINF:-1 group-title="影视",东森洋片
 http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 #EXTINF:-1 group-title="影视",东森电影
