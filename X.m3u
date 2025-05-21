@@ -18,10 +18,6 @@ http://cdn.163189.xyz/live/fhzw/stream.m3u8
 http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 #EXTINF:-1 group-title="凤凰🐦‍🔥",凤凰香港
 http://cdn3.163189.xyz/live/fhhk/stream.m3u8
-#EXTINF:-1 group-title="澳门🇲🇴",澳视澳门
-http://cdn.163189.xyz/live/asam/stream.m3u8
-#EXTINF:-1 group-title="澳门🇲🇴",澳视卫星
-http://cdn.163189.xyz/live/as/stream.m3u8
 #EXTINF:-1 group-title="影视",东森洋片
 http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 #EXTINF:-1 group-title="影视",东森电影
@@ -86,7 +82,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="广东",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="广东",广东珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="广东",广东体育
@@ -95,6 +90,22 @@ http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 group-title="澳门🇲🇴",澳视卫星
 http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 group-title="澳门🇲🇴",澳视澳门
+https://gat.tv12.xyz/181.m3u8
+#EXTINF:-1 group-title="澳门🇲🇴",澳视葡文
+https://gat.tv12.xyz/182.m3u8
+#EXTINF:-1 group-title="澳门🇲🇴",澳视卫星
+https://gat.tv12.xyz/183.m3u8
+#EXTINF:-1 group-title="澳门🇲🇴",澳视体育
+https://gat.tv12.xyz/184.m3u8
+#EXTINF:-1 group-title="澳门🇲🇴",澳视资讯
+https://gat.tv12.xyz/185.m3u8
+#EXTINF:-1 group-title="澳门🇲🇴",澳视综艺
+https://gat.tv12.xyz/186.m3u8
+#EXTINF:-1 group-title="澳门🇲🇴",莲花卫视
+https://gat.tv12.xyz/187.m3u8
+#EXTINF:-1 group-title="综合",亚洲卫视
+https://gat.tv12.xyz/173.m3u8
 #EXTINF:-1 group-title="SG🇸🇬",八度空间
 https://cdn6.163189.xyz/live/8tv/stream.m3u8
 #EXTINF:-1 group-title="SG🇸🇬",CH5
