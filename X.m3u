@@ -18,6 +18,8 @@ http://cdn.163189.xyz/live/fhzw/stream.m3u8
 http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 #EXTINF:-1 group-title="凤凰🐦‍🔥",凤凰香港
 http://cdn3.163189.xyz/live/fhhk/stream.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/星影台.png" group-title="影视",星影台
+
 #EXTINF:-1 group-title="影视",东森洋片
 http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 #EXTINF:-1 group-title="影视",东森电影
