@@ -134,9 +134,9 @@ http://php.jdshipin.com/smt.php?id=inews_twn
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 group-title="香港🇭🇰",TVB娱乐新闻台
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
-#EXTINF:-1 group-title="影视",天映频道(HK)
+#EXTINF:-1 group-title="影视",天映频道(粤语)
 https://hkfa.2025link.site/43rd_HK_Film_Awards/astro_celestial_movies
-#EXTINF:-1 group-title="影视",天映频道
+#EXTINF:-1 group-title="影视",天映频道(国语)
 http://php.jdshipin.com/smt.php?id=Celestial
 #EXTINF:-1 group-title="影视",天映经典
 http://php.jdshipin.com/smt.php?id=Celestial2
@@ -146,8 +146,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=aod
 http://php.jdshipin.com/smt.php?id=AEC
 #EXTINF:-1 group-title="影视",爱奇艺
 http://php.jdshipin.com/smt.php?id=Qiyi
-#EXTINF:-1 group-title="影视",周星星
-http://hw.1678520.xyz/live/zxx/stream.m3u8
 #EXTINF:-1 group-title="SG🇸🇬",Astro QJ
 http://php.jdshipin.com/smt.php?id=Quanjia
 #EXTINF:-1 group-title="SG🇸🇬",Astro欢喜台
