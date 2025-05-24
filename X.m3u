@@ -91,21 +91,17 @@ http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 group-title="澳门🇲🇴",澳视卫星
 http://php.jdshipin.com/TVOD/iptv.php?id=as
 #EXTINF:-1 group-title="澳门🇲🇴",澳视澳门
-https://gat.tv12.xyz/181.m3u8
-#EXTINF:-1 group-title="澳门🇲🇴",澳视葡文
-https://gat.tv12.xyz/182.m3u8
-#EXTINF:-1 group-title="澳门🇲🇴",澳视卫星
-https://gat.tv12.xyz/183.m3u8
+https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 group-title="澳门🇲🇴",澳视Macau
+https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 group-title="澳门🇲🇴",澳视体育
-https://gat.tv12.xyz/184.m3u8
+https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 group-title="澳门🇲🇴",澳视资讯
-https://gat.tv12.xyz/185.m3u8
+https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 group-title="澳门🇲🇴",澳视综艺
-https://gat.tv12.xyz/186.m3u8
+https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 group-title="澳门🇲🇴",莲花卫视
-https://gat.tv12.xyz/187.m3u8
-#EXTINF:-1 group-title="综合",亚洲卫视
-https://gat.tv12.xyz/173.m3u8
+http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 #EXTINF:-1 group-title="SG🇸🇬",八度空间
 https://cdn6.163189.xyz/live/8tv/stream.m3u8
 #EXTINF:-1 group-title="SG🇸🇬",CH5
