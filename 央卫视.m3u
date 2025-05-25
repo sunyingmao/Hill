@@ -58,8 +58,6 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/index.m3u8
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CETV4.png" group-title="CETV",CETV4
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/index.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CGTN.png" group-title="测试频道",CGTN
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226666/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/湖南卫视.png" group-title="卫视",湖南卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226698/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/浙江卫视.png" group-title="卫视",浙江卫视
@@ -144,16 +142,10 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226707/index.m3u8
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226696/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226716/index.m3u8
-#EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/哒啵电竞.png" group-title="测试频道",哒啵电竞
-http://rrs02.hw.gmcc.net:8088/PLTV/27/224/3221226891/index.m3u8
-#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/哒啵赛事.png" group-title="测试频道",哒啵赛事
-http://rrs02.hw.gmcc.net:8088/PLTV/27/224/3221226905/index.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京纪实科教.png" group-title="测试频道",北京纪实科教
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226656/index.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京纪实科教.png" group-title="测试频道",北京纪实科教
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226658/index.m3u8
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京纪实科教.png" group-title="测试频道",北京纪实科教
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226730/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/卡酷少儿.png" group-title="测试频道",卡酷少儿
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226677/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/哈哈炫动.png" group-title="测试频道",哈哈炫动
