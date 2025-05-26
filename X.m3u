@@ -186,18 +186,6 @@ http://php.jdshipin.com/gztv.php?id=shenghuo
 http://hls-jyrtv.jyrtv.tv/stjy2020/zhpd.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
 http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/大湾区卫视.png" group-title="广东",大湾区卫视
-http://113.109.249.16:9999/udp/239.77.0.215:5146
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东新闻.png" group-title="广东",广东新闻
-http://113.64.146.135:2024/hls/37/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="广东",广东体育
-http://113.64.146.135:2024/hls/39/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东影视.png" group-title="广东",广东影视
-http://113.64.146.135:2024/hls/42/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东民生.png" group-title="广东",广东民生
-http://113.64.146.135:2024/hls/38/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="广东",广东珠江
-http://113.64.146.135:2024/hls/36/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/深圳电视剧.png" group-title="广东",深圳电视剧
 http://tv.zzlag.top:9003/hls/10/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东",潮州综合
@@ -206,33 +194,14 @@ http://tv.zzlag.top:9003/hls/1/index.m3u8
 http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州民生.png" group-title="广东",潮州民生
 http://tv.zzlag.top:9003/hls/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州民生.png" group-title="广东",潮州民生
-http://113.64.146.135:2024/hls/6/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮安综合.png" group-title="广东",潮安综合
 http://tv.zzlag.top:9003/hls/9/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="广东",汕头综合
 http://tv.zzlag.top:9003/hls/3/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="广东",汕头综合
-http://113.64.146.135:2024/hls/4/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头经济生活.png" group-title="广东",汕头经济生活
 http://tv.zzlag.top:9003/hls/4/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头经济生活.png" group-title="广东",汕头经济生活
-http://113.64.146.135:2024/hls/5/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头文旅体育.png" group-title="广东",汕头文旅体育
-http://113.109.249.16:9999/udp/239.77.1.132:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳综合.png" group-title="广东",揭阳综合
 http://tv.zzlag.top:9003/hls/7/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳综合.png" group-title="广东",揭阳综合
-http://113.64.146.135:2024/hls/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
 http://tv.zzlag.top:9003/hls/6/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
-http://113.64.146.135:2024/hls/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭东综合.png" group-title="广东",揭东综合
-http://121.11.160.7:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/普宁台.png" group-title="广东",普宁台
-http://121.11.160.7:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/惠来综合.png" group-title="广东",惠来综合
-http://113.64.146.135:2024/hls/3/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕尾综合.png" group-title="广东",汕尾综合
-http://113.64.146.135:2024/hls/7/index.m3u8
+
