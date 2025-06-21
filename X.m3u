@@ -122,6 +122,10 @@ http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 http://cdn3.163189.xyz/live/fhhk/stream.m3u8
 #EXTINF:-1 group-title="影视",星影台
 https://ali.hlspull.yximgs.com/live/xiangjiaogef31fdg31g1gdg.flv
+#EXTINF:-1 group-title="影视",CM+
+http://test.oxxxo.ggff.net/stream/cmplus/playlist.m3u8
+#EXTINF:-1 group-title="影视",长风频道
+http://cfss.cc/cdn/hy/11342424.m3u8
 #EXTINF:-1 group-title="影视",东森洋片
 http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 #EXTINF:-1 group-title="影视",东森电影
