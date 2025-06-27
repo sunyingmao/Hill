@@ -1,6 +1,3 @@
-#EXTM3U
-#EXT-X-APP APTV
-
 #EXTINF:-1 group-title="大陸",CCTV1 综合HD
 https://hls-gateway.vpstv.net/streams/476879.m3u8
 #EXTINF:-1 group-title="大陸",CCTV2 财经HD
