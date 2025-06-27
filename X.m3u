@@ -94,6 +94,16 @@ http://cdn.jdshipin.com/jisu.php?id=gsws
 http://cdn.jdshipin.com/jisu.php?id=nxws
 #EXTINF:-1 group-title="卫视",青海卫视
 http://cdn.jdshipin.com/jisu.php?id=qhws
+#EXTINF:-1 group-title="4K",CCTV4K
+http://lfdxn.jydjd.top:2903/udp/225.1.101.109:7523
+#EXTINF:-1 group-title="4K",CCTV-16_4K
+http://lfdxn.jydjd.top:2903/udp/225.1.1.4:7523
+#EXTINF:-1 group-title="4K",深圳卫视4K
+http://lfdxn.jydjd.top:2903/udp/225.1.101.35:7523
+#EXTINF:-1 group-title="4K",广东4K超高清
+http://lfdxn.jydjd.top:2903/udp/225.1.1.3:7523
+#EXTINF:-1 group-title="4K",南国都市4K
+http://lfdxn.jydjd.top:2903/udp/225.1.1.2:7523
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="香港🇭🇰",翡翠台(字幕)
 https://mytv.cdn.com.mp/hls/fct/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="香港🇭🇰",翡翠台4K(字幕)
