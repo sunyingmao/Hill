@@ -195,7 +195,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="凤凰🐦‍🔥",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="广东",重温经典
-http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+http://lfdxn.jydjd.top:2903/udp/224.1.100.126:11111
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="广东",广东珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="广东",广东体育
