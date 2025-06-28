@@ -43,57 +43,47 @@ http://lfdxn.jydjd.top:2903/udp/224.1.100.46:11111
 #EXTINF:-1 group-title="卫视",浙江卫视
 http://lfdxn.jydjd.top:2903/udp/224.1.100.52:11111
 #EXTINF:-1 group-title="卫视",东方卫视
-http://cdn.jdshipin.com/jisu.php?id=dfws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.48:11111
 #EXTINF:-1 group-title="卫视",广东卫视
-http://cdn.jdshipin.com/jisu.php?id=gdws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.34:11111
 #EXTINF:-1 group-title="卫视",深圳卫视
-http://cdn.jdshipin.com/jisu.php?id=szws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.40:11111
 #EXTINF:-1 group-title="卫视",四川卫视
-http://cdn.jdshipin.com/jisu.php?id=scws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.72:11111
 #EXTINF:-1 group-title="卫视",江西卫视
-http://cdn.jdshipin.com/jisu.php?id=jxws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.54:11111
 #EXTINF:-1 group-title="卫视",天津卫视
-http://cdn.jdshipin.com/jisu.php?id=tjws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.62:11111
 #EXTINF:-1 group-title="卫视",重庆卫视
-http://cdn.jdshipin.com/jisu.php?id=cqws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.102:11111
 #EXTINF:-1 group-title="卫视",黑龙江卫视
-http://cdn.jdshipin.com/jisu.php?id=hljws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.139:11111
 #EXTINF:-1 group-title="卫视",吉林卫视
-http://cdn.jdshipin.com/jisu.php?id=jlws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.60:11111
 #EXTINF:-1 group-title="卫视",辽宁卫视
-http://cdn.jdshipin.com/jisu.php?id=lnws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.92:11111
 #EXTINF:-1 group-title="卫视",河北卫视
-http://cdn.jdshipin.com/jisu.php?id=hbws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.19:11111
 #EXTINF:-1 group-title="卫视",山东卫视
-http://cdn.jdshipin.com/jisu.php?id=sdws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.50:11111
 #EXTINF:-1 group-title="卫视",山西卫视
-http://cdn.jdshipin.com/jisu.php?id=sxws
-#EXTINF:-1 group-title="卫视",陕西卫视
-http://cdn.jdshipin.com/jisu.php?id=snws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.150:11111
 #EXTINF:-1 group-title="卫视",安徽卫视
-http://cdn.jdshipin.com/jisu.php?id=ahws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.66:11111
 #EXTINF:-1 group-title="卫视",河南卫视
-http://cdn.jdshipin.com/jisu.php?id=hnws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.74:11111
 #EXTINF:-1 group-title="卫视",湖北卫视
-http://cdn.jdshipin.com/jisu.php?id=hubws
-#EXTINF:-1 group-title="卫视",东南卫视
-http://cdn.jdshipin.com/jisu.php?id=dnws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.68:11111
 #EXTINF:-1 group-title="卫视",贵州卫视
-http://cdn.jdshipin.com/jisu.php?id=gzws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.58:11111
 #EXTINF:-1 group-title="卫视",广西卫视
-http://cdn.jdshipin.com/jisu.php?id=gxws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.110:11111
 #EXTINF:-1 group-title="卫视",新疆卫视
-http://cdn.jdshipin.com/jisu.php?id=xjws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.14:11111
 #EXTINF:-1 group-title="卫视",海南卫视
-http://cdn.jdshipin.com/jisu.php?id=hinws
-#EXTINF:-1 group-title="卫视",内蒙古卫视
-http://cdn.jdshipin.com/jisu.php?id=nmgws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.15:11111
 #EXTINF:-1 group-title="卫视",甘肃卫视
-http://cdn.jdshipin.com/jisu.php?id=gsws
-#EXTINF:-1 group-title="卫视",宁夏卫视
-http://cdn.jdshipin.com/jisu.php?id=nxws
-#EXTINF:-1 group-title="卫视",青海卫视
-http://cdn.jdshipin.com/jisu.php?id=qhws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.10:11111
 #EXTINF:-1 group-title="4K",CCTV4K
 http://lfdxn.jydjd.top:2903/udp/225.1.101.109:7523
 #EXTINF:-1 group-title="4K",CCTV-16_4K
