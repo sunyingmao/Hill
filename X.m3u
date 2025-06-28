@@ -327,9 +327,9 @@ http://tv.zzlag.top:9003/hls/3/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头经济生活.png" group-title="广东",汕头经济生活
 http://tv.zzlag.top:9003/hls/4/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳综合.png" group-title="广东",揭阳综合
-http://tv.zzlag.top:9003/hls/7/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
 http://tv.zzlag.top:9003/hls/6/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
+http://tv.zzlag.top:9003/hls/7/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东",潮州综合
 http://218.18.239.209:8888/udp/239.253.43.70:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州民生.png" group-title="广东",潮州民生
