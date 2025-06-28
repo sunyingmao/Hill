@@ -288,7 +288,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 http://lfdxn.jydjd.top:2903/udp/224.1.100.34:11111
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="广东",广东珠江
 http://lfdxn.jydjd.top:2903/udp/224.1.100.23:11111
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/广东影视.png" group-title="广东"广东影视
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/广东影视.png" group-title="广东",广东影视
 http://lfdxn.jydjd.top:2903/udp/224.1.100.154:11111
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/岭南戏曲.png" group-title="广东",岭南戏曲
 http://lfdxn.jydjd.top:2903/udp/224.1.100.157:11111
