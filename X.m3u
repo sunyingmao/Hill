@@ -35,13 +35,13 @@ http://lfdxn.jydjd.top:2903/udp/225.1.101.133:7523
 #EXTINF:-1 group-title="央视",CCTV17
 http://lfdxn.jydjd.top:2903/udp/224.1.100.135:11111
 #EXTINF:-1 group-title="卫视",北京卫视
-http://cdn.jdshipin.com/jisu.php?id=bjws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.100:11111
 #EXTINF:-1 group-title="卫视",湖南卫视
-http://cdn.jdshipin.com/jisu.php?id=hunws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.52:11111
 #EXTINF:-1 group-title="卫视",江苏卫视
-http://cdn.jdshipin.com/jisu.php?id=jsws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.46:11111
 #EXTINF:-1 group-title="卫视",浙江卫视
-http://cdn.jdshipin.com/jisu.php?id=zjws
+http://lfdxn.jydjd.top:2903/udp/224.1.100.52:11111
 #EXTINF:-1 group-title="卫视",东方卫视
 http://cdn.jdshipin.com/jisu.php?id=dfws
 #EXTINF:-1 group-title="卫视",广东卫视
