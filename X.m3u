@@ -312,16 +312,12 @@ http://php.jdshipin.com/gztv.php?id=shenghuo
 http://hls-jyrtv.jyrtv.tv/stjy2020/zhpd.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
 http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/深圳电视剧.png" group-title="广东",深圳电视剧
-http://tv.zzlag.top:9003/hls/10/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东",潮州综合
 http://tv.zzlag.top:9003/hls/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东",潮州综合
 http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州民生.png" group-title="广东",潮州民生
 http://tv.zzlag.top:9003/hls/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮安综合.png" group-title="广东",潮安综合
-http://tv.zzlag.top:9003/hls/9/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="广东",汕头综合
 http://tv.zzlag.top:9003/hls/3/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头经济生活.png" group-title="广东",汕头经济生活
