@@ -15,15 +15,15 @@ https://tv.iill.top/litv/litv-ftv09
 https://tv.iill.top/litv/litv-ftv07
 #EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://epg.iill.top/logo/民視綜藝台.png" group-title="音樂綜藝",民視綜藝台
 https://tv.iill.top/litv/4gtv-4gtv004
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://epg.iill.top/logo/中視.png" group-title="綜合",中視
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://epg.iill.top/logo/中视.png" group-title="綜合",中視
 https://tv.iill.top/litv/4gtv-4gtv040
-#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://epg.iill.top/logo/中視新聞台.png" group-title="新聞財經",中視新聞台
+#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://epg.iill.top/logo/中视新闻.png" group-title="新聞財經",中視新聞台
 https://tv.iill.top/litv/4gtv-4gtv074
 #EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://epg.iill.top/logo/中视经典.png" group-title="電影戲劇",中視經典台
 https://tv.iill.top/litv/4gtv-4gtv080
 #EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://epg.iill.top/logo/中視菁采台.png" group-title="綜合",中視菁采台
 https://tv.iill.top/litv/4gtv-4gtv064
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.iill.top/logo/中天新聞台.png" group-title="新聞財經",中天新聞台
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.iill.top/logo/中天新闻.png" group-title="新聞財經",中天新聞台
 https://tv.iill.top/litv/4gtv-4gtv009
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://epg.iill.top/logo/中天亚洲.png" group-title="綜合",中天亞洲台
 https://tv.iill.top/litv/4gtv-4gtv109
@@ -123,7 +123,7 @@ https://tv.iill.top/litv/4gtv-4gtv070
 https://tv.iill.top/4gtv/4gtv-live120
 #EXTINF:-1 tvg-id="ELTA生活英語" tvg-name="ELTA生活英語" tvg-logo="https://epg.iill.top/logo/ELTA生活英語.png" group-title="生活旅遊",ELTA生活英語
 https://tv.iill.top/litv/litv-longturn20
-#EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.iill.top/logo/東森新聞.png" group-title="新聞財經",東森新聞
+#EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.iill.top/logo/东森新闻.png" group-title="新聞財經",東森新聞
 https://tv.iill.top/litv/4gtv-4gtv152
 #EXTINF:-1 tvg-id="東森財經新聞" tvg-name="东森财经" tvg-logo="https://epg.iill.top/logo/东森财经.png" group-title="新聞財經",東森財經新聞
 https://tv.iill.top/litv/4gtv-4gtv153
