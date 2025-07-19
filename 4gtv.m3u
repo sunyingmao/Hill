@@ -93,7 +93,7 @@ https://tv.iill.top/litv/4gtv-4gtv034
 https://tv.iill.top/litv/4gtv-4gtv039
 #EXTINF:-1 tvg-id="三立新闻INEWS" tvg-name="三立新闻INEWS" tvg-logo="https://epg.iill.top/logo/三立iNEWS.png" group-title="新聞財經",三立iNEWS
 https://tv.iill.top/4gtv/4gtv-live089
-#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://epg.iill.top/logo/三立綜合台.png" group-title="綜合",三立綜合台
+#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://epg.iill.top/logo/三立綜合.png" group-title="綜合",三立綜合台
 https://tv.iill.top/4gtv/4gtv-live207
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://epg.iill.top/logo/台視.png" group-title="綜合",台視
 https://tv.iill.top/litv/4gtv-4gtv066
@@ -101,21 +101,21 @@ https://tv.iill.top/litv/4gtv-4gtv066
 https://tv.iill.top/litv/4gtv-4gtv051
 #EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://epg.iill.top/logo/台視財經台.png" group-title="新聞財經",台視財經台
 https://tv.iill.top/litv/4gtv-4gtv056
-#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://epg.iill.top/logo/博斯運動一台.png" group-title="體育",博斯運動一台
+#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://epg.iill.top/logo/博斯运动1.png" group-title="體育",博斯運動一台
 https://tv.iill.top/litv/litv-longturn07
-#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://epg.iill.top/logo/博斯運動二台.png" group-title="體育",博斯運動二台
+#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://epg.iill.top/logo/博斯运动2.png" group-title="體育",博斯運動二台
 https://tv.iill.top/litv/litv-longturn08
-#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://epg.iill.top/logo/博斯無限台.png" group-title="體育",博斯無限台
+#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://epg.iill.top/logo/博斯无限.png" group-title="體育",博斯無限台
 https://tv.iill.top/litv/litv-longturn10
-#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://epg.iill.top/logo/博斯無限二台.png" group-title="體育",博斯無限二台
+#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://epg.iill.top/logo/博斯無限2.png" group-title="體育",博斯無限二台
 https://tv.iill.top/litv/litv-longturn13
-#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://epg.iill.top/logo/博斯網球台.png" group-title="體育",博斯網球台
+#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://epg.iill.top/logo/博斯网球.png" group-title="體育",博斯網球台
 https://tv.iill.top/litv/litv-longturn09
-#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://epg.iill.top/logo/博斯高球台.png" group-title="體育",博斯高球一台
+#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://epg.iill.top/logo/博斯高球1.png" group-title="體育",博斯高球一台
 https://tv.iill.top/litv/litv-longturn05
-#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://epg.iill.top/logo/博斯高球二台.png" group-title="體育",博斯高球二台
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://epg.iill.top/logo/博斯高球2.png" group-title="體育",博斯高球二台
 https://tv.iill.top/litv/litv-longturn06
-#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://epg.iill.top/logo/博斯魅力台.png" group-title="體育",博斯魅力台
+#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://epg.iill.top/logo/博斯魅力.png" group-title="體育",博斯魅力台
 https://tv.iill.top/litv/litv-longturn04
 #EXTINF:-1 tvg-id="ELTA娛樂" tvg-name="ELTA 娛樂台" tvg-logo="https://epg.iill.top/logo/ELTA娛樂.png" group-title="音樂綜藝",ELTA 娛樂台
 https://tv.iill.top/litv/4gtv-4gtv070
