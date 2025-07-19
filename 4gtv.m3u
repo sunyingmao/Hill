@@ -77,15 +77,15 @@ https://tv.iill.top/litv/4gtv-4gtv156
 https://tv.iill.top/litv/4gtv-4gtv158
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="其他",TVBS
 https://tv.iill.top/litv/4gtv-4gtv073
-#EXTINF:-1 tvg-id="TVBS-新聞台" tvg-name="TVBS 新聞台" tvg-logo="https://epg.iill.top/logo/TVBS-新聞台.png" group-title="新聞財經",TVBS 新聞台
+#EXTINF:-1 tvg-id="TVBS-新聞台" tvg-name="TVBS 新聞台" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="新聞財經",TVBS 新聞台
 https://tv.iill.top/litv/4gtv-4gtv072
-#EXTINF:-1 tvg-id="TVBS-綜藝台" tvg-name="TVBS 綜藝台" tvg-logo="https://epg.iill.top/logo/TVBS-綜藝台.png" group-title="音樂綜藝",TVBS 綜藝台
+#EXTINF:-1 tvg-id="TVBS-綜藝台" tvg-name="TVBS 綜藝台" tvg-logo="https://epg.iill.top/logo/TVBS综艺.png" group-title="音樂綜藝",TVBS 綜藝台
 https://tv.iill.top/4gtv/4gtv-live087
-#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://epg.iill.top/logo/TVBS歡樂台.png" group-title="音樂綜藝",TVBS歡樂台
+#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://epg.iill.top/logo/TVBS欢乐.png" group-title="音樂綜藝",TVBS歡樂台
 https://tv.iill.top/litv/4gtv-4gtv068
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.iill.top/logo/TVBS精采台.png" group-title="音樂綜藝",TVBS精采台
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.iill.top/logo/TVBS精采.png" group-title="音樂綜藝",TVBS精采台
 https://tv.iill.top/litv/4gtv-4gtv067
-#EXTINF:-1 tvg-id="TVBS-台劇台" tvg-name="TVBS 台劇台" tvg-logo="https://epg.iill.top/logo/TVBS-台劇台.png" group-title="電影戲劇",TVBS 台劇台
+#EXTINF:-1 tvg-id="TVBS-台劇台" tvg-name="TVBS 台劇台" tvg-logo="https://epg.iill.top/logo/TVBS台剧.png" group-title="電影戲劇",TVBS 台劇台
 https://tv.iill.top/4gtv/4gtv-live088
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://epg.iill.top/logo/八大精彩台.png" group-title="音樂綜藝",八大精彩台
 https://tv.iill.top/litv/4gtv-4gtv034
