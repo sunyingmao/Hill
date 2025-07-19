@@ -109,11 +109,9 @@ http://lfdxn.jydjd.top:2903/udp/225.1.1.3:7523
 #EXTINF:-1 group-title="4K",南国都市4K
 http://lfdxn.jydjd.top:2903/udp/225.1.1.2:7523
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="香港🇭🇰",翡翠台(字幕)
-https://mytv.cdn.com.mp/hls/fct/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="香港🇭🇰",翡翠台4K(字幕)
-http://o12.1678520.xyz/hls/fct4k/playlist.m3u8
+http://edge2.163189.xyz/o12.php?id=fct
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/明珠台.png" group-title="香港🇭🇰",明珠台(字幕)
-http://o12.1678520.xyz/hls/mzt/playlist.m3u8
+http://edge2.163189.xyz/o12.php?id=mzt
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="香港🇭🇰",翡翠台4K
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="香港🇭🇰",TVB plus
@@ -134,10 +132,6 @@ http://cdn.163189.xyz/live/fhzw/stream.m3u8
 http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 #EXTINF:-1 group-title="凤凰🐦‍🔥",凤凰香港
 http://cdn3.163189.xyz/live/fhhk/stream.m3u8
-#EXTINF:-1 group-title="影视",星影台
-https://ali.hlspull.yximgs.com/live/xiangjiaogef31fdg31g1gdg.flv
-#EXTINF:-1 group-title="影视",CM+
-http://test.oxxxo.ggff.net/stream/cmplus/playlist.m3u8
 #EXTINF:-1 group-title="影视",长风频道
 http://cfss.cc/cdn/hy/11342424.m3u8
 #EXTINF:-1 group-title="影视",东森洋片
@@ -150,10 +144,6 @@ http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A40056388400563
 https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
 #EXTINF:-1 group-title="影视",纬来电影
 https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
-#EXTINF:-1 group-title="影视",愛爾達影劇
-http://50.7.234.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
-#EXTINF:-1 group-title="影视",美亚电影台
-https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
 #EXTINF:-1 group-title="影视",美亚电影台
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 #EXTINF:-1 group-title="影视",PopC
@@ -282,10 +272,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 group-title="香港🇭🇰",TVB娱乐新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 group-title="综合",愛爾達體育
-http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-#EXTINF:-1 group-title="综合",愛爾達體育2
-http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 #EXTINF:-1 group-title="综合",红牛体育
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 group-title="综合",美亚C+
