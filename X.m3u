@@ -304,14 +304,20 @@ http://php.jdshipin.com/gztv.php?id=fazhi
 http://php.jdshipin.com/gztv.php?id=yingshi
 #EXTINF:-1 tvg-id="广州南国" tvg-name="广州南国" tvg-logo="https://epg.iill.top/logo/广州南国.png" group-title="广东",广州南国都市
 http://php.jdshipin.com/gztv.php?id=shenghuo
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东",潮州综合
+http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州民生.png" group-title="广东",潮州民生
+http://livezhpd.czbtv.com:38880/live/ggpd.m3u8?secret=czbtv20250301
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳综合.png" group-title="广东",揭阳综合
 http://hls-jyrtv.jyrtv.tv/stjy2020/zhpd.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
 http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="广东",汕头综合
+http://124.222.114.206/sxtv.php?id=st1
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头经济生活.png" group-title="广东",汕头经济生活
+http://124.222.114.206/sxtv.php?id=st1
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东",潮州综合
 http://tv.zzlag.top:9003/hls/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东",潮州综合
-http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州民生.png" group-title="广东",潮州民生
 http://tv.zzlag.top:9003/hls/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="广东",汕头综合
@@ -323,14 +329,14 @@ http://tv.zzlag.top:9003/hls/6/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
 http://tv.zzlag.top:9003/hls/7/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东",潮州综合
-http://218.18.239.209:8888/udp/239.253.43.70:5146
+http://home.l-ht.cn:4000/rtp/239.253.43.70:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州民生.png" group-title="广东",潮州民生
-http://218.18.239.209:8888/udp/239.253.43.75:5146
+http://home.l-ht.cn:4000/rtp/udp/239.253.43.75:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="广东",汕头综合
-http://218.18.239.209:8888/udp/239.253.43.45:5146
+http://home.l-ht.cn:4000/rtp/239.77.0.130:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头经济生活.png" group-title="广东",汕头经济生活
-http://218.18.239.209:8888/udp/239.253.43.46:5146
+http://home.l-ht.cn:4000/rtp/239.77.0.131:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳综合.png" group-title="广东",揭阳综合
-http://218.18.239.209:8888/udp/239.77.0.229:5146
+http://home.l-ht.cn:4000/rtp/239.77.0.229:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
-http://218.18.239.209:8888/udp/239.77.0.251:5146
+http://home.l-ht.cn:4000/rtp/239.77.0.251:5146
