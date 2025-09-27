@@ -1,3 +1,37 @@
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•央卫「海外」",CCTV 1 综合
+https://tv.iill.top/x/cctv1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="•央卫「海外」",CCTV 2 财经
+https://tv.iill.top/x/cctv2
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" group-title="•央卫「海外」",CCTV 3 综艺
+https://tv.iill.top/x/cctv3
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="•央卫「海外」",CCTV 4 中文国际
+https://tv.iill.top/x/cctv4
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="•央卫「海外」",CCTV 5 体育
+https://tv.iill.top/x/cctv5
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="•央卫「海外」",CCTV 5+ 体育赛事
+https://tv.iill.top/x/cctv5+
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="•央卫「海外」",CCTV 6 电影
+https://tv.iill.top/x/cctv6
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.iill.top/logo/CCTV8.png" group-title="•央卫「海外」",CCTV 8 电视剧
+https://tv.iill.top/x/cctv8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.iill.top/logo/CCTV9.png" group-title="•央卫「海外」",CCTV 9 纪录
+https://tv.iill.top/x/cctv9
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="•央卫「海外」",CCTV 13 新闻
+https://tv.iill.top/x/cctv13
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="•央卫「海外」",CCTV 16 奥林匹克
+https://tv.iill.top/x/cctv16
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="•央卫「海外」",北京卫视
+https://tv.iill.top/x/bjws
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="•央卫「海外」",江苏卫视
+https://tv.iill.top/x/jsws
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视.png" group-title="•央卫「海外」",东方卫视
+https://tv.iill.top/x/dfws
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="•央卫「海外」",湖南卫视
+https://tv.iill.top/x/hnws
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="•央卫「海外」",浙江卫视
+https://tv.iill.top/x/zjws
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="•央卫「海外」",广东卫视
+https://tv.iill.top/x/gdws
 #EXTINF:-1 group-title="央视",CCTV1
 http://lfdxn.jydjd.top:2903/udp/224.1.100.90:11111
 #EXTINF:-1 group-title="央视",CCTV2
