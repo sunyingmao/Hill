@@ -93,39 +93,3 @@ http://go.bkpcp.top/mg/gdms
 http://150.138.77.132:10037/1905%E7%94%B5%E5%BD%B1%E7%BD%91.php?id=1905
 #EXTINF:-1 group-title="国内频道",深圳卫视4k
 https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
-#EXTINF:-1 group-title="港台频道",有线新闻
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
-#EXTINF:-1 group-title="港台频道",无线新闻
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
-#EXTINF:-1 group-title="港台频道",无线翡翠
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge15131132145.flv
-#EXTINF:-1 group-title="港台频道",无线翡翠
-http://erp.giihgtidg.com:8080/live/jade01.m3u8
-#EXTINF:-1 group-title="港台频道",有线综合
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
-#EXTINF:-1 group-title="港台频道",有线综合
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogehoy77511.flv
-#EXTINF:-1 group-title="港台频道",民视第一频标
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
-#EXTINF:-1 group-title="港台频道",民视闽南频标
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
-#EXTINF:-1 group-title="港台频道",东森超视频标
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dscs.flv
-#EXTINF:-1 group-title="港台频道",东森综合
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dszh.flv
-#EXTINF:-1 group-title="港台频道",中天亚洲频标
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
-#EXTINF:-1 group-title="港台频道",中天综合
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
-#EXTINF:-1 group-title="港台频道",八大第一
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
-#EXTINF:-1 group-title="港台频道",ELta娱乐频标
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
-#EXTINF:-1 group-title="港台频道",凤凰电影频标
-http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-#EXTINF:-1 group-title="港台频道",无线赛马
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogemytv0318.flv
-#EXTINF:-1 group-title="港台频道",Plus综合
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
-#EXTINF:-1 group-title="移动网络",风云足球
-http://sh.lnott.top:880/dx71.m3u8
