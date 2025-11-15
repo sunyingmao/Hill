@@ -170,20 +170,7 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="综合",摔跤
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="广东",广东体育
-http://lfdxn.jydjd.top:2903/udp/224.1.100.34:11111
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="广东",广东珠江
-http://lfdxn.jydjd.top:2903/udp/224.1.100.23:11111
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/广东影视.png" group-title="广东",广东影视
-http://lfdxn.jydjd.top:2903/udp/224.1.100.154:11111
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/岭南戏曲.png" group-title="广东",岭南戏曲
-http://lfdxn.jydjd.top:2903/udp/224.1.100.157:11111
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/广东新闻.png" group-title="广东",广东新闻
-http://lfdxn.jydjd.top:2903/udp/224.1.100.155:11111
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/广东民生.png" group-title="广东",广东民生
-http://lfdxn.jydjd.top:2903/udp/224.1.100.152:11111
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/经济科教.png" group-title="广东",经济科教
-http://lfdxn.jydjd.top:2903/udp/224.1.100.158:11111
+
 #EXTINF:-1 tvg-id="广州综合台" tvg-name="广州综合台" tvg-logo="https://epg.iill.top/logo/广州综合.png" group-title="广东",广州综合
 http://php.jdshipin.com/gztv.php?id=zhonghe
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.iill.top/logo/广州新闻.png" group-title="广东",广州新闻
