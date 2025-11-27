@@ -1,0 +1,31 @@
+#EXTM3U
+#EXT-X-APP APTV
+
+#EXTINF:-1 group-title="BXTV",myTV SUPER 18台
+http://bxtv.3a.ink/api.php?id=18
+#EXTINF:-1 group-title="BXTV",TVB Plus
+http://bxtv.3a.ink/api.php?id=tvbp
+#EXTINF:-1 group-title="BXTV",明珠台
+http://bxtv.3a.ink/api.php?id=mz
+#EXTINF:-1 group-title="BXTV",無線新聞台
+http://bxtv.3a.ink/api.php?id=wxxw
+#EXTINF:-1 group-title="BXTV",美亞電影台
+http://bxtv.3a.ink/api.php?id=meiya
+#EXTINF:-1 group-title="BXTV",千禧經典台
+http://bxtv.3a.ink/api.php?id=qxjd
+#EXTINF:-1 group-title="BXTV",翡翠台
+http://bxtv.3a.ink/api.php?id=fct
+#EXTINF:-1 group-title="BXTV",鳳凰衛視中文台
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 group-title="BXTV",鳳凰衛視資訊台
+http://bxtv.3a.ink/api.php?id=fhzx
+#EXTINF:-1 group-title="BXTV",鳳凰衛視香港台
+http://bxtv.3a.ink/api.php?id=fhhk
+#EXTINF:-1 group-title="BXTV",POPC
+http://bxtv.3a.ink/api.php?id=popc
+#EXTINF:-1 group-title="BXTV",NOW爆谷台
+http://bxtv.3a.ink/api.php?id=baogu
+#EXTINF:-1 group-title="BXTV",NOW爆谷星影台
+http://bxtv.3a.ink/api.php?id=xingying
+#EXTINF:-1 group-title="BXTV",中天新聞台
+http://bxtv.3a.ink/api.php?id=ztxw
