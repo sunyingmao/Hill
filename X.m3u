@@ -198,13 +198,13 @@ http://tv.zzlag.top:9003/hls/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州民生.png" group-title="广东",潮州民生
 http://tv.zzlag.top:9003/hls/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="广东",汕头综合
-http://tv.zzlag.top:9003/hls/3/index.m3u8
+http://183.10.180.98:212/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头经济生活.png" group-title="广东",汕头经济生活
-http://tv.zzlag.top:9003/hls/4/index.m3u8
+http://183.10.180.98:212/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳综合.png" group-title="广东",揭阳综合
-http://tv.zzlag.top:9003/hls/6/index.m3u8
+http://183.10.180.98:212/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
-http://tv.zzlag.top:9003/hls/7/index.m3u8
+http://183.10.180.98:212/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东",潮州综合
 http://116.21.205.105:9527/udp/239.253.43.70:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州民生.png" group-title="广东",潮州民生
