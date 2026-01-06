@@ -33,14 +33,14 @@ http://113.102.83.21:4022/udp/239.77.0.229:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
 http://113.102.83.21:4022/udp/239.77.0.251:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="广东",潮州综合
-http://116.28.124.199:5000/udp/239.253.43.70:5146
+http://116.22.147.183:54321/udp/239.253.43.70:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/潮州民生.png" group-title="广东",潮州民生
-http://116.28.124.199:5000/udp/239.253.43.75:5146
+http://116.22.147.183:54321/udp/239.253.43.75:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="广东",汕头综合
-http://116.28.124.199:5000/udp/239.253.43.45:5146
+http://116.22.147.183:54321/udp/239.253.43.45:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/汕头经济生活.png" group-title="广东",汕头经济生活
-http://116.28.124.199:5000/udp/239.253.43.46:5146
+http://116.22.147.183:54321/udp/239.253.43.46:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳综合.png" group-title="广东",揭阳综合
-http://116.28.124.199:5000/udp/239.77.0.229:5146
+http://116.22.147.183:54321/udp/239.77.0.229:5146
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/揭阳生活.png" group-title="广东",揭阳生活
-http://116.28.124.199:5000/udp/239.77.0.251:5146
+http://116.22.147.183:54321/udp/239.77.0.251:5146
