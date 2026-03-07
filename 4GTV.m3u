@@ -1,21 +1,21 @@
 #EXTM3U
 #EXT-X-APP APTV
 
-#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" http-user-agent="okhttp/1.9.89" tvg-logo="https://epg-1.iill.top/logo/博斯運動一台.png" group-title="•台湾「限制」",博斯運動 一「CatchPlay」
+#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" http-user-agent="okhttp/1.9.89" tvg-logo="https://epg-1.iill.top/logo/博斯運動一台.png" group-title="体育",博斯運動 一「CatchPlay」
 https://hls.iill.top/api/Sports-Network/index.m3u8
-#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" http-user-agent="okhttp/1.9.89" tvg-logo="https://epg-1.iill.top/logo/博斯運動二台.png" group-title="•台湾「限制」",博斯運動 二「CatchPlay」
+#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" http-user-agent="okhttp/1.9.89" tvg-logo="https://epg-1.iill.top/logo/博斯運動二台.png" group-title="体育",博斯運動 二「CatchPlay」
 https://hls.iill.top/api/Football-Channel/index.m3u8
-#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" http-user-agent="okhttp/1.9.89" tvg-logo="https://epg-1.iill.top/logo/博斯無限台.png" group-title="•台湾「限制」",博斯無限 一「FainTV」
+#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" http-user-agent="okhttp/1.9.89" tvg-logo="https://epg-1.iill.top/logo/博斯無限台.png" group-title="体育",博斯無限 一「FainTV」
 https://tv.iill.top/FainTV/129
-#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" http-user-agent="okhttp/1.9.89" tvg-logo="https://epg-1.iill.top/logo/博斯無限二台.png" group-title="•台湾「限制」",博斯無限 二「FainTV」
+#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" http-user-agent="okhttp/1.9.89" tvg-logo="https://epg-1.iill.top/logo/博斯無限二台.png" group-title="体育",博斯無限 二「FainTV」
 https://tv.iill.top/FainTV/418
-#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" http-user-agent="okhttp/1.9.89" tvg-logo="https://epg-1.iill.top/logo/博斯高球台.png" group-title="•台湾「限制」",博斯高球 一「FainTV」
+#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" http-user-agent="okhttp/1.9.89" tvg-logo="https://epg-1.iill.top/logo/博斯高球台.png" group-title="体育",博斯高球 一「FainTV」
 https://tv.iill.top/FainTV/108
-#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" http-user-agent="okhttp/1.9.89" tvg-logo="https://epg-1.iill.top/logo/博斯高球二台.png" group-title="•台湾「限制」",博斯高球 二「FainTV」
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" http-user-agent="okhttp/1.9.89" tvg-logo="https://epg-1.iill.top/logo/博斯高球二台.png" group-title="体育",博斯高球 二「FainTV」
 https://tv.iill.top/FainTV/125
-#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" http-user-agent="okhttp/1.9.89" tvg-logo="https://epg-1.iill.top/logo/博斯網球台.png" group-title="•台湾「限制」",博斯網球「FainTV」
+#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" http-user-agent="okhttp/1.9.89" tvg-logo="https://epg-1.iill.top/logo/博斯網球台.png" group-title="体育",博斯網球「FainTV」
 https://tv.iill.top/FainTV/53
-#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" http-user-agent="okhttp/1.9.89" tvg-logo="https://epg-1.iill.top/logo/博斯魅力台.png" group-title="•台湾「限制」",博斯魅力「FainTV」
+#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" http-user-agent="okhttp/1.9.89" tvg-logo="https://epg-1.iill.top/logo/博斯魅力台.png" group-title="体育",博斯魅力「FainTV」
 https://tv.iill.top/FainTV/135
 #EXTINF:-1 tvg-id="緯來日本台" http-user-agent="okhttp/1.9.89" tvg-logo="https://epg.iill.top/logo/緯來日本.png" group-title="•台湾「限制」",緯來日本「Relay」
 https://hls.iill.top/api/VL-Japan/index.m3u8
